@@ -1,0 +1,685 @@
+@Lionheart: Legacy of the Crusader, Developer: Reflexive Entertainment, Publisher: Black Isle Studios, August 2003, PC. 
+
+Head hover text=Choose your appearance.  Your selection will not change game play.
+Color hover text=Select a color
+Name hover text=What's a character without a name? Giving yourself a tough sounding name won't make you any tougher, but it will make you feel tougher.
+Tag skill hover text=Your tag skill is a skill in which you have a lot of background, training, discipline or schooling in and it can therefore be developed faster and cheaper than all of your other skills. This is a good thing. (We would suggest choosing at least one fighting or offensive spell Tag Skill.)
+Race hover text=Determines how your character will look in the game. More importantly, this determines the initial value for attributes and the possible range of each attribute.
+Spitit hover text=Selection of spirit affects two things: First, the spirit that you select has their own personality, and will bring that to each encounter you have with them. Second, each one has a propensity for a Magic Discipline in the game...Tribal, Divine or Thought. Each will bring a minor assistance to the character within that particular Discipline.
+Attributes hover text=These base attributes are a numerical represention of what your character has developed themselves into during their lifetime. Other attributes, such as Hit Points, Armor Class, Spell Resistances and more will be derived from these values.
+Racial Trait hover text=All races besides humans have Racial Traits. These are distinctive characteristics that set that individual apart from humanity. One Racial Trait MUST be selected; they are not optional.
+Trait hover text=Traits are optional. They exist to further personalize your character, and each trait has a combination of something bad and something good.
+You have found and tapped into the power of the first Ways Crystal.
+You have found and tapped into the power of the second Ways Crystal. There are three more crystals you must find.
+You have found and tapped into the power of the third Ways Crystal. There are two more crystals you must find.
+You have found and tapped into the power of the fourth Ways Crystal. There is one more crystal you must find.
+You have found and tapped into the power of all five Ways Crystal. You have now harnassed their energies.
+Access the Ways Crystal
+You have agreed to help Brambles find a cure for the curse that transformed him into a tree. Brambles believes that Relican, the exiled necromancer, holds the cure to undo the curse. Relican has fled Barcelona and may be hiding deep in the western forest.
+You have gained a Potion of Transformation from the necromancer Relican, which you believe might be the cure for the curse on Brambles. You must return to La Calle Perdida and bring the cure to Brambles.
+Through Cedric's spies, you have learned that the Knights Templar have lost contact with the monks of Montserrat Abbey and they fear for the safety of the relics. Cedric has asked you to travel to Montserrat to make sure the relic does not fall into the wrong hands.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. You promised a dying knight of the Abbey that you would travel to Montaillou and tell Brother Michel of the relic's theft.
+Lord Relican has commanded you to travel to Montserrat Abbey and claim the Crown of Thorns to further the influence and power of the Dark Wielders.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. A dying knight of the Abbey asked you to travel to Montaillou and tell Brother Michel of the relic's theft.
+Now that the Darkwood has been shaped into a wand, you must empower it with the proper spirit. To do this, you must seek out Galileo who is imprisoned deep within the Chambers of the Inquisition.
+Galileo has granted you the ability to see a hidden spirit within the Observatory. You must go to the Observatory in the Temple District and obtain the spirit to complete your wand.
+The Wand of Spirits now has been empowered. You must return to La Calle Perdida and speak with Cedric and tell him that you are ready to continue with the initiation.
+Lord Relican has ordered you to visit Quinn the herbalist in the Gate District. If you cannot convince Quinn to join the Dark Wielders, you must eliminate him.
+Return to La Calle Perdida and inform Lord Relican that Quinn has joined the Dark Wielders.
+Return to La Calle Perdida and inform Lord Relican that Quinn refused to join the Dark Wielders, so you killed him.
+As part of your initiation into the Dark Wielders, you must recover a lost item of dark power. Relican has ordered you to recover the fabled Sceptre of Bone, and he believes that a powerful figure within Barcelona is protecting it, possibly Leonardo DaVinci himself.
+You must return to La Calle Perdida and deliver the Sceptre of Bone to Lord Relican.
+Cedric has tasked you to find a supply of magical Darkwood so that you can create a Wand of Spirits. Seek the woodcutter in the forest west of Barcelona.
+The woodcutter cannot enter the Darkwood cave below his house, as dark undead creatures have risen to haunt the cave. You must destroy all the undead to obtain the Darkwood.
+Now that you have destroyed the undead, return to the woodcutter Felipe and tell him that you have accomplished his task.
+You have obtained a supply of Darkwood from Felipe the woodcutter. Now you must return to La Calle Perdida and speak with Cedric, so that he can shape your Wand of Spirits.
+Through the spies of the Wielders, you have learned that enemies of the Knights Templar seek the hidden relic within Montserrat. Cedric fears that the enemies of the Knights Templar might use the relic for great evil.
+Cedric has asked you to go to Montserrat and protect the relic from the danger. To reach Montserrat, you must use a magic crystal to teleport to Montserrat.
+Cedric has tasked you to track down Relican, exiled necromancer and enemy of La Calle Perdida, and eliminate him. Cedric believes that Relican has taken refuge somewhere in the deep western forest.
+You must confront and destroy the necromancer Relican.
+Now that you have defeated Relican, return to La Calle Perdida and tell Cedric that Relican threatens the Wielders no more.
+Locate the Rod of Bone
+Return the Rod of Bone to Relican
+Force Herbalist to Join Dark Wielders or die
+Learn about Relics from Knights Templar
+Share Relic knowledge with Relican
+Lord Relican has dispatched a dark servant to spy on the Knights Templar.
+Retrieve the Darkwood from the Woodcutter
+Talk to Galileo in the Inquisition Chambers
+Obtain spirit from Galileo's Observatory
+Kill Relican outside the Slaver's Pits
+Return the Darkwood to Calle Perdida
+Return the Spirit Wand to Calle Perdida
+Report Relicans death to Wielders
+You have agreed to sell any rare books you find to Weng Choi in the Gate District. He is an avid collector of unique tomes and promises to pay well.
+Weng Choi in the Gate District has asked you to complete his collection of the Crusades Anthology. Weng Choi will also buy any other rare book you find.
+You have agreed to help Leonardo DaVinci complete his design for a unique magical repeating crossbow. However, DaVinci cannot convince his uncooperative steam machine to create the necessary gears. You must speak with steam machine and ask it to forge the gears.
+DaVinci has asked you to obtain a special lens needed for the crossbow's magical targeting. DaVinci suggested that you obtain the lens within Galileo's telescope from the Temple District's Observatory.
+DaVinci's obnoxious steam machine demands that you give it magical potion before it can create the crossbow's gears.
+You have convined the steam machine to forge the gears, now bring the gears to DaVinci.
+You have obtained the lens from Galileo's telescope. Now return to DaVinci's workshop in the Port District so the crossbow can be completed.
+The conspirator Guy Fawkes has asked you to find Captain Isabella in the Port District and learn about the plans for the Spanish Armada.
+You have changed your mind and have told the Duke of Medina that you will deal with the conspirator in the Gate District.
+Return to the Duke of Medina in the Port District and inform him that the conspirator has been slain.
+You must return to the conspirator outside the Gate District and divulge Captain Isabella's plans for the Spanish Armada.
+Seek out the Duke of Medina in the Port District and lure him to the conspirator's trap.
+Return to the conspirator in the Gate District and inform him that the Duke of Medina has been slain.
+You have agreed to meet with the conspirator just outside of Barcelona's Gate District. He wants to discuss how you can help him aid England against Spain.
+The conspirator has been killed, so this quest has ended.
+Since Captain Isabella has departed before you could learn of the plans, you must return to the conspirator Guy Fawkes in the Gate District and tell him that you now cannot learn the plans of the Armada.
+Unable to control your indecisive demons that provoke random fits of rage, you've decided *again* that you should slay the Duke. Now that the Duke is finally dead, return to Guy Fawkes in the Gate District and tell him the deed is done.
+DaVinci strongly advises you to gain a powerful ally against your enemies. Search Barcelona and speak with the faction leaders about joining one of the orders.
+Return to Amir when you are ready for the Trial of Dreams
+Amir has requested as part of his custom that you give a valuable gem to honor the order of the Knights of Saladin.
+Find the blacksmith in the Gate District and forge a Sacred Scimitar
+Do as Blacksmith requests
+Bring Scimitar to Amir in Gate District
+Amir has requested as part of his custom that you give a valuable gem to honor the order of the Knights of Saladin.
+You have accepted Amir's challenge to face the Dream Djinni. You must complete the trials of the Dream Djinni to continue the path of the Favored of the Knights of Saladin. 
+Return to the Gate District and tell Amir that you have completed the trials of the Dream Djinni.
+You have decided that you more need time to prepare for the trials of the Dream Djinni. When you are ready, return to Amir to continue the trials.
+You have failed the Trial of Dreams. You must speak with Amir about how to return to the Dream Plane.
+You have agreed to track down a group of slavers operating beyond the walls of Barcelona. The slavers have stolen the Shard of Dreams, a priceless jewel of the Knights of Saladin. You must search the western forest for the slavers' lair and recover the Shard. 
+You must find the Shard of Dreams for the Knights of Saladin.
+Now that you have recovered the Shard of Dreams, return to Amir at Barcelona's Gate District.
+Amir has asked you to find a man named Ali Huban, an eastern trader somewhere within Barcelona. Amir suggested that you speak with his brothers of the Knights of Saladin to learn of Ali Huban's whereabouts.
+Deliver the report from Ali Huban to Amir
+Farshid of the Knights of Saladin has told you that Ali Huban is fond of the seedier parts of the city. He recommends that you search for Ali in the Port District.
+Farshad of the Knights of Saladin has told you that Ali Huban is a master of disguises and may be difficult to track.
+Learn the fate of the knights and ensure safety of the Crown of Thorns
+Eduardo the blacksmith has asked you to recover his stolen sword. Eduardo believes that a beggar named Felgnash stole the sword and is now hiding in the sewers below Barcelona.
+You have recovered Eduardo's stolen sword. Return to the blacksmith's shop in the Gate District and deliver the weapon to Eduardo.
+Eduardo the blacksmith has asked you to recover a supply of specially magnetized silver that he needs to forge magical items. He believes that the goblins have seized the only known mine for this silver, in a cave north of the crossroads.
+Return to the Gate District of Barcelona and give the magnetized silver to Eduardo the blacksmith.
+To finish the mechanical arm for Cortes, Davinci needs a supply of magical Red Ore. DaVinci believes that Eduardo the blacksmith in the Gate District might know where to find Red Ore. 
+Eduardo the blacksmith has informed you that he does not have any Red Ore. However, Eduardo told you to go to the sewers below Barcelona and obtain Red Ore directly from the lava trolls.
+You must return to DaVinci's workshop and deliver the Red Ore so DaVinci can complete the mechanical arm.
+You have agreed to help the tainted merchant by rescuing his kidnapped sister. You must enter the merchant's den, found right behind the merchant, that the ransomers have taken over and rescue his sister.
+Return to the Gate District and tell the merchant what his sister told you.
+You must escort Malihandra safely through the ransomer's den and back to the Gate District.
+Quinn the herbalist demands proof that you wield magic before he will tell you anything of the Wielders. Approach the book in his shop and read it to activate the magic within its pages.
+Quinn the herbalist has given you a charm that grants you the ability to pass through the hidden entrance to La Calle Perdida. Search the Gate District and find the secret entrance along one of the western walls.
+Hrubjub has asked you to enter Barcelona and tell him how many guards are posted around the courtyard.
+Return to Hrubjub to tell him that two guards wait at the gate and that the courtyard is weakly defended.
+You have agreed to help William Shakespeare with his debt. You must go to the Temple District and convince the moneylender Shylocke to give Shakespeare more time to repay the debt. 
+Return to the Port District and tell Shakespeare that Shylocke has granted him more time to repay the debt.
+Tell Shakespeare that due to Shylocke's 'untimely' passing, his debt has been forgiven.
+Fearing the power of England's Weather Wizards, Captain Isabella asked you to obtain a wind scroll discreetly. Such magic would only be sold by a merchant clever enough to avoid persecution from the Inquisition.
+You have obtained a wind scroll from the merchant Weng Choi. Now you must deliver the scroll to Captain Isabella in the Port District.
+You have agreed to enter the sewers and search for the lost boy Tomas.
+Return to Marisol and tell her that you found her brother Tomas.
+You have told Hernan Cortes that you will find Leonardo DaVinci and ask if his mechanical arm invention is complete. DaVinci mentioned that he would either be at the Gate District, or within his workshop in the Port District.
+Leonardo DaVinci has told you that Eduardo the blacksmith will need a supply of a Red Ore to complete Cortes' mechanical arm. DaVinci wants you to speak with the blacksmith in Barcelona's Gate District so that you can learn where to find the Red Ore.
+The mechanical arm is now complete. DaVinci has asked you to deliver the new arm to Cortes at La Serpienta Vieja, the tavern in Barcelona's Port District.
+Eduardo the Blacksmith needs a supply of a rare iron, Red Ore, found only beneath the sewers of Barcelona. Eduardo warned you that the Red Ore is guarded by lava trolls.
+You must bring the supply of Red Ore back to Eduardo the Blacksmith in Barcelona's Gate District.
+Eduardo has fashioned the gears necessary for Cortes' mechanical arm. He has asked you to bring them to DaVinci, so that the new arm can be completed.
+Search the coast for Fernand's missing brother and see if it is possible to save him.
+Return to Fernand and tell him that unfortunately, his brother perished.
+You have agreed to accompany Cortes to the area he marked on your world map and find the lost treasure.
+William Shakespeare has asked you to recover his stolen muse. You must speak with the moneylender Shylocke in the Temple District and obtain the muse for Shakespeare.
+You have obtained the muse for Shakespeare. Return the muse to Shakespeare's hovel in the Port District.
+You have chosen the wrong chest and lost the key you purchased from Shylocke. If you cannot open the chests through other means, you must return to Shakespeare in the Port District and speak with him.
+You have told William Shakespeare that you will continue your quest to rescue the muse. Since you have already used Shylocke's key, you will have to improve your Lockpick skill in order to unlock Shylocke's chest and rescue the muse.
+Since you cannot open Shylocke's chests, you have told William Shakespeare that you cannot rescue the muse.
+You promised the sylvant Bartolomé that you would help his brother Renaldo escape from the Chambers of the Inquisition. When you find Renaldo, you must give him the potion from Bartolomé.
+Return to Bartolomé in the Port District and tell him that his brother is freed.
+After encountering a prisoner named Renaldo in the Chambers of the Inquisition, you promised that you would help him escape. Renaldo has told you to seek out his brother in the Port District to help plan an escape.
+You have been hired by the moneylender Shylocke to collect a debt from a deadbeat bard named William. You must go to William's house in the Port District.
+Now that you have found William, you must encourage him to repay Shylocke.
+You must return to the Temple District and deliver Shakespeare's payment.
+The demon imprisoned within the Chambers of the Inquisition has made you a dark offer. The demon has asked you to lure Faust, another prisoner in the Chambers of the Inquisition, back to him.
+The moneylender Shylocke has tasked you to find a 'deadbeat' bard named William in the Port District. You agreed to collect Shylocke's debt from William the bard.
+You have convinced William the bard to pay his debt to the moneylender Shylocke. You must return to Shylocke's shop in the Temple District and tell him that you have convinced Shakespeare to pay his debts.
+Lord Javier of the Knights Templar has asked you to travel to Montserrat Abbey to ensure the safety of a relic. Since Lord Javier indicated the location of Montserrat on your map, you can use a magic crystal to teleport there directly.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. You promised a dying knight of the Abbey that you would travel to Montaillou and tell Brother Michel of the relic's theft.
+You have agreed to help Miguel Cervantes track a dangerous monster known as 'la bestia'. You must follow Cervantes so that he can lead you to the creature.
+You have been told by Leonardo DaVinci that Cervantes used a magic quill that inadertantly conjured a shade. DaVinci has told you that you and Cervantes must confront the shade where it was created, by the windmill on Barcelona's coast.
+For attacking city property, Cervantes has been captured by the Knights Templar and imprisoned within the Chambers of the Inquisition. To continue your quest, you must find Cervantes and help him leave the dungeon.
+You have realized that Cervantes is a bit 'confused', so you diplomatically asked if you could lead him to la bestia. Cervantes will follow you while you continue the search for la bestia.
+Cervantes has died, so the quest for La Bestia has failed.
+Inquisitor Raphael has asked you to seek out Inquisitor Dominguez in the Temple District.
+Do whatever Dominguez asks of you.
+Return to Inquisitor Raphael in the Chambers of the Inquisition and tell him that you have completed Dominguez's task.
+Inquisitor Raphael has tasked you to create a holy implement, the Rod of the Inquisition. You must first obtain Darkwood from a woodcutter in the wilderness beyond the walls of Barcelona.
+The woodcutter Felipe has asked you to destroy all the undead in his Darkwood cave. Once all the undead creatures are destroyed, he will give you a supply of Darkwood.
+Now that the undead are destroyed, return to Felipe the woodcutter and tell him that all the undead have been eliminated.
+You have obtained the required supply of Darkwood. Return to Inquisitor Raphael in Barcelona's Temple District and tell him that you have the first component for the Rod of the Inquisitor.
+To consecrate the Rod of the Inquisitor, it must be bound with a holy relic. Inquisitor Raphael has asked you to go to the Cathedral in the Temple District and obtain a hair of a saint from the crypt below.
+Now that you have obtained the hair of a saint, return to Inquisitor Raphael in the Chambers of the Inquisition.
+To complete the Rod of the Inquisitor, it must be prepared by Grand Inquisitor Torquemada. Raphael mentioned that Torquemada waits within a private room somewhere within the Chambers of the Inquisition. You must either find the secret door, or find someone who can open it for you.
+Now that you have spoken with the Grand Inquisitor, return to Raphael to continue the initiation.
+Inquisitor Raphael has asked you to sacrifice a tithe of 1,500 gold to begin the initiation path of the Inquisition. When you have gathered enough gold, speak with Inquisitor Raphael.
+You possesses sufficient gold to pay the tithe to the Inquisition. Return to Inquisitor Raphael in the Temple District to begin the initiation path of the Inquisition.
+Inquisitor Raphael has asked you to deal with the Afflicted, a dangerous group of lycanthrope creatures hiding in the Sewers beneath Barcelona. You must seek out the Afflicted and ensure that they no longer pose a threat to the Inquisition.
+You must return to the Chambers of the Inquisition and tell Raphael you've ended the threat of the Afflicted.
+Inquisitor Raphael has asked you to find and rescue Inquisitor Darsh. Raphael believes that Darsh has been captured by goblins somewhere in the western forest outside of Barcelona.
+You must return to the Chambers of the Inquisition in Barcelona's Temple District and tell Inquistor Raphael that you have saved Darsh from the goblins.
+You must return to the Chambers of the Inquisition in Barcelona's Temple District and tell Inquistor Raphael that Darsh perished in the goblin village.
+Escort Inquisitor Darsh safely through the goblin village, and return him to the Gate District of Barcelona.
+Inquisitor Raphael has given you the important task of ferreting out the location of La Calle Perdida, the lost street where the Wielders congregate. You must find and enter La Calle Perdida so the magic-wielding heretics can be brought to justice.
+Tell Raphael you've found La Calle Perdida
+Lord Javier of the Knights Templar is concerned that the monks of Montserrat Abbey have not reported back to the Inquisition. It is feared that thieves could have stolen the relic hidden within the monastery. You have agreed to travel to Montserrat and investigate.
+After investigating Montserrat, you have discovered that assassins have murdered the monks and stolen the relic they guarded. You must return to Barcelona's Temple District and inform Inquisitor Raphael of this tragedy.
+Inquisitor Raphael has informed you that it is customary to pay a tithe before an aspirant can attempt to join the Inquisition. You must gather 1,000 gold and sacrifice this fortune to the Inquisition, thus proving your dedication to the order.
+You have acquired the sufficient amount of gold for the Inquisitor's tithe. You must return to Inquisitor Raphael in the Temple District and donate a tithe of 1,000 gold to the Inquisition before you can begin the initiation.
+Lord Fernandez has asked you to travel to Montaillou and discover the hidden resting place of the Crypt of the Knights Templar. You must journey to the Crypt and ensure the safety of the relic within it.
+In order to gain favor with Sir Auric, you agreed to track down and deal with the thief named Benito. Sir Auric belives Benito operates in the alleys of the Port District.
+You must return to the Armory in the Temple District and inform Sir Auric that you have dealt with Benito the thief.
+Sir Auric is concerned that a knight patrol has been lost in the sewers. You have agreed to search the sewers beneath Barcelona to discover the fate of the missing knight.
+You must report back to Sir Auric and inform him that the missing knight met an unfortunate end in the sewers.
+You must report back to Sir Auric and tell him that you found the missing knight in the sewers and safely escorted him back safely to the surface.
+Now that you have found the missing knight, you must escort him through the sewers and bring him back to the surface alive.
+In order to begin the initiation of the Knights Templar, you must donate a portion of your fortune to the cause of the Knights Templar. Lord Javier Fernandez has asked that you donate 1,000 gold to the order.
+Lord Javier has asked you to find and disrupt a slaving operation that is plaguing Barcelona. The slavers have a hidden compound somewhere in the wilderness west of Barcelona.
+Now that you have found the slave pits, you must deal with the slavers so that they no longer threaten the citizens of Barcelona.
+You must return to Lord Javier Fernandez in the Temple District and inform him that you have completed the task.
+You have convinced the leader of the Slavers to leave the area. You must return to Lord Javier Fernandez in the Temple District and inform him that you have completed the task.
+Lord Javier has told you to forge a Lion Shield to guard you against evil. To create the shield, you must seek out the expertise of the blacksmith in the Gate District.
+After speaking with the blacksmith, you must gather any materials or complete any tasks he asks of you to forge the Lion Shield.
+You must return to the Temple District and inform Lord Javier that you have your Lion Shield.
+You have been tasked to find Sir Esteban at the Crossroads, beyond the walls of Barcelona, and offer your assistance.
+You must complete any tasks Sir Esteban asks of you to continue your initiation for the Knights Templar.
+You must return to Barcelona's Temple District and inform Lord Javier that you have completed Sir Esteban's quests.
+Sir Auric has agreed to sponsor your initiation into the order of the Knights Templar. He has told you to go to the Temple District and seek Lord Javier Fernandez within the Cathedral.
+Lord Javier Fernandez has ordered you to return to Sir Auric in the Armory of the Temple District. Once there, you must offer Sir Auric your assistance and complete his tasks.
+You must complete the tasks Sir Auric has asked of you.
+You must report back to Lord Javier in the Temple District and tell him that you have completed Auric's tasks.
+You have been asked to obtain a supply of magical Darkwood. You must seek out the woodcutter in the western forest who possesses the only known supply of Darkwood.
+Felipe the woodcutter has told you that a horde of undead monsters has risen to haunt the cave below his home. Since the Darkwood only grows in the cave, you must destroy all the undead before you can obtain Darkwood.
+You have destroyed all the undead haunting the Darkwood cave. Return to Felipe and tell him that his Darkwood cave is now clear of undead.
+Grand Inquisitor Torquemada has asked you to perform a service for the Inquisition. Later in your travels, you are to find and eliminate the shadow dryad hiding among the French village of Montaillou. Torquemada believes the shadow dryad to be a dangerous woman who leads a sect of heretics called the Cathars.
+To complete Grand Inquisitor Torquemada's task you must slay the shadow dryad, a woman of dark power hiding in Montaillou.
+Return to the Chambers of the Inquisition in Nueva Barcelona and tell the Grand Inquisitor that you have purified the shadow dryad.
+You have promised the prisoner in the Inquisition Chambers that you will find his wife in a nearby cell and release her spirit. The prisoner has imbued you with his powerful spirit to help you breach his wife's locked cell.
+Return to the prisoner and tell him that you freed the spirit of his wife.
+You have agreed to locate and release Faust, a friend of Galileo who is imprisoned somewhere within the Chambers of the Inquisition.
+Return to Galileo's cell within the Chambers of the Inquisition and tell him that you helped Faust to escape.
+Inquisitor Dominguez has tasked you to remove the taint of the spirits from the Temple Distict. You can collect these blue spirits from the streets by selecting them, allowing you to absorb the spirit and convert it into mana for spells.
+Return to Inquisitor Dominguez in the Temple District and tell him that you have cleansed the Temple District of the spirit taint.
+The moneylender Shylocke has hired you to collect the debt from a deadbeat bard named William who lives somewhere within the Port District.
+Grand Inquisitor Torquemada has asked you to perform a service for the Inquisition. Torquemada asked you to slay the Mongol Goblin Khan. The Khan rules the goblin tribes to the west of Barcelona.
+Now that you have slain Plumdjum Khan, return to the Chambers of the Inquisition in Barcelona and tell the Grand Inquisitor that your quest is complete.
+Machiavelli has hired you as a personal guard to protect him against any would be assassins seeking to end his political ambitions. You must search inside and outside his home to ensure Machiavelli's safety.
+After leaving Machiavelli's house, you hear screams and the sounds of combat within his house. You must investigate the screams and protect Machiavelli.
+You have learned that Machiavelli was involved with the slavers who captured you, so you refused to cooperate with him. You have succeeded in your quest to protect him, but you no longer wish to serve him.
+Machiavelli has been killed by a group of serperntine assasins sent by an unknown enemy. You have failed in your quest to protect Machiavelli.
+You saved Machiavelli from a group of mysterious serpentine assassins.
+You have killed Machiavelli, so you have failed your quest to protect him. Miserably.
+Brother Montgomerie has asked you to cross the Pyrenees Mountains and make your way north to France. You must go to the village of Montaillou and find Brother Michel to tell him the Relic of Montserrat has been stolen.
+You have reported back to Lord Javier and informed him of the attack against Montserrat. Lord Javier has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have reported back to Inquisitor Raphael and informed him of the attack against Montserrat. He has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have reported back to Cedric and informed him of the attack against Montserrat. He has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have agreed to locate and confront the Shapeshifting Daeva that hides somewhere in Toulouse.
+You must find a way to destroy the Shapeshifting Daeva permanently, then confront it in the village of Montaillou.
+Return to the titan Iapetus in the village of Toulouse and claim your reward.
+The Shapeshifting Daeva has fled to the vicinity of Montaillou.
+DaVinci has asked you to seek Nostradamus and speak with anyone in Montaillou that might know of the seer's whereabouts. DaVinci believes the mysterious seer might hold useful knowledge for your quest.
+Brother Michel has shown you the location of the Cave of Nostradamus. When you are ready, use a Magic Crystal to teleport to the Cave and find Nostradamus.
+You have been shown the location of Nostradamus' hiding place. When you are ready, you must use a Magic Crystal to teleport to the Cave and find Nostradamus.
+You have decided to side with the Hujark and defend Nostradamus. You must make your way through the caves and overcome the forces of the Dark Druids and find Nostradamus.
+You have been told that it will be your fate to make your way through the Hujark Assassins and consult Nostradamus.
+Nostradamus has warned you that Montaillou will face grave danger in the near future. You must use the magic portal and return to Montaillou and investigate this danger.
+Nostradamus has told you of the Daevas, the ancient demons that oppose you and the forces of good. He has revealed that Na Roqua, the Weird Woman of Montaillou, once was a Daeva herself.
+The titan Menoetius showed you the location of Nostradamus on your map. When you are ready, you must use a Magic Crystal to teleport to the Cave and find Nostradamus.
+Brother Michel believes that the Crypt is no longer a secure resting place for the Bleeding Lance. Journey there, defeat the undead sealed within, and recover the Lance.
+The 'relic' carried by the guardian appears to be a fake, left to deceive would-be tomb-raiders. You must explore deeper into the crypt and recover the true Lance.
+You have recovered the Bleeding Lance relic. You must return to Montaillou and if possible, speak with Brother Michel.
+Inquisitor Fournier has asked you to track down a supposed 'witch', an old woman named Na Roqua living somewhere within Montaillou.
+Now that you have found the witch, return to the Montaillou Church and tell Inquisitor Fournier.
+Find Marcus' cousin and take sphere from him
+Return Sphere to Marcus
+Find the Mayor's mistress in the woods around town.
+Find someone who can restore Beatrice back to her normal form.
+Return to the Mayor and tell him Beatrice has been restored.
+Lucius wants you to kill the four Elder Titans in Toulouse. When you have completed the task, return to Lucius in Montaillou with their stone hearts.
+Tell Lucius that you have decided to stay out of the conflict between him and his tribe.
+You gave Lucius the four stone hearts from the largest titans of Toulouse.
+You have decided to stay out of the conflict between Lucius and his tribe.
+Find the merchant Guillaume in Montaillou and obtain the spirit gem for DaVinci.
+Go to Inquisitor Fournier and retrieve the confiscated spirit gem.
+Return the spirit gem to Da Vinci.
+The gem was nowhere to be found on the body of the merchant. You did, however, find a writ signed by Inquisitor Fornier demanding he appear before the Inquisition for possession of demonic goods.
+You have agreed to Kill Lucius, retrieve the mneme crystal from his chest, and return it to Lethos in the village of Toulouse.
+Return with Lucius' mneme to Lethos.
+You have decided to allow Lucius to live despite the damage his decison is doing to his tribe.
+Tell Lethos that you have decided to stay out of the conflict between Lucius and his tribe.
+Despite your prior agreement with Lethos, you have told Lucius you will deliver the hearts of the four elder titans currently in Toulouse.
+You have decided to stay out of the conflict between Lucius and his tribe.
+Go to Toulouse and talk to Thierry, prisoner of the titans. Devise a plan to free him and the other prisoners.
+Clear a path for the prisoners from their pen to the back way out of town just south and west of their pen.
+You must meet with Thierry in Montaillou.
+Search for Thierry's hidden treasure near his destroyed house in the far northwest of Toulouse.
+Inquisitor Fournier has asked you to find the nature of the Mayor's sin.
+Return to Inquisitor Fournier in the Montaillou church and tell him of the Mayor's offenses.
+Fight Your Way Through the Hujark Defenders and Find Nostradamus.
+The bartender in Montaillou has told you of the legend regarding a treasure hidden by the former innkeeper. You have learned that the first step to find the treasure is to try giving wine to the innkeeper's ghost.
+You have communicated with the spirit of the old innkeeper. In order to find his hidden treasure, you must learn how to 'live as he lived'.
+Try using the charm 'amateur de viande'.
+Fight Your Way Through the Hujark and Find Nostradamus
+Defend the Hujark Against the Invaders and Find Nostradamus
+You must fight your way through the enemies of Barcelona, find their portal, and carry the fight to the other side.
+You must find and destroy the leader of the Druids.
+You must make your way to the fortress of the Old Man of the Mountain and confront him.
+Juanita the Thief Guildmistress has given you a job to do in the Port District. She wants you to find a house with a faulty lock in the Port District and speak with the inhabitant about 'dues'.
+You must convince the person to pay his dues owed to Juanita.
+Return to the Sewers and inform Juanita that you have collected her dues from the Port District.
+The Beggar leader Enrique has asked you to destroy a group of dangerous Lava Trolls that live in the lower levels of the Sewers.
+Return to Enrique and tell him that you destroyed the Lava Trolls.
+Enrique, the leader of the Beggars, has asked you to find a cure for the Afflicted that causes them to change into wererats. He believes Quinn, the herbalist in the Gate District, might be of some help.
+Now that you have the curative potion for the Afflicted, you must return to the Beggar leader, Enrique, in the Sewers.
+Quinn has told you that he needs a special component before he can brew a cure for the Afflicted. He needs a patch of fur from the Prime Wererat who infected the Beggars. The Prime Wererat might be found in the wilderness beyond the walls of Barcelona.
+You have slain the Prime Wererat and have obtained a patch of fur for Quinn's potion. You must return to Quinn in the Gate District and deliver the component.
+Now that you have the curative potion for the Afflicted, you must return to the Beggar leader, Enrique, in the Sewers.
+Juanita has told you that one of the beggar thieves has stolen a valuable locket. She has asked you to track this beggar and recover the locket.
+You must return to Juanita and tell her that you have found her locket.
+You have been told to seek out Enrique, leader of the Beggars Guild and enemy of the rival Thieves Guild. Enrique can be found somewhere within the Sewers.
+You have been told to seek out Juanita, leader of the Thieves Guild and enemy of the rival Beggars Guild. Juanita can be found somewhere within the Sewers.
+Find Locket for Juanita
+Kill Beggar Leader
+Tell Juanita that you found locket
+Tell Juanita of Beggar Master's death
+Find a short sword a thief is carrying
+Tell Enrique that you have the short sword
+Find Locket for Juanita
+Kill Beggar Leader
+Tell Juanita that you found locket
+Tell Juanita of Beggar Master's death
+To prove your loyalty to the Thieves, Juanita Suarez has asked you to search the Sewers and eliminate Enrique Garcia, the Beggar Guildmaster.
+Report back to Juanita and inform her that you have slain Enrique.
+To prove your loyalty to the Beggars Enrique Garcia has asked you to search the Sewers and eliminate Juanita Suarez, the Thieves' Guildmistress.
+Report back to Enrique and tell him that you have slain Juanita.
+Use the key that Juanita has given you to enter one of the houses in the Temple District.
+You must search the house and find something to thieve.
+Return to the sewers and tell Juanita about your success in the Temple District.
+Enrique has asked you to enter the Chambers of the Inquisition in the Temple District and steal a valuable chalice. He has promised to pay well for the chalice if you can steal it successfully.
+Return to the Sewers and tell Enrique that you have stolen the chalice.
+Find a thief with a short sword and take it from him
+Return the short sword to Enrique the beggar leader
+Find location in Temple district to thieve
+Tell Juanita about Temple District success
+You have agreed to help Inquisitor Diego deal with a heretical cult known as the Dark Inquisitors. Inquisitor Diego believes that the Dark Inquisitors are camped in the northern area of the Plains.
+Return to Inquisitor Diego and inform him that you have dealt with the Dark Inquisitors.
+You have agreed to the goblin shaman's macabre request to find the woodcutter and 'harvest' his eyes and liver.
+Now that you have liberated the eyes and liver from the woodcutter, you must bring them to Rakeb the goblin shaman. Rakeb waits by the pool in the goblin village of Khara'Khorum.
+This quest is incomplete.
+Plumdjum, the Goblin Khan, has tasked you to Kill the bounty hunter preying on the goblins. Plumdjum told you that the bounty hunter has set up camp southwest of the goblin village.
+Now that you have slain Raylark the bounty hunter, deliver his magic goblin slaying weapon, the Everlasting, to Plumdjum Khan.
+You have agreed to kill Bishop Diego for the Dark Inquisitors. Diego waits near the south road of the plains.
+Now that Bishop Diego is dead, return to the northern plains and speak with the Dark Inquisitors.
+You have agreed to travel to the waterfall cavern, east of the goblin village Khara'Khorum. The goblin shaman Rakeb wants you to clear the watery cave of the 'devil-fish', so he can resume his divinations.
+You must return to the goblin village Khara'Khorum, west of the waterfall cavern, and tell Rakeb that the devil-fish have been eliminated.
+You have agreed to aid the dark necromancer Relican wreak his vengeance against the Wielders and La Calle Perdida. Relican has asked you to go to La Calle Perdida, the Lost Street, and has given you a mysterious ring to use once you arrive there.
+You must use the ring given to you by Relican so he can return to La Calle Perdida.
+Now that you have entered La Calle Perdida, you sense power surging from Relican's ring. You must decide whether to activate the ring and call Relican's dark power to La Calle Perdida.
+Sir Esteban has asked you to deal with a band of thieves plaguing the crossroads, lead by a scoundrel named Ramon, the laughing bandit. Esteban believes the bandit is hiding somewhere within the woods of the crossroads.
+Report back to Sir Esteban at the crossroads and inform him that you have dealt with Ramon and the thieves.
+The woodcutter has asked you to find his missing daughter, Gloria. The woodcutter's daughter could have been abducted and might still be somewhere in the forest.
+After facing the goblin kidnapper, Gloria managed to escape. Return to the woodcutter to tell him you saved his daughter and collect your reward.
+Sir Esteban has tasked you to search the Crossroads thoroughly and destroy all the goblins in the area.
+Sir Esteban has tasked you to search the Crossroads thoroughly and destroy all the goblins in the area.
+Now that the goblin scouts are destroyed, report back to Sir Esteban at the Crossroads to collect your reward.
+Return to the Crossroads to inform Esteban of the goblins' plans to attack Barcelona.
+You have agreed to escort Inquisitor Darsh safely through the goblin village and return him safely to the Gate District of Barcelona.
+The Dryad has asked you to save her forest from the destructive goblin forces. To save the forest, you must slay the Goblin Khan who rules the goblins in a village somewhere northwest of the lake.
+Return to the lake and tell the Dryad that you have slain the Mongol Khan Plumdjum.
+Sir Esteban has tasked you to find the nest of the giant wasps plaguing the Crossroads. Once you find the nest, destroy all the giant wasps.
+Now that the wasps are destroyed, report back to Sir Esteban at the crossroads to collect your reward.
+The bounty hunter Raylark has hired you to collect the bounty on the goblin shaman Rakeb. Raylark will split the bounty reward with you if you enter the goblin village, Khara'Khorum, and kill Rakeb.
+Now that the Shaman Rakeb is slain, return to the bounty hunter camp west of the goblin village and collect your reward bounty from Raylark.
+Raylark, bounty hunter for the Savage Heart mercenary company, has agreed to share his goblin bounty with you. Raylark wants you to kill twelve goblins in Khara'Khorum, the mongol goblin village.
+Now that you have killed a dozen goblins, return to Raylark at his camp west of the goblin village and collect your share of the bounty reward.
+The goblin Grumdjum has tasked you to slay a water dryad that lives on the lake. Grumdjum has told you to use a nearby mystic crystal to transport magically to the dryad's isle.
+Return to Grumdjum, east of the lake, and collect your promised reward for dealing with the water dryad.
+The tortured spirit of Captain Morales has asked you to find his killer. He believes that one of his crewmembers witnessed his murder. You agreed to search the Port District of Barcelona to find a witness.
+The mute sailor witnessed the murder of Captain Morales, but will not reveal the identity of the killer to you, although he mentioned that he 'spoke' to another member of the crew - a horned sailor, likely a tainted demonkin.
+The demokin sailor Brannigan has told you, after some persuasion, that Captain Isabella killed Morales to take command of his vessel. You must go to the Port and decide whether to tell the Duke of Medina or confront Captain Isabella directly.
+You have discovered that Captain Isabella killed Captain Morales to gain command of his ship. You must decide whether you want to report her to the Duke of Medina in the Port District - or keep her secret to yourself.
+Return to the coastline outside of Barcelona and tell the spirit of Captain Morales that Isabella killed him to take over his command.
+The Demokin sailor Brannigan would not tell you specifically who the murderer is, but you did notice that he used the word "She" when describing the murderer.
+Captain Isabella has admitted that she killed Captain Morales. However, after hearing the explanation for her actions, you have promised to keep her secret.
+You have accepted a bribe from Captain Isabella to remain silent about her crime. You have agreed to end your invesigation in exchange for her gold.
+Head hover text=Choose your appearance.  Your selection will not change game play.
+Color hover text=Select a color
+Name hover text=What's a character without a name? Giving yourself a tough sounding name won't make you any tougher, but it will make you feel tougher.
+Tag skill hover text=Your tag skill is a skill in which you have a lot of background, training, discipline or schooling in and it can therefore be developed faster and cheaper than all of your other skills. This is a good thing. (We would suggest choosing at least one fighting or offensive spell Tag Skill.)
+Race hover text=Determines how your character will look in the game. More importantly, this determines the initial value for attributes and the possible range of each attribute.
+Spitit hover text=Selection of spirit affects two things: First, the spirit that you select has their own personality, and will bring that to each encounter you have with them. Second, each one has a propensity for a Magic Discipline in the game...Tribal, Divine or Thought. Each will bring a minor assistance to the character within that particular Discipline.
+Attributes hover text=These base attributes are a numerical represention of what your character has developed themselves into during their lifetime. Other attributes, such as Hit Points, Armor Class, Spell Resistances and more will be derived from these values.
+Racial Trait hover text=All races besides humans have Racial Traits. These are distinctive characteristics that set that individual apart from humanity. One Racial Trait MUST be selected; they are not optional.
+Trait hover text=Traits are optional. They exist to further personalize your character, and each trait has a combination of something bad and something good.
+You have found and tapped into the power of the first Ways Crystal.
+You have found and tapped into the power of the second Ways Crystal. There are three more crystals you must find.
+You have found and tapped into the power of the third Ways Crystal. There are two more crystals you must find.
+You have found and tapped into the power of the fourth Ways Crystal. There is one more crystal you must find.
+You have found and tapped into the power of all five Ways Crystal. You have now harnassed their energies.
+Access the Ways Crystal
+You have agreed to help Brambles find a cure for the curse that transformed him into a tree. Brambles believes that Relican, the exiled necromancer, holds the cure to undo the curse. Relican has fled Barcelona and may be hiding deep in the western forest.
+You have gained a Potion of Transformation from the necromancer Relican, which you believe might be the cure for the curse on Brambles. You must return to La Calle Perdida and bring the cure to Brambles.
+Through Cedric's spies, you have learned that the Knights Templar have lost contact with the monks of Montserrat Abbey and they fear for the safety of the relics. Cedric has asked you to travel to Montserrat to make sure the relic does not fall into the wrong hands.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. You promised a dying knight of the Abbey that you would travel to Montaillou and tell Brother Michel of the relic's theft.
+Lord Relican has commanded you to travel to Montserrat Abbey and claim the Crown of Thorns to further the influence and power of the Dark Wielders.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. A dying knight of the Abbey asked you to travel to Montaillou and tell Brother Michel of the relic's theft.
+Now that the Darkwood has been shaped into a wand, you must empower it with the proper spirit. To do this, you must seek out Galileo who is imprisoned deep within the Chambers of the Inquisition.
+Galileo has granted you the ability to see a hidden spirit within the Observatory. You must go to the Observatory in the Temple District and obtain the spirit to complete your wand.
+The Wand of Spirits now has been empowered. You must return to La Calle Perdida and speak with Cedric and tell him that you are ready to continue with the initiation.
+Lord Relican has ordered you to visit Quinn the herbalist in the Gate District. If you cannot convince Quinn to join the Dark Wielders, you must eliminate him.
+Return to La Calle Perdida and inform Lord Relican that Quinn has joined the Dark Wielders.
+Return to La Calle Perdida and inform Lord Relican that Quinn refused to join the Dark Wielders, so you killed him.
+As part of your initiation into the Dark Wielders, you must recover a lost item of dark power. Relican has ordered you to recover the fabled Sceptre of Bone, and he believes that a powerful figure within Barcelona is protecting it, possibly Leonardo DaVinci himself.
+You must return to La Calle Perdida and deliver the Sceptre of Bone to Lord Relican.
+Cedric has tasked you to find a supply of magical Darkwood so that you can create a Wand of Spirits. Seek the woodcutter in the forest west of Barcelona.
+The woodcutter cannot enter the Darkwood cave below his house, as dark undead creatures have risen to haunt the cave. You must destroy all the undead to obtain the Darkwood.
+Now that you have destroyed the undead, return to the woodcutter Felipe and tell him that you have accomplished his task.
+You have obtained a supply of Darkwood from Felipe the woodcutter. Now you must return to La Calle Perdida and speak with Cedric, so that he can shape your Wand of Spirits.
+Through the spies of the Wielders, you have learned that enemies of the Knights Templar seek the hidden relic within Montserrat. Cedric fears that the enemies of the Knights Templar might use the relic for great evil.
+Cedric has asked you to go to Montserrat and protect the relic from the danger. To reach Montserrat, you must use a magic crystal to teleport to Montserrat.
+Cedric has tasked you to track down Relican, exiled necromancer and enemy of La Calle Perdida, and eliminate him. Cedric believes that Relican has taken refuge somewhere in the deep western forest.
+You must confront and destroy the necromancer Relican.
+Now that you have defeated Relican, return to La Calle Perdida and tell Cedric that Relican threatens the Wielders no more.
+Locate the Rod of Bone
+Return the Rod of Bone to Relican
+Force Herbalist to Join Dark Wielders or die
+Learn about Relics from Knights Templar
+Share Relic knowledge with Relican
+Lord Relican has dispatched a dark servant to spy on the Knights Templar.
+Retrieve the Darkwood from the Woodcutter
+Talk to Galileo in the Inquisition Chambers
+Obtain spirit from Galileo's Observatory
+Kill Relican outside the Slaver's Pits
+Return the Darkwood to Calle Perdida
+Return the Spirit Wand to Calle Perdida
+Report Relicans death to Wielders
+You have agreed to sell any rare books you find to Weng Choi in the Gate District. He is an avid collector of unique tomes and promises to pay well.
+Weng Choi in the Gate District has asked you to complete his collection of the Crusades Anthology. Weng Choi will also buy any other rare book you find.
+You have agreed to help Leonardo DaVinci complete his design for a unique magical repeating crossbow. However, DaVinci cannot convince his uncooperative steam machine to create the necessary gears. You must speak with steam machine and ask it to forge the gears.
+DaVinci has asked you to obtain a special lens needed for the crossbow's magical targeting. DaVinci suggested that you obtain the lens within Galileo's telescope from the Temple District's Observatory.
+DaVinci's obnoxious steam machine demands that you give it magical potion before it can create the crossbow's gears.
+You have convined the steam machine to forge the gears, now bring the gears to DaVinci.
+You have obtained the lens from Galileo's telescope. Now return to DaVinci's workshop in the Port District so the crossbow can be completed.
+The conspirator Guy Fawkes has asked you to find Captain Isabella in the Port District and learn about the plans for the Spanish Armada.
+You have changed your mind and have told the Duke of Medina that you will deal with the conspirator in the Gate District.
+Return to the Duke of Medina in the Port District and inform him that the conspirator has been slain.
+You must return to the conspirator outside the Gate District and divulge Captain Isabella's plans for the Spanish Armada.
+Seek out the Duke of Medina in the Port District and lure him to the conspirator's trap.
+Return to the conspirator in the Gate District and inform him that the Duke of Medina has been slain.
+You have agreed to meet with the conspirator just outside of Barcelona's Gate District. He wants to discuss how you can help him aid England against Spain.
+The conspirator has been killed, so this quest has ended.
+Since Captain Isabella has departed before you could learn of the plans, you must return to the conspirator Guy Fawkes in the Gate District and tell him that you now cannot learn the plans of the Armada.
+Unable to control your indecisive demons that provoke random fits of rage, you've decided *again* that you should slay the Duke. Now that the Duke is finally dead, return to Guy Fawkes in the Gate District and tell him the deed is done.
+DaVinci strongly advises you to gain a powerful ally against your enemies. Search Barcelona and speak with the faction leaders about joining one of the orders.
+Return to Amir when you are ready for the Trial of Dreams
+Amir has requested as part of his custom that you give a valuable gem to honor the order of the Knights of Saladin.
+Find the blacksmith in the Gate District and forge a Sacred Scimitar
+Do as Blacksmith requests
+Bring Scimitar to Amir in Gate District
+Amir has requested as part of his custom that you give a valuable gem to honor the order of the Knights of Saladin.
+You have accepted Amir's challenge to face the Dream Djinni. You must complete the trials of the Dream Djinni to continue the path of the Favored of the Knights of Saladin. 
+Return to the Gate District and tell Amir that you have completed the trials of the Dream Djinni.
+You have decided that you more need time to prepare for the trials of the Dream Djinni. When you are ready, return to Amir to continue the trials.
+You have failed the Trial of Dreams. You must speak with Amir about how to return to the Dream Plane.
+You have agreed to track down a group of slavers operating beyond the walls of Barcelona. The slavers have stolen the Shard of Dreams, a priceless jewel of the Knights of Saladin. You must search the western forest for the slavers' lair and recover the Shard. 
+You must find the Shard of Dreams for the Knights of Saladin.
+Now that you have recovered the Shard of Dreams, return to Amir at Barcelona's Gate District.
+Amir has asked you to find a man named Ali Huban, an eastern trader somewhere within Barcelona. Amir suggested that you speak with his brothers of the Knights of Saladin to learn of Ali Huban's whereabouts.
+Deliver the report from Ali Huban to Amir
+Farshid of the Knights of Saladin has told you that Ali Huban is fond of the seedier parts of the city. He recommends that you search for Ali in the Port District.
+Farshad of the Knights of Saladin has told you that Ali Huban is a master of disguises and may be difficult to track.
+Learn the fate of the knights and ensure safety of the Crown of Thorns
+Eduardo the blacksmith has asked you to recover his stolen sword. Eduardo believes that a beggar named Felgnash stole the sword and is now hiding in the sewers below Barcelona.
+You have recovered Eduardo's stolen sword. Return to the blacksmith's shop in the Gate District and deliver the weapon to Eduardo.
+Eduardo the blacksmith has asked you to recover a supply of specially magnetized silver that he needs to forge magical items. He believes that the goblins have seized the only known mine for this silver, in a cave north of the crossroads.
+Return to the Gate District of Barcelona and give the magnetized silver to Eduardo the blacksmith.
+To finish the mechanical arm for Cortes, Davinci needs a supply of magical Red Ore. DaVinci believes that Eduardo the blacksmith in the Gate District might know where to find Red Ore. 
+Eduardo the blacksmith has informed you that he does not have any Red Ore. However, Eduardo told you to go to the sewers below Barcelona and obtain Red Ore directly from the lava trolls.
+You must return to DaVinci's workshop and deliver the Red Ore so DaVinci can complete the mechanical arm.
+You have agreed to help the tainted merchant by rescuing his kidnapped sister. You must enter the merchant's den, found right behind the merchant, that the ransomers have taken over and rescue his sister.
+Return to the Gate District and tell the merchant what his sister told you.
+You must escort Malihandra safely through the ransomer's den and back to the Gate District.
+Quinn the herbalist demands proof that you wield magic before he will tell you anything of the Wielders. Approach the book in his shop and read it to activate the magic within its pages.
+Quinn the herbalist has given you a charm that grants you the ability to pass through the hidden entrance to La Calle Perdida. Search the Gate District and find the secret entrance along one of the western walls.
+Hrubjub has asked you to enter Barcelona and tell him how many guards are posted around the courtyard.
+Return to Hrubjub to tell him that two guards wait at the gate and that the courtyard is weakly defended.
+You have agreed to help William Shakespeare with his debt. You must go to the Temple District and convince the moneylender Shylocke to give Shakespeare more time to repay the debt. 
+Return to the Port District and tell Shakespeare that Shylocke has granted him more time to repay the debt.
+Tell Shakespeare that due to Shylocke's 'untimely' passing, his debt has been forgiven.
+Fearing the power of England's Weather Wizards, Captain Isabella asked you to obtain a wind scroll discreetly. Such magic would only be sold by a merchant clever enough to avoid persecution from the Inquisition.
+You have obtained a wind scroll from the merchant Weng Choi. Now you must deliver the scroll to Captain Isabella in the Port District.
+You have agreed to enter the sewers and search for the lost boy Tomas.
+Return to Marisol and tell her that you found her brother Tomas.
+You have told Hernan Cortes that you will find Leonardo DaVinci and ask if his mechanical arm invention is complete. DaVinci mentioned that he would either be at the Gate District, or within his workshop in the Port District.
+Leonardo DaVinci has told you that Eduardo the blacksmith will need a supply of a Red Ore to complete Cortes' mechanical arm. DaVinci wants you to speak with the blacksmith in Barcelona's Gate District so that you can learn where to find the Red Ore.
+The mechanical arm is now complete. DaVinci has asked you to deliver the new arm to Cortes at La Serpienta Vieja, the tavern in Barcelona's Port District.
+Eduardo the Blacksmith needs a supply of a rare iron, Red Ore, found only beneath the sewers of Barcelona. Eduardo warned you that the Red Ore is guarded by lava trolls.
+You must bring the supply of Red Ore back to Eduardo the Blacksmith in Barcelona's Gate District.
+Eduardo has fashioned the gears necessary for Cortes' mechanical arm. He has asked you to bring them to DaVinci, so that the new arm can be completed.
+Search the coast for Fernand's missing brother and see if it is possible to save him.
+Return to Fernand and tell him that unfortunately, his brother perished.
+You have agreed to accompany Cortes to the area he marked on your world map and find the lost treasure.
+William Shakespeare has asked you to recover his stolen muse. You must speak with the moneylender Shylocke in the Temple District and obtain the muse for Shakespeare.
+You have obtained the muse for Shakespeare. Return the muse to Shakespeare's hovel in the Port District.
+You have chosen the wrong chest and lost the key you purchased from Shylocke. If you cannot open the chests through other means, you must return to Shakespeare in the Port District and speak with him.
+You have told William Shakespeare that you will continue your quest to rescue the muse. Since you have already used Shylocke's key, you will have to improve your Lockpick skill in order to unlock Shylocke's chest and rescue the muse.
+Since you cannot open Shylocke's chests, you have told William Shakespeare that you cannot rescue the muse.
+You promised the sylvant Bartolomé that you would help his brother Renaldo escape from the Chambers of the Inquisition. When you find Renaldo, you must give him the potion from Bartolomé.
+Return to Bartolomé in the Port District and tell him that his brother is freed.
+After encountering a prisoner named Renaldo in the Chambers of the Inquisition, you promised that you would help him escape. Renaldo has told you to seek out his brother in the Port District to help plan an escape.
+You have been hired by the moneylender Shylocke to collect a debt from a deadbeat bard named William. You must go to William's house in the Port District.
+Now that you have found William, you must encourage him to repay Shylocke.
+You must return to the Temple District and deliver Shakespeare's payment.
+The demon imprisoned within the Chambers of the Inquisition has made you a dark offer. The demon has asked you to lure Faust, another prisoner in the Chambers of the Inquisition, back to him.
+The moneylender Shylocke has tasked you to find a 'deadbeat' bard named William in the Port District. You agreed to collect Shylocke's debt from William the bard.
+You have convinced William the bard to pay his debt to the moneylender Shylocke. You must return to Shylocke's shop in the Temple District and tell him that you have convinced Shakespeare to pay his debts.
+Lord Javier of the Knights Templar has asked you to travel to Montserrat Abbey to ensure the safety of a relic. Since Lord Javier indicated the location of Montserrat on your map, you can use a magic crystal to teleport there directly.
+You discovered that assassins ransacked Montserrat Abbey and stole the relic within. You promised a dying knight of the Abbey that you would travel to Montaillou and tell Brother Michel of the relic's theft.
+You have agreed to help Miguel Cervantes track a dangerous monster known as 'la bestia'. You must follow Cervantes so that he can lead you to the creature.
+You have been told by Leonardo DaVinci that Cervantes used a magic quill that inadertantly conjured a shade. DaVinci has told you that you and Cervantes must confront the shade where it was created, by the windmill on Barcelona's coast.
+For attacking city property, Cervantes has been captured by the Knights Templar and imprisoned within the Chambers of the Inquisition. To continue your quest, you must find Cervantes and help him leave the dungeon.
+You have realized that Cervantes is a bit 'confused', so you diplomatically asked if you could lead him to la bestia. Cervantes will follow you while you continue the search for la bestia.
+Cervantes has died, so the quest for La Bestia has failed.
+Inquisitor Raphael has asked you to seek out Inquisitor Dominguez in the Temple District.
+Do whatever Dominguez asks of you.
+Return to Inquisitor Raphael in the Chambers of the Inquisition and tell him that you have completed Dominguez's task.
+Inquisitor Raphael has tasked you to create a holy implement, the Rod of the Inquisition. You must first obtain Darkwood from a woodcutter in the wilderness beyond the walls of Barcelona.
+The woodcutter Felipe has asked you to destroy all the undead in his Darkwood cave. Once all the undead creatures are destroyed, he will give you a supply of Darkwood.
+Now that the undead are destroyed, return to Felipe the woodcutter and tell him that all the undead have been eliminated.
+You have obtained the required supply of Darkwood. Return to Inquisitor Raphael in Barcelona's Temple District and tell him that you have the first component for the Rod of the Inquisitor.
+To consecrate the Rod of the Inquisitor, it must be bound with a holy relic. Inquisitor Raphael has asked you to go to the Cathedral in the Temple District and obtain a hair of a saint from the crypt below.
+Now that you have obtained the hair of a saint, return to Inquisitor Raphael in the Chambers of the Inquisition.
+To complete the Rod of the Inquisitor, it must be prepared by Grand Inquisitor Torquemada. Raphael mentioned that Torquemada waits within a private room somewhere within the Chambers of the Inquisition. You must either find the secret door, or find someone who can open it for you.
+Now that you have spoken with the Grand Inquisitor, return to Raphael to continue the initiation.
+Inquisitor Raphael has asked you to sacrifice a tithe of 1,500 gold to begin the initiation path of the Inquisition. When you have gathered enough gold, speak with Inquisitor Raphael.
+You possesses sufficient gold to pay the tithe to the Inquisition. Return to Inquisitor Raphael in the Temple District to begin the initiation path of the Inquisition.
+Inquisitor Raphael has asked you to deal with the Afflicted, a dangerous group of lycanthrope creatures hiding in the Sewers beneath Barcelona. You must seek out the Afflicted and ensure that they no longer pose a threat to the Inquisition.
+You must return to the Chambers of the Inquisition and tell Raphael you've ended the threat of the Afflicted.
+Inquisitor Raphael has asked you to find and rescue Inquisitor Darsh. Raphael believes that Darsh has been captured by goblins somewhere in the western forest outside of Barcelona.
+You must return to the Chambers of the Inquisition in Barcelona's Temple District and tell Inquistor Raphael that you have saved Darsh from the goblins.
+You must return to the Chambers of the Inquisition in Barcelona's Temple District and tell Inquistor Raphael that Darsh perished in the goblin village.
+Escort Inquisitor Darsh safely through the goblin village, and return him to the Gate District of Barcelona.
+Inquisitor Raphael has given you the important task of ferreting out the location of La Calle Perdida, the lost street where the Wielders congregate. You must find and enter La Calle Perdida so the magic-wielding heretics can be brought to justice.
+Tell Raphael you've found La Calle Perdida
+Lord Javier of the Knights Templar is concerned that the monks of Montserrat Abbey have not reported back to the Inquisition. It is feared that thieves could have stolen the relic hidden within the monastery. You have agreed to travel to Montserrat and investigate.
+After investigating Montserrat, you have discovered that assassins have murdered the monks and stolen the relic they guarded. You must return to Barcelona's Temple District and inform Inquisitor Raphael of this tragedy.
+Inquisitor Raphael has informed you that it is customary to pay a tithe before an aspirant can attempt to join the Inquisition. You must gather 1,000 gold and sacrifice this fortune to the Inquisition, thus proving your dedication to the order.
+You have acquired the sufficient amount of gold for the Inquisitor's tithe. You must return to Inquisitor Raphael in the Temple District and donate a tithe of 1,000 gold to the Inquisition before you can begin the initiation.
+Lord Fernandez has asked you to travel to Montaillou and discover the hidden resting place of the Crypt of the Knights Templar. You must journey to the Crypt and ensure the safety of the relic within it.
+In order to gain favor with Sir Auric, you agreed to track down and deal with the thief named Benito. Sir Auric belives Benito operates in the alleys of the Port District.
+You must return to the Armory in the Temple District and inform Sir Auric that you have dealt with Benito the thief.
+Sir Auric is concerned that a knight patrol has been lost in the sewers. You have agreed to search the sewers beneath Barcelona to discover the fate of the missing knight.
+You must report back to Sir Auric and inform him that the missing knight met an unfortunate end in the sewers.
+You must report back to Sir Auric and tell him that you found the missing knight in the sewers and safely escorted him back safely to the surface.
+Now that you have found the missing knight, you must escort him through the sewers and bring him back to the surface alive.
+In order to begin the initiation of the Knights Templar, you must donate a portion of your fortune to the cause of the Knights Templar. Lord Javier Fernandez has asked that you donate 1,000 gold to the order.
+Lord Javier has asked you to find and disrupt a slaving operation that is plaguing Barcelona. The slavers have a hidden compound somewhere in the wilderness west of Barcelona.
+Now that you have found the slave pits, you must deal with the slavers so that they no longer threaten the citizens of Barcelona.
+You must return to Lord Javier Fernandez in the Temple District and inform him that you have completed the task.
+You have convinced the leader of the Slavers to leave the area. You must return to Lord Javier Fernandez in the Temple District and inform him that you have completed the task.
+Lord Javier has told you to forge a Lion Shield to guard you against evil. To create the shield, you must seek out the expertise of the blacksmith in the Gate District.
+After speaking with the blacksmith, you must gather any materials or complete any tasks he asks of you to forge the Lion Shield.
+You must return to the Temple District and inform Lord Javier that you have your Lion Shield.
+You have been tasked to find Sir Esteban at the Crossroads, beyond the walls of Barcelona, and offer your assistance.
+You must complete any tasks Sir Esteban asks of you to continue your initiation for the Knights Templar.
+You must return to Barcelona's Temple District and inform Lord Javier that you have completed Sir Esteban's quests.
+Sir Auric has agreed to sponsor your initiation into the order of the Knights Templar. He has told you to go to the Temple District and seek Lord Javier Fernandez within the Cathedral.
+Lord Javier Fernandez has ordered you to return to Sir Auric in the Armory of the Temple District. Once there, you must offer Sir Auric your assistance and complete his tasks.
+You must complete the tasks Sir Auric has asked of you.
+You must report back to Lord Javier in the Temple District and tell him that you have completed Auric's tasks.
+You have been asked to obtain a supply of magical Darkwood. You must seek out the woodcutter in the western forest who possesses the only known supply of Darkwood.
+Felipe the woodcutter has told you that a horde of undead monsters has risen to haunt the cave below his home. Since the Darkwood only grows in the cave, you must destroy all the undead before you can obtain Darkwood.
+You have destroyed all the undead haunting the Darkwood cave. Return to Felipe and tell him that his Darkwood cave is now clear of undead.
+Grand Inquisitor Torquemada has asked you to perform a service for the Inquisition. Later in your travels, you are to find and eliminate the shadow dryad hiding among the French village of Montaillou. Torquemada believes the shadow dryad to be a dangerous woman who leads a sect of heretics called the Cathars.
+To complete Grand Inquisitor Torquemada's task you must slay the shadow dryad, a woman of dark power hiding in Montaillou.
+Return to the Chambers of the Inquisition in Nueva Barcelona and tell the Grand Inquisitor that you have purified the shadow dryad.
+You have promised the prisoner in the Inquisition Chambers that you will find his wife in a nearby cell and release her spirit. The prisoner has imbued you with his powerful spirit to help you breach his wife's locked cell.
+Return to the prisoner and tell him that you freed the spirit of his wife.
+You have agreed to locate and release Faust, a friend of Galileo who is imprisoned somewhere within the Chambers of the Inquisition.
+Return to Galileo's cell within the Chambers of the Inquisition and tell him that you helped Faust to escape.
+Inquisitor Dominguez has tasked you to remove the taint of the spirits from the Temple Distict. You can collect these blue spirits from the streets by selecting them, allowing you to absorb the spirit and convert it into mana for spells.
+Return to Inquisitor Dominguez in the Temple District and tell him that you have cleansed the Temple District of the spirit taint.
+The moneylender Shylocke has hired you to collect the debt from a deadbeat bard named William who lives somewhere within the Port District.
+Grand Inquisitor Torquemada has asked you to perform a service for the Inquisition. Torquemada asked you to slay the Mongol Goblin Khan. The Khan rules the goblin tribes to the west of Barcelona.
+Now that you have slain Plumdjum Khan, return to the Chambers of the Inquisition in Barcelona and tell the Grand Inquisitor that your quest is complete.
+Machiavelli has hired you as a personal guard to protect him against any would be assassins seeking to end his political ambitions. You must search inside and outside his home to ensure Machiavelli's safety.
+After leaving Machiavelli's house, you hear screams and the sounds of combat within his house. You must investigate the screams and protect Machiavelli.
+You have learned that Machiavelli was involved with the slavers who captured you, so you refused to cooperate with him. You have succeeded in your quest to protect him, but you no longer wish to serve him.
+Machiavelli has been killed by a group of serperntine assasins sent by an unknown enemy. You have failed in your quest to protect Machiavelli.
+You saved Machiavelli from a group of mysterious serpentine assassins.
+You have killed Machiavelli, so you have failed your quest to protect him. Miserably.
+Brother Montgomerie has asked you to cross the Pyrenees Mountains and make your way north to France. You must go to the village of Montaillou and find Brother Michel to tell him the Relic of Montserrat has been stolen.
+You have reported back to Lord Javier and informed him of the attack against Montserrat. Lord Javier has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have reported back to Inquisitor Raphael and informed him of the attack against Montserrat. He has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have reported back to Cedric and informed him of the attack against Montserrat. He has agreed with Brother Montgomerie and has asked you to travel to France. You must find Brother Michel in Montaillou and safeguard the relic within the Crypt.
+You have agreed to locate and confront the Shapeshifting Daeva that hides somewhere in Toulouse.
+You must find a way to destroy the Shapeshifting Daeva permanently, then confront it in the village of Montaillou.
+Return to the titan Iapetus in the village of Toulouse and claim your reward.
+The Shapeshifting Daeva has fled to the vicinity of Montaillou.
+DaVinci has asked you to seek Nostradamus and speak with anyone in Montaillou that might know of the seer's whereabouts. DaVinci believes the mysterious seer might hold useful knowledge for your quest.
+Brother Michel has shown you the location of the Cave of Nostradamus. When you are ready, use a Magic Crystal to teleport to the Cave and find Nostradamus.
+You have been shown the location of Nostradamus' hiding place. When you are ready, you must use a Magic Crystal to teleport to the Cave and find Nostradamus.
+You have decided to side with the Hujark and defend Nostradamus. You must make your way through the caves and overcome the forces of the Dark Druids and find Nostradamus.
+You have been told that it will be your fate to make your way through the Hujark Assassins and consult Nostradamus.
+Nostradamus has warned you that Montaillou will face grave danger in the near future. You must use the magic portal and return to Montaillou and investigate this danger.
+Nostradamus has told you of the Daevas, the ancient demons that oppose you and the forces of good. He has revealed that Na Roqua, the Weird Woman of Montaillou, once was a Daeva herself.
+The titan Menoetius showed you the location of Nostradamus on your map. When you are ready, you must use a Magic Crystal to teleport to the Cave and find Nostradamus.
+Brother Michel believes that the Crypt is no longer a secure resting place for the Bleeding Lance. Journey there, defeat the undead sealed within, and recover the Lance.
+The 'relic' carried by the guardian appears to be a fake, left to deceive would-be tomb-raiders. You must explore deeper into the crypt and recover the true Lance.
+You have recovered the Bleeding Lance relic. You must return to Montaillou and if possible, speak with Brother Michel.
+Inquisitor Fournier has asked you to track down a supposed 'witch', an old woman named Na Roqua living somewhere within Montaillou.
+Now that you have found the witch, return to the Montaillou Church and tell Inquisitor Fournier.
+Find Marcus' cousin and take sphere from him
+Return Sphere to Marcus
+Find the Mayor's mistress in the woods around town.
+Find someone who can restore Beatrice back to her normal form.
+Return to the Mayor and tell him Beatrice has been restored.
+Lucius wants you to kill the four Elder Titans in Toulouse. When you have completed the task, return to Lucius in Montaillou with their stone hearts.
+Tell Lucius that you have decided to stay out of the conflict between him and his tribe.
+You gave Lucius the four stone hearts from the largest titans of Toulouse.
+You have decided to stay out of the conflict between Lucius and his tribe.
+Find the merchant Guillaume in Montaillou and obtain the spirit gem for DaVinci.
+Go to Inquisitor Fournier and retrieve the confiscated spirit gem.
+Return the spirit gem to Da Vinci.
+The gem was nowhere to be found on the body of the merchant. You did, however, find a writ signed by Inquisitor Fornier demanding he appear before the Inquisition for possession of demonic goods.
+You have agreed to Kill Lucius, retrieve the mneme crystal from his chest, and return it to Lethos in the village of Toulouse.
+Return with Lucius' mneme to Lethos.
+You have decided to allow Lucius to live despite the damage his decison is doing to his tribe.
+Tell Lethos that you have decided to stay out of the conflict between Lucius and his tribe.
+Despite your prior agreement with Lethos, you have told Lucius you will deliver the hearts of the four elder titans currently in Toulouse.
+You have decided to stay out of the conflict between Lucius and his tribe.
+Go to Toulouse and talk to Thierry, prisoner of the titans. Devise a plan to free him and the other prisoners.
+Clear a path for the prisoners from their pen to the back way out of town just south and west of their pen.
+You must meet with Thierry in Montaillou.
+Search for Thierry's hidden treasure near his destroyed house in the far northwest of Toulouse.
+Inquisitor Fournier has asked you to find the nature of the Mayor's sin.
+Return to Inquisitor Fournier in the Montaillou church and tell him of the Mayor's offenses.
+Fight Your Way Through the Hujark Defenders and Find Nostradamus.
+The bartender in Montaillou has told you of the legend regarding a treasure hidden by the former innkeeper. You have learned that the first step to find the treasure is to try giving wine to the innkeeper's ghost.
+You have communicated with the spirit of the old innkeeper. In order to find his hidden treasure, you must learn how to 'live as he lived'.
+Try using the charm 'amateur de viande'.
+Fight Your Way Through the Hujark and Find Nostradamus
+Defend the Hujark Against the Invaders and Find Nostradamus
+					Expression Context=$Instigator
+					Expression Context=$Instigator
+You must fight your way through the enemies of Barcelona, find their portal, and carry the fight to the other side.
+You must find and destroy the leader of the Druids.
+					Expression Context=$Instigator
+					Expression Context=$Instigator
+You must make your way to the fortress of the Old Man of the Mountain and confront him.
+Juanita the Thief Guildmistress has given you a job to do in the Port District. She wants you to find a house with a faulty lock in the Port District and speak with the inhabitant about 'dues'.
+You must convince the person to pay his dues owed to Juanita.
+Return to the Sewers and inform Juanita that you have collected her dues from the Port District.
+The Beggar leader Enrique has asked you to destroy a group of dangerous Lava Trolls that live in the lower levels of the Sewers.
+Return to Enrique and tell him that you destroyed the Lava Trolls.
+Enrique, the leader of the Beggars, has asked you to find a cure for the Afflicted that causes them to change into wererats. He believes Quinn, the herbalist in the Gate District, might be of some help.
+Now that you have the curative potion for the Afflicted, you must return to the Beggar leader, Enrique, in the Sewers.
+Quinn has told you that he needs a special component before he can brew a cure for the Afflicted. He needs a patch of fur from the Prime Wererat who infected the Beggars. The Prime Wererat might be found in the wilderness beyond the walls of Barcelona.
+You have slain the Prime Wererat and have obtained a patch of fur for Quinn's potion. You must return to Quinn in the Gate District and deliver the component.
+Now that you have the curative potion for the Afflicted, you must return to the Beggar leader, Enrique, in the Sewers.
+Juanita has told you that one of the beggar thieves has stolen a valuable locket. She has asked you to track this beggar and recover the locket.
+You must return to Juanita and tell her that you have found her locket.
+You have been told to seek out Enrique, leader of the Beggars Guild and enemy of the rival Thieves Guild. Enrique can be found somewhere within the Sewers.
+You have been told to seek out Juanita, leader of the Thieves Guild and enemy of the rival Beggars Guild. Juanita can be found somewhere within the Sewers.
+Find Locket for Juanita
+Kill Beggar Leader
+Tell Juanita that you found locket
+Tell Juanita of Beggar Master's death
+Find a short sword a thief is carrying
+Tell Enrique that you have the short sword
+Find Locket for Juanita
+Kill Beggar Leader
+Tell Juanita that you found locket
+Tell Juanita of Beggar Master's death
+To prove your loyalty to the Thieves, Juanita Suarez has asked you to search the Sewers and eliminate Enrique Garcia, the Beggar Guildmaster.
+Report back to Juanita and inform her that you have slain Enrique.
+To prove your loyalty to the Beggars Enrique Garcia has asked you to search the Sewers and eliminate Juanita Suarez, the Thieves' Guildmistress.
+Report back to Enrique and tell him that you have slain Juanita.
+Use the key that Juanita has given you to enter one of the houses in the Temple District.
+You must search the house and find something to thieve.
+Return to the sewers and tell Juanita about your success in the Temple District.
+Enrique has asked you to enter the Chambers of the Inquisition in the Temple District and steal a valuable chalice. He has promised to pay well for the chalice if you can steal it successfully.
+Return to the Sewers and tell Enrique that you have stolen the chalice.
+Find a thief with a short sword and take it from him
+Return the short sword to Enrique the beggar leader
+Find location in Temple district to thieve
+Tell Juanita about Temple District success
+You have agreed to help Inquisitor Diego deal with a heretical cult known as the Dark Inquisitors. Inquisitor Diego believes that the Dark Inquisitors are camped in the northern area of the Plains.
+Return to Inquisitor Diego and inform him that you have dealt with the Dark Inquisitors.
+You have agreed to the goblin shaman's macabre request to find the woodcutter and 'harvest' his eyes and liver.
+Now that you have liberated the eyes and liver from the woodcutter, you must bring them to Rakeb the goblin shaman. Rakeb waits by the pool in the goblin village of Khara'Khorum.
+This quest is incomplete.
+Plumdjum, the Goblin Khan, has tasked you to Kill the bounty hunter preying on the goblins. Plumdjum told you that the bounty hunter has set up camp southwest of the goblin village.
+Now that you have slain Raylark the bounty hunter, deliver his magic goblin slaying weapon, the Everlasting, to Plumdjum Khan.
+You have agreed to kill Bishop Diego for the Dark Inquisitors. Diego waits near the south road of the plains.
+Now that Bishop Diego is dead, return to the northern plains and speak with the Dark Inquisitors.
+You have agreed to travel to the waterfall cavern, east of the goblin village Khara'Khorum. The goblin shaman Rakeb wants you to clear the watery cave of the 'devil-fish', so he can resume his divinations.
+You must return to the goblin village Khara'Khorum, west of the waterfall cavern, and tell Rakeb that the devil-fish have been eliminated.
+You have agreed to aid the dark necromancer Relican wreak his vengeance against the Wielders and La Calle Perdida. Relican has asked you to go to La Calle Perdida, the Lost Street, and has given you a mysterious ring to use once you arrive there.
+You must use the ring given to you by Relican so he can return to La Calle Perdida.
+Now that you have entered La Calle Perdida, you sense power surging from Relican's ring. You must decide whether to activate the ring and call Relican's dark power to La Calle Perdida.
+Sir Esteban has asked you to deal with a band of thieves plaguing the crossroads, lead by a scoundrel named Ramon, the laughing bandit. Esteban believes the bandit is hiding somewhere within the woods of the crossroads.
+Report back to Sir Esteban at the crossroads and inform him that you have dealt with Ramon and the thieves.
+The woodcutter has asked you to find his missing daughter, Gloria. The woodcutter's daughter could have been abducted and might still be somewhere in the forest.
+After facing the goblin kidnapper, Gloria managed to escape. Return to the woodcutter to tell him you saved his daughter and collect your reward.
+Sir Esteban has tasked you to search the Crossroads thoroughly and destroy all the goblins in the area.
+Sir Esteban has tasked you to search the Crossroads thoroughly and destroy all the goblins in the area.
+Now that the goblin scouts are destroyed, report back to Sir Esteban at the Crossroads to collect your reward.
+Return to the Crossroads to inform Esteban of the goblins' plans to attack Barcelona.
+You have agreed to escort Inquisitor Darsh safely through the goblin village and return him safely to the Gate District of Barcelona.
+The Dryad has asked you to save her forest from the destructive goblin forces. To save the forest, you must slay the Goblin Khan who rules the goblins in a village somewhere northwest of the lake.
+Return to the lake and tell the Dryad that you have slain the Mongol Khan Plumdjum.
+Sir Esteban has tasked you to find the nest of the giant wasps plaguing the Crossroads. Once you find the nest, destroy all the giant wasps.
+Now that the wasps are destroyed, report back to Sir Esteban at the crossroads to collect your reward.
+The bounty hunter Raylark has hired you to collect the bounty on the goblin shaman Rakeb. Raylark will split the bounty reward with you if you enter the goblin village, Khara'Khorum, and kill Rakeb.
+Now that the Shaman Rakeb is slain, return to the bounty hunter camp west of the goblin village and collect your reward bounty from Raylark.
+Raylark, bounty hunter for the Savage Heart mercenary company, has agreed to share his goblin bounty with you. Raylark wants you to kill twelve goblins in Khara'Khorum, the mongol goblin village.
+Now that you have killed a dozen goblins, return to Raylark at his camp west of the goblin village and collect your share of the bounty reward.
+The goblin Grumdjum has tasked you to slay a water dryad that lives on the lake. Grumdjum has told you to use a nearby mystic crystal to transport magically to the dryad's isle.
+Return to Grumdjum, east of the lake, and collect your promised reward for dealing with the water dryad.
+The tortured spirit of Captain Morales has asked you to find his killer. He believes that one of his crewmembers witnessed his murder. You agreed to search the Port District of Barcelona to find a witness.
+The mute sailor witnessed the murder of Captain Morales, but will not reveal the identity of the killer to you, although he mentioned that he 'spoke' to another member of the crew - a horned sailor, likely a tainted demonkin.
+The demokin sailor Brannigan has told you, after some persuasion, that Captain Isabella killed Morales to take command of his vessel. You must go to the Port and decide whether to tell the Duke of Medina or confront Captain Isabella directly.
+You have discovered that Captain Isabella killed Captain Morales to gain command of his ship. You must decide whether you want to report her to the Duke of Medina in the Port District - or keep her secret to yourself.
+Return to the coastline outside of Barcelona and tell the spirit of Captain Morales that Isabella killed him to take over his command.
+The Demokin sailor Brannigan would not tell you specifically who the murderer is, but you did notice that he used the word "She" when describing the murderer.
+Captain Isabella has admitted that she killed Captain Morales. However, after hearing the explanation for her actions, you have promised to keep her secret.
+You have accepted a bribe from Captain Isabella to remain silent about her crime. You have agreed to end your invesigation in exchange for her gold.
+	

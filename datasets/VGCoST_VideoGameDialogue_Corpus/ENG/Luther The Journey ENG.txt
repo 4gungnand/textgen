@@ -1,0 +1,214 @@
+@Luther: The Journey ENG, Developer: Target Games, 2017, Android/iOS.
+@Many thanks to Anne Sauer and Martin Thiele-Schwez from Target Games for providing the text.
+
+Characters
+Items
+Continue
+Glossary
+Update
+Start game
+New game
+Language
+Credits
+Menu
+Shortcut
+Trade
+Cancel
+Pursuer
+shortcut
+...
+Continue
+Uncertain effect
+In-App-Purchase
+Lose
+Receive
+Pursuers gain
+
+Pursuers lose
+
+Km
+
+Offline
+Your phone is not connected to the internet.
+Play offline
+Reconnect
+
+Choose difficulty setting
+Easy
+Medium
+Purgatory
+Start
+Locked
+Purgatory is not yet waiting for you. Play the game to unlock this difficulty level.
+
+Active game
+Do you want do overwrite the current game state?
+Overwrite
+Cancel
+
+You were caught
+You did not finish the level.
+Restart level
+
+Level won
+You have reached the next waypoint.
+Next level
+
+Game won
+You have reached the goal of your journey.
+Yay
+
+New glossary entry!
+
+YOU ARE GETTING SLOWER!
+Cater for your companions' needs to advance faster
+YOU ARE GETTING FASTER!
+Cater for your companions' needs to keep up the speed
+
+OK
+
+Happiness
+Offer
+Our offer
+
+Travel progress
+Start
+
+Here are Luther and his companions
+Each person has four basic needs ...
+... and two inventory slots
+The pursuers are closing in
+There are three travel speeds
+Luther's preaching lowers doubt
+Tired wanderers need a break
+Shortcuts are rare but helpful
+
+Purchase error
+We could not establish a connection to the online store.
+Another purchase is pending.
+The product is currently unavailable.
+Signature is invalid.
+Purchase was cancelled.
+Payment was declined.
+Duplicate transaction encountered.
+The purchase could not be made.
+Back
+Purchase online
+
+Acquire
+Full Version
+LETTER OF INDULGENCE
+"Escape virtual purgatory and be cleansed from sin.
+Unlocks the difficulty level ""Purgatory""."
+YOU ACQUIRED A LETTER OF INDULGENCE
+Difficulty setting "Purgatory" is now available.
+Indulgence
+"Wer nicht will geschmort,
+gebraten oder gehackt werden,
+noch ewig in der Hölle brennen,
+der kaufe Ablässe,
+Gnade und Vergebungen,
+für wenig Geld:
+Gott wird´s ihm vergelten."
+Halt! Do you want to continue your journey?
+Stop right there! This road belongs to us! Guilders are required to continue on your way.
+
+Connecting
+You are being connected.
+Cancel
+
+"Credits
+
+Idea
+Thorsten Unger 
+Jens Fiedler
+
+Gamedesign & Concept
+Martin Thiele-Schwez
+
+Jannis Goossens
+Thorsten Unger
+Jens Fiedler
+
+Producer
+Andre Bernhardt 
+Thorsten Unger
+
+Creative Director
+Jens Fiedler 
+
+Development
+Michael Benda 
+Philipp Schäfer 
+
+Music & Audio Design
+Markus Vögeler 
+
+Historical advice
+Mirko Gutjahr
+ 
+A production by
+Target Games
+
+In co-operation with
+IJsfontein Interactive Media 
+Zeppelin Studio
+Unger & Fiedler
+
+Funded by
+Medienboard Berlin Brandenburg
+Film und Medien Stiftung NRW 
+
+Supported by
+Gemeinschaftswerk der Evangelischen Publizistik gGmbH (GEP)
+Stiftung Luthergedenkstätten in Sachsen-Anhalt
+
+Picture credits
+CC-BY-SA 4.0, Reinhard Kraasch
+"
+"Idea
+Thorsten Unger 
+Jens Fiedler
+
+Gamedesign & Concept
+Martin Thiele-Schwez
+
+Jannis Goossens
+Thorsten Unger
+Jens Fiedler
+
+Producer
+Andre Bernhardt 
+Thorsten Unger
+
+Creative Director
+Jens Fiedler"
+"Development
+Michael Benda 
+Philipp Schäfer 
+
+Music & Audio Design
+Markus Vögeler 
+
+Historical advice
+Mirko Gutjahr
+ 
+A production by
+Target Games
+
+In co-operation with
+IJsfontein Interactive Media
+Zeppelin Studio
+Unger & Fiedler
+"
+"Funded by
+Medienboard Berlin Brandenburg
+Film und Medien Stiftung NRW 
+
+Supported by
+Gemeinschaftswerk der Evangelischen Publizistik gGmbH (GEP)
+Stiftung Luthergedenkstätten in Sachsen-Anhalt
+
+Picture credits
+CC-BY-SA 4.0, Reinhard Kraasch
+"

@@ -1,0 +1,470 @@
+@Momodora: Reverie Under the Moonlight
+@Developer: Bombservice | Publisher: Playism
+@First released: March 4, 2016
+
+@System messages
+Easy: For people who aren't used to playing videogames.
+Normal: For people who are used to playing sidescrolling games.
+Hard: For people who want a tougher challenge! 
+Insane: Don't even try this.
+Would you like to save over your current file?
+By doing so, you'll start a new journey from the very beginning, with some changes.
+Alright, then!
+Progress saved!
+POISONED!
+CURSED!
+You found an Ivory Bug!
+Got Bellflower.
+Got Astral Charm.
+Got Edea's Pearl.
+Got Bakman Patch.
+Got Tainted Missive.
+Got Magnet Stone.
+You found a Vitality Fragment!
+Got Monastery Key.
+Does not open from this side
+Locked
+Used Monastery Key.
+Talk
+Pray
+Got Soft Tissue.
+Got Garden Key.
+Got Dirty Shroom.
+Used Garden Key.
+Got Cat Sphere.
+Got Torn Branch.
+Got Sparse Thread.
+Inspect
+Received Bellflower!
+Received Hazel Badge!
+Received Passiflora!
+MAP COMPLETION:
+Yes
+No
+It's a golden bell.
+Thank you for trying this demo version!
+Your HP has been increased.
+But your HP is already maxed.
+Got Cinder Key.
+Got Pocket Incensory. 
+Karst Crest needed to pass
+Used Cinder Key.
+Got Black Sachet.
+This skull appears to be laughing.
+Bathe Maple Leaf in Hibisco tea?
+Got Fresh Spring Leaf.
+Got Sealed Wind.
+Got Heavy Arrows.
+Got Passiflora.
+Got Bloodstained Tissue.
+You found a Crest Fragment! Its essence grants you the ability to dodge mid-air!
+You found a Crest Fragment! Its essence grants you the ability to charge arrows faster!
+You found a Crest Fragment! Its essence grants you the ability to a new bow charge level!
+You found a Crest Fragment! Its essence grants you the ability to warp when praying!
+Unlocked 'Insane' difficulty!
+
+@Item Messages
+Passive Effect: increases invincibility frames and defense.
+Passive Effect: increases attack by 100% when in low health.
+Active Effect: restores a small amount of HP per use.
+Passive Effect: sometimes enemies will drop twice as much munny.
+Passive Effect: grants poison properties to your arrows.
+Passive Effect: grants poison properties to your arrows.
+Passive Effect: restores a small amount of HP per kill, but enemies won't drop munny.
+Passive Effect: attracts munny stars.
+Active Effect: inflicts poison on the user.
+Passive Effect: raises user's resistance to status ailments.
+Passive Effect: restores HP whenever user is poisoned.
+Active Effect: fully restores the user's HP.
+Active Effect: temporarily increases attack by 50%.
+Passive Effect: slowly restores HP.
+Active Effect: temporarily increases attack by 100%, at the cost of HP.
+Passive Effect: heavily increases attack power, at the risk of losing HP.
+Passive Effect: emits a sound when near secrecy.
+Key Item.
+Active Effect: summons several Bak blocks.
+Active Effect: alternates between cat and human forms.
+Key Item.
+Passive Effect: restores a small amount of HP per kill.
+Key Item.
+Key Item.
+Key Item. Allows warping when praying.
+Active Effect: increases visibility in dark areas.
+Key Item.
+Key Item.
+Active Effect: casts protective dark sorcery.
+Active Effect: creates an artificial healing zone.
+Key Item.
+Active Effect: casts a powerful burst of energy.
+Active Effect: casts protective light sorcery.
+Passive Effect: increases power of arrows.
+Active Effect: casts offensive sorcery.
+Key Item.
+Key Item.
+Passive Effect: adds flame damage to your attacks.
+Key Item.
+Passive Effect: drastically increases speed of arrows.
+Passive Effect: arrows pierce through enemies.
+Active Effect: casts wind sorcery.
+Key Item.
+Key Item. Grants a new bow charge level.
+Key Item. Increases arrow charging speed.
+Key Item. Allows mid-air dodging.
+Key Item. Allows warping when praying.
+
+@Item lore
+Manually sculpted from minerals found in the depths of the Green River. The piece comes from a middle-western empire, evident by its engraving.
+Very small necklace. Those who wear it will find strength in its strange blessing, hoping to retrieve that which was lost.
+Sour flower with restorative powers.
+An old, worn-out charm. Radically increases your luck.
+Edea was a sinner who betrayed her own people. For such acts, she was purged, and her body sent to a sacred grove, far from home.
+A pearl made to look like the rare jewel of a demon.
+Ring made of blood, possessing the ability to drain the remnants of fallen enemies.
+A peculiar rock, rarely found on the surface.
+A favorite of the previous King of Karst. His baptismal name is kept in absolute secrecy, to avoid misfortune.
+Solidified state of a fairy's tear. Lightly enchanted, it scintillates subtly.
+Dreadful liquid produced by Toar, the slumbering doctor. Its aroma, although deadly, has charmed many unfortunate souls.
+A rare flower, harvested from the dried Whiteleaf Park.
+Soft seed made of crystal. Quite difficult to grow into an adult tree, due to its delicacy.
+Medal from the province of Crominia. Carried by messengers mounted on deers, dedicated to a life of long travels.
+The followers of Esselin preach forgiveness, but their thoughts are spiteful and filled with hatred.
+Sachet applicable to one's chest. Its scent might induce sudden frenzy.
+A ring often sought for its aesthetic value. Few know of its secret uses.
+Simple gift of subjective significance.
+An absolutely tasteless object. Belonged to Moka, the demon servant of the undead witch Lubella.
+Object of unknown sorcery. Looks like an ordinary glass ball.
+A trinket, as useless as it may be, can still hold a place in our heart. This shiny little badge in particular seems to depict an owl.
+The Whiteleaf Park, affected by the Queen's sorcery, was displaced towards the bottom of the city. It was infested by underworld spirits and demons, such as the immortal witch Lubella. 
+
+@Area names
+Sacred Ordalia Grove
+Karst City
+Forlorn Monastery
+Subterranean Grave
+Whiteleaf Memorial Park
+Cinder Chambers
+Royal Pinacotheca
+Karst Castle
+Frore Ciele
+
+@Boss names
+Arthropod Demon Edea
+Pardoner Fennel
+Moka
+Lubella, the Witch of Decay
+Derelict Frida
+Archpriestess Choir
+Heretical Arsonist
+Royal Huntress Magnolia
+Duchess Lupiar
+Accurst Queen of Karst
+
+
+@Dialogue
+Ferryman: I'm afraid this is as far as I can take you.
+Ferryman: I'm sorry. Anything close to the city is too dangerous.
+Ferryman: Surely, that shouldn't be a problem for a priestess like you.
+Ferryman: Fighting using a leaf must be difficult...
+Ferryman: But I have faith in your ability to seal the curse away.
+Ferryman: It has spread to your land too, after all.
+Ferryman: For now, maybe the best you can do is seek an audience with our Queen.
+
+Spider: U-Uguu...
+Spider: W-wanna buy...?
+
+Merchant: You came from that imp-infested forest...?
+Merchant: Hi ha ha... Interesting.
+Merchant: How can I help you?
+Merchant: Thank you!
+Merchant: You do not have enough munny to buy that.
+Merchant: You already own this item.
+
+Cath: What are you looking at? I'm human, like you.
+Cath: You don't seem very capable of protecting yourself.
+Cath: Take my word and look for shelter.
+Cath: My name is Cath. I'm a knightess in service of the kingdom.
+Cath: So, you are a priestess from Lun. And you're seeking the Queen's aid?
+Cath: Ha. Ha. Ha.
+Cath: You think she has any interest in your little village?
+Cath: Well, here's some bad news.
+Cath: I've heard rumors of an undead witch lurking around...
+Cath: Progressing deeper into the city is very risky.
+Cath: If you are adamant about meeting with the Queen, my advice only goes so far.
+Cath: No one wants to be in this forsaken city any longer.
+Cath: Our entire kingdom feels like a grave. The death count keeps going up daily.
+Cath: I don't have much left other than the memory of my sister, Cathryn.
+
+Cath: Thank you for your assistance. Are you hurt?
+Cath: Since you're still around, perhaps you'll hear me out.
+Cath: You damn roach. I'm not wasting my time with you!
+Cath: Good.
+Cath: I've suspected something was amiss up there at the castle.
+Cath: The Queen I once served was noble and caring, but now she's turned into a morbid figure.
+Cath: Anything under her direct control is lost, so I've deserted her order of knights.
+Cath: Here's my proposal: taking down the Queen.
+Cath: You mentioned her curse has reached your homeland.
+Cath: Should you choose to side with me, you're going to need a special crest.
+Cath: It was split into four pieces. One of its fragments should be around here...
+Cath: It seems we don't have many alternatives.
+Cath: We have to behead the lovely Queen.
+Cath: S-say, maybe we should hang out more once all of this is done...
+Cath: Argh!
+Cath: It's my first time seeing a sacred leaf in action.
+Cath: Certainly an interesting way of fending off enemies...
+Cath: Once you have the four parts, head to the locked door at the entrance of the city. 
+
+Cath: K... Kaho...
+Cath: Ah... Hah...
+Cath: Please... end my suffering...
+Cath: Make the pain... s...top...
+Cath: ...
+
+Citizen: I'm not scared.
+Citizen: The royal court has been ignoring us citizens ever since this kingdom fell to a curse.
+Citizen: If you want to stay safe, don't leave outside.
+Citizen: Make this stop...
+
+Cleric: A neophyte? Do you seek salvation?
+Cleric: You can achieve salvation from eternal damnation by donating to Saint Esselin.
+Cleric: A recommendation of at least 15 munnies is needed for that.
+Cleric: We are thankful. May you find peace.
+Cleric: You do not have the minimum value we require.
+Cleric: May the Lord have mercy on you.
+Cleric: Personnel Only
+Cleric: ...
+Cleric: We are a small minority now that the Her Highness propagated her destruction.
+Cleric: Most of the population has lost faith in the gods...
+Cleric: She's to blame for all that is wrong right now.
+Cleric: Saint Esselin is absolute. His wish reigns supreme.
+Cleric: You are safe here with us.
+
+Choir: Our prayers have been heard. The Witch of Decay and her demons have been vanquished.
+Choir: Little by little, the voice of the gods pierce through this kingdom shrouded in darkness.
+Choir: Still, for this convent to go against Her Highness' wishes... It is a disgrace to the name of our lord.
+Choir: Her kindness knows no bounds. If you so desire, she'll protect even a heretic from Lun such as you.
+Choir: Under the sacred protection of our Lord, let us pray for the souls of those departed, and for those wasted by the dark.
+Choir: Please, my Lord, have mercy on the soul of my poor sister. So she can rest in peace...
+Choir: That tissue you possess...
+Choir: It certainly belonged to my younger sister.
+Choir: Would you be willing to give it to me?
+Choir: Handed in the Soft Tissue.
+Choir: Thank you for your kindness.
+Choir: Like my deceased sister, you pose a threat to the Crown.
+Choir: I can't idle around when you do as you please. Pray your soul will go in peace.
+Choir: Lord Esselin, have mercy on me...
+
+Fennel: Why...? My Lord...
+Fennel: The Queen destroyed this kingdom's faith.
+Fennel: This convent, our abode, is all that's left for those who pray.
+Fennel: Maiden in white... You are not one of us.
+Fennel: Perhaps you are siding with the Queen?
+Fennel: Look at what she's done to this kingdom!
+Fennel: It is my duty to expurge that evil!
+
+Moka: Huh?
+Moka: Looks like some outsider missionary...
+Moka: Ke he he...
+Moka: Ah ha ha... Your rotten corpse will serve my mistress well!
+Moka: You little pest...
+Moka: I can't waste any more time with you!
+Moka: No... No!
+Moka: NO...! NO! NONONONO!!!
+
+Paramol: Don't come any closer.
+Paramol: Oh well. You seem sane enough.
+Paramol: You are a priestess seeking an audience with the royal court?
+Paramol: In the present state, reaching the castle is highly difficult.
+Paramol: You won't find help easily in this city, but...
+Paramol: My Master might be able to guide you.
+Paramol: She lives inside this city's monastery, surrounded by cats.
+Paramol: Have you seen the people of this city? Everything is lost.
+Paramol: Fear destroys our minds. Stay safe.
+Paramol: Have you heard? The pardoner's older sibling has returned.
+Paramol: She is one of the court authorities on behalf of the convent.
+Paramol: Perhaps you'll be interested in meeting her.
+
+Cotillard: If it isn't an unfamiliar face to this monastery.
+Cotillard: A devout from Lun, I see. You can call me Cotillard.
+Cotillard: Oh? You have met with Paramol?
+Cotillard: Ke ke ke... Such innocence.
+Cotillard: So, you are concerned about your homeland. Indeed, the darkness assaulting your people hails from here.
+Cotillard: Our Queen has become possessed by a malevolent greed.             
+Cotillard: She's the one responsible for many casualties. Not only here, but in other lands,             too.
+Cotillard: Ke ke ke...
+Cotillard: Perhaps you should head to the castle. Just don't expect kindness from those who live there.
+Cotillard: You'll have to find the way on your own.
+Cotillard: Here, this should help you a bit.
+Cotillard: Be careful. It's been only a year since all of this started, but most of our population is completely degenerated.
+Cotillard: This area has been declared forbidden by the nobility, so it's refreshing to see an outsider.
+Cotillard: I see you've made some progress. Heading to the castle, still?
+Cotillard: The source of this mess, ke ke ke...
+Cotillard: When Her Highness made a contract with the Underworld, certainly she did not expect this outcome.
+Cotillard: Or did she?
+Cotillard: I hope for the success of your endeavors, maiden from Lun.
+Cotillard: Face the loyalty that remains, if it has not turned to fear yet.
+
+Eri: Finally out of the cell...
+Eri: It should be safe here. This place seems completely abandoned.
+Eri: Now... Which way is the forest again...?
+Eri: H-Huh.
+Eri: What's with those clothes...? Who are you?! Identify yourself, now!
+Eri: Priestess? Okay, then.
+Eri: Here's a friendly warning: you won't find safety in this region anymore.
+Eri: According to hearsay, the Queen summoned a storm of disease from her castle, one that's spreading throughout the world...
+Eri: Look, you don't seem like a bad person.
+Eri: Please run away from here and save yourself while you still can.
+
+Eri: I'm glad you are still alive.
+Eri: I guess I didn't introduce myself last time.
+Eri: My name is Eri. Nice to meet you.
+Eri: So, you came here from the west.
+Eri: Hmm. Anywhere would be safer than here. This city is...
+Eri: Our people... Have become shapeless, aimless ghosts.
+Eri: We were left here to die, don't you think?
+Eri: I... You are right.
+Eri: Ah... Thank you. Your words give me hope.
+Eri: I'm retreating to the bordering forest. That area is protected from the Queen's curse.
+
+Eri: Ah, how is it going?
+Eri: I see. You've come from far away, and even your homeland is being affected by our curse...
+Eri: Hey! That Hazel Badge!
+Eri: I wonder if you'd be willing to trade it for this special item I possess?
+Eri: Thank you.
+Eri: If you change your mind, I'll be waiting.
+Eri: Got Blessing Charm!
+Eri: Have faith, Kaho. I know things will turn out better soon!
+Eri: I'm sorry...
+
+Florist: Ah... Hello. How may I help you?
+Florist: You may have noticed parts of the city have been affected by a foul curse.
+Florist: This area in particular has been displaced, and is now corrupted by the spirits of the dead.
+Florist: And so my dear plants have dried to this souless form.
+Florist: I've been looking for this rare insect species, a kind of Ivory Bug.
+Florist: If you happen to come across one of those, please bring it to me! I will reward you any way I can.
+Florist: I see you have found the special bug I told you about! Here, take this for a reward.
+Florist: Please, if it's not too much work, can you bring more of those for me?
+Florist: You shall not go unrewarded!
+Florist: Ah! More bugs! Thanks, kind girl. Here's the reward I promised!
+Florist: It seems we have around 20 of those Ivory Bugs here...
+Florist: They are small, but provide my plants with necessary nutrients.
+Florist: Thank you from the bottom of my heart for bringing me all those bugs!
+
+Imp: I have no business with you.
+Imp: Go away, you stupid girl!
+Imp: Oh, is that... A dirty shroom...?
+Imp: P-pleasegiveittome?
+Imp: Gave the Dirty Shroom.
+Imp: Thank you, human girl!
+Imp: Here, take this for your kindness.
+Imp: Got Rotten Bellflower.
+Imp: ...
+
+Himehorn: Uu...Nohorn, go home!
+Himehorn: Aaaa... My cake...
+
+Askorn: Cough...
+Askorn: I'm sorry, who are you?
+Askorn: I see. So you are Kaho, huh? What a unique name.
+Askorn: Call me Askorn. I take it you are unaware of the situation of these lands.
+Askorn: You mentioned your journey brought you here in search of the Queen...
+Askorn: If you really intend to continue further into the kingdom of Karst, beware.
+Askorn: A ghastly presence has been enveloping everything.
+Askorn: This sacred grove is one of the few untouched spots.
+Askorn: Karst City is ahead. As dangerous as it is now, I must visit it to search for a beloved one.
+Askorn: I've been asleep for a hundred years. Enough to make me unfamiliar with this kingdom.
+Askorn: In my days, people would come to this grove and pray to higher deities.
+Askorn: The people of this kingdom may have lost their faith, but I still have mine within me.
+Askorn: Perhaps it was those heretic actions that led us to the present state of events...?
+
+Askorn: Hey, Kaho!
+Askorn: Help me somehow!
+Askorn: Thank you.
+Askorn: I was imprisoned here, and feared all my hope was lost.
+Askorn: Now I can resume my search for my wife.
+Askorn: We both died long ago, yet it seems the dead have crossed the border towards this world.
+Askorn: There's much left untold. I plan to reunite with her and escape this forsaken city.
+Askorn: I can see you are still in one piece.
+Askorn: That kind of attire you use...
+Askorn: It's not something from this land, am I correct?
+Askorn: No matter.
+Askorn: At this state of decay, none of us should be idling carelessly.
+Askorn: I'll be around. Take care!
+Askorn: The township's past prosperity and glory are long gone, it seems.
+Askorn: In this time of need, people won't fight, and people won't pray.
+Askorn: Whatever is left won't remain for much longer.
+
+Askorn: My dear Cecilia...
+Askorn: ...
+
+Fishgirl: Please, you must find a way to get me out from this cell.
+Fishgirl: Some sort of spell is spreading from this kingdom to the lands of the west, home of my people.
+Fishgirl: Please... Do not leave me alone here...
+Fishgirl: Find a way to put a stop to this...
+
+Nutmeg Liz: Huh? W- Who are you?! And how did you get here?!
+Nutmeg Liz: Get out, outsider! Now! You are giving me the creeps!!
+Nutmeg Liz: Why are you still here? W-What is it that you desire?!
+Nutmeg Liz: Um, whatever you say.
+Nutmeg Liz: I am Nutmeg Liz, c-curator of this Royal Pinacotheca.
+Nutmeg Liz: Like I told you before: LEAVE.
+Nutmeg Liz: I wish there was a reason for you to stick around, but there isn't.
+Nutmeg Liz: You have business with the Queen...?
+Nutmeg Liz: Well, that's rare. Do you realize...
+Nutmeg Liz: No, nevermind.
+Nutmeg Liz: Be glad you are still alive and breathing. Don't worry, though, your time is coming.
+Nutmeg Liz: Nye he he he he he...
+Nutmeg Liz: At this point, we are walking a path of uncertainties. It brings out the best and the worst out of us.
+
+Merlot: Ah... Who are you? Someone from the southern provinces?
+Merlot: There's a certain... peculiar air around you.
+Merlot: Please, join us here. It's safer.
+Merlot: Though... It seems you can manage your way around. 
+Merlot: What we remember of the past are simple figments of our memories.
+Merlot: Personal treasures that aren't stored anywhere else.
+Merlot: The past doesn't exist... The present is all we've got.
+
+Mallory: This building is corrupted...
+Mallory: Once, it housed fine displays of art, but now it's been doomed to distorted shapes filled with evil.
+Mallory: I am glad you found us. We've been hiding here for many months,                    alone.
+Mallory: Death could come any day, any minute now. None of us know how long we've got.
+Mallory: Which is why we have to make each day matter.
+
+Lupiar: So you are the one who engaged with Fennel.
+Lupiar: Turn back now, foreigner. Her Highness does not want to be disturbed.
+Lupiar: Such impudence...
+Lupiar: Magnolia!
+Magnolia: I know your kind... Cough...
+Magnolia: Just like the pardoner, you stand against our Queen...
+Magnolia: Cough... Blinded by faith.
+Magnolia: The Queen would never... hurt u... s...
+
+Prudence: You cannot deceive me.
+Prudence: Meow... Welcome to Karst Castle, human.
+Prudence: That black dress... A sacrifice maiden from Lun, I presume?
+Prudence: Meow... Perhaps even your methods wouldn't be enough to save us.
+Prudence: Meow... Ha ha ha ha...
+
+@Bad ending
+Kaho, the high priestess from the village of Lun, failed in her mission of sealing away the curse.
+The world of the living was further infested by spirits of the dead, who continued to spread misery throughout the world.
+
+@Good ending
+When the curse from east reached the village of Lun, a priestess was sent on a sacred mission to seal it away.
+The priestess triumphed over the dark, stopping the spread of the curse by drawing it into her body, but she faded away in the process.
+Now only a faint memory of her story remains, passed on as tradition.
+Even so, her spirit of determination lingers on, guiding younger priestesses towards finding peace.
+
+@Developer messages
+Welcome to the DEVELOPMENT ROOM! Congratulations on making it this far.
+This is where you get to meet the development team.
+If you wish to go back, proceed to the left.
+rdein: Hello! I hope you are enjoying Momodora.
+rdein: Whatever we make next, I hope you'll look forward to it, too!
+PKBT: oh...? my developer room quote...?
+PKBT: i haven't thought of one yet...
+PKBT: rdein says i need a vacation... i guess i could say that...
+Hernan: You can achieve anything as long as you believe in it.
+Hernan: Don't give up my friend! See you again in the future! 
+...
+notoriousKnave: Boo!
+thernz: I didn't do anything for this game

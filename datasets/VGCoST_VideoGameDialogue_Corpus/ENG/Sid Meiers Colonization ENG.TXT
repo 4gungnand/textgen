@@ -1,0 +1,3153 @@
+@Sid Meier’s Colonization, Developer: MicroProse, 1994, DOS/PC/Mac/Linux/Amiga.
+
+@COLONIZATION Colony Names List
+@Copyright (c) 1994 by MicroProse Software
+@Default colony names by nation.
+@ENGLISH
+Jamestown,1607
+Plymouth,1620
+Roanoke,1585
+Barbados,1627
+Penobscot,1628
+Boston,1630
+Baltimore,1632
+Providence,1636
+Hartford,1636
+New Haven,1640
+New York,1664
+Albany,1664
+New Jersey,1666
+Charleston,1670
+Philadelphia,1682
+Newport
+Yorktown
+Annapolis,1708
+Halifax,1710
+Lexington
+Savannah
+Williamsburg
+St. John's
+Norfolk
+Concord
+Wilmington
+Richmond
+Portsmouth
+Camden
+Springfield
+Newport News
+Antigua
+Rupert House,1668
+Kingston
+Reading
+Ottawa
+@STOP
+@FRENCH
+Quebec
+Montreal
+Guadeloupe
+Cayenne
+St. Louis
+Martinique
+Port Royal
+Port au Prince
+Trois Rivieres
+New Orleans
+Fort Caroline
+Fort Detroit
+Fort Frontenac
+Fort Pontchartain
+Fort Tadoussac
+Fort Canada
+Fort Niagara
+Fort Crevecoeur
+Fort Roquelai
+Fort Laguille
+Fort Brest
+Fort Richelieu
+Fort Louis
+Fort Prudhome
+Fort Sandouski
+Fort du Quesne
+Fort Erie
+Fort Maurepas
+Fort Francois Xavier
+Fort St. Michel
+Fort Chicago
+Fort-de-France
+Fort Frances
+Fort St. Joseph
+Fort Miannis
+Fort Orleans
+Fort St. Ignace
+Fort Le Rocher
+Fort Miyamis
+Fort Rosalie
+Fort Balise
+Fort Conde
+Fort Pensacola
+Fort Toulouse
+Fort St. John
+Fort Kappa
+Fort Biloxi
+Fort Mobile
+Sault Ste. Marie
+Baton Rouge
+Denonville
+Gananoque
+St. Croix
+Port Cartier
+Terre Haute
+Trois Pistoles
+Sept-Iles
+Louisville
+St. Barthelemy
+St. Pierre
+Miquelon
+Des Moines
+Havre St. Pierre
+Port Menier
+Portage la Prairie
+St. Boniface
+@STOP
+@SPANISH
+Isabella
+Santo Domingo
+San Salvador
+Veracruz
+Havana
+Trinidad
+San Juan
+Panama
+Cartajena
+St. Augustine
+Lima
+Buenos Aires
+Guatemala
+Honduras
+Potosi
+Santiago
+Guadalajara
+Asuncion
+Managua
+Costa Rica
+Santa Fe
+Los Angeles
+Bogota
+Corpus Christi
+Acapulco
+Santa Marta
+San Agostin
+Caracas
+Tobago
+San Francisco
+Santiago
+San Diego
+San Angelo
+El Paso
+Cancun
+Valparaiso
+Concepcion
+La Plata
+Port of Spain
+@STOP
+@DUTCH
+New Amsterdam
+Fort Orange
+Fort Nassau
+New Holland
+Vlissingen
+Curacao
+Recife
+Bahia
+Paramaribo
+Pernambuco
+St. Martin
+St. Eustatius
+Essequibo
+Berbice
+Surinam
+Paraiba
+Bonaire
+Willemstad
+Aruba
+Santa Catharina
+Saba
+Utrecht
+Haarlem
+Tappans
+Hoboken
+Rensselaerswyck
+Nederhorst
+Fort Cristina
+Gottenburgh
+Fort Kasimiris
+Fort Elsenburgh
+Naiack
+@STOP
+@DOS
+Exit to DOS?
+Yes
+No
+@DOSYES
+Exit to DOS?
+Yes
+No
+@RETIRE
+Do you really want to quit?
+Yes
+No
+@BEGINMENU
+Start a Game in NEW WORLD
+Start a Game in AMERICA
+CUSTOMIZE New World
+LOAD Game
+View Hall of Fame
+@AMERICA
+Would you like to use the original Americas map, or a map prepared with the map editor?
+Original Americas
+Map Editor
+@MAPTOLOAD
+Select Map File to Load
+@MULTI
+Multiplayer Start Selected
+Select powers to be controlled by human players.
+@MULTINEXT
+{%STRING0} Player Turn
+Press any key for {%STRING0} player's turn.
+@MULTIREV
+Warning!
+The Revolution does not function in multi-player mode.  If
+you declare independence, the game will become a single player
+game.  Are you sure you want to do this?
+Declare independence
+Never Mind
+@GAMEOPTIONS
+Set Game Options
+Show Indian Moves
+Show Foreign Moves
+Fast Piece Slide
+End of Turn
+Autosave
+Combat Analysis
+Water Color C~ycling
+Tutorial Hints
+@COLONYOPTIONS
+Set Colony Report Options
+Labels on {buildings}
+Labels on {cargo} and {terrain}
+Report when colonists {trained}
+Report {food} shortages
+Report {raw materials} shortages
+Report {tools} needed for production
+Report {inefficient} government
+Report {new cargos} available
+Report {Sons of Liberty} membership
+Report {rebel} majorities
+@SOUNDOPTIONS
+Set Sound Options
+~Background Music
+~Event Music
+~Sound Effects
+@SAVEGAME
+Select Save Slot
+@SAVEGOOD
+%STRING1 saved as %STRING0.
+@SAVEERROR
+Error saving game %STRING0.
+@LOADGAME
+Select Game To Load
+@LOADGOOD
+Loaded %STRING0 successfully.
+@LOADNOT
+%STRING0 is not a valid save file.
+@LOADOLD
+%STRING0 is an obsolete save file.
+@LOADSIZE
+%STRING0 does not match the current map size.  It cannot be loaded at this time.
+@LOADERROR
+Error loading game %STRING0.
+@PICKNATION
+Select a European Power
+England
+France
+Spain
+Netherlands
+@DIFFICULTY
+Select a Difficulty Level
+Discoverer
+Explorer
+Conquistador
+Governor
+Viceroy
+@LEADERNAME
+Please Enter Your Name.
+@FINDCITY
+Where the heck is . . .
+Colony:
+@NOCITY
+"%STRING0" not found.
+@VICEROY
+Year of Our Lord
+1492
+An Audience With
+The King of %COUNTRY
+"For the greater glory of %COUNTRY,
+we dub thee Viceroy of the New World.
+Go and explore this new land. Settle
+it and bring wealth and glory to
+yourself and our nation."
+@VICEROY2
+Year of Our Lord
+1492
+An Audience With
+The Stadtholder
+"For the greater glory of %COUNTRY,
+we dub thee Viceroy of the New World.
+Go and explore this new land. Settle
+it and bring wealth and glory to
+yourself and our nation."
+@VICEROY
+Year of Our Lord %YEAR
+Audience With The King of %COUNTRY
+"For the greater glory of %COUNTRY, we
+dub thee Viceroy of the New World. Go
+and explore this new land. Settle it
+and bring wealth and glory to yourself
+and our nation."
+@LANDHO
+Land Ho!  What shall we call this new land, Your Excellency?
+Name:
+@COLONY
+What shall we name this colony?
+Name:
+@RENAMECOLONY
+What shall we rename this colony?
+Name:
+@LANDFALL
+Shall we make landfall, Your Excellency, and leave the ships behind?
+Stay With Ships
+Make Landfall
+@LANDFALL2
+Our ships cannot navigate up this river, Excellency.  Shall we make landfall and leave the ships behind?
+Stay With Ships
+Make Landfall
+@ONLYPIO
+That function can be performed only
+by pioneers.
+@ONLYCOL
+That function can be performed only
+by colonists.
+@SHIPCOMBAT
+Only Privateers and Frigates can attack enemy ships.
+@SHIPLAKE
+Ship units cannot enter inland lake squares.
+@LANDFIRST
+Land units cannot enter an enemy occupied square from on board a ship.  You must first unload them into an empty or friendly-occupied square.
+@SEACOLONY
+It may surprise you to learn that colonies
+cannot be built at sea.
+@NOPORT
+This square does not have access to the ocean, Your Excellency.  If we build a colony here we must transport its produce to port using wagon trains, which we can build in any colony.
+"Oh, I forgot about that."
+"And that is exactly what I had in mind."
+@BUILT
+%STRING0 colony produces {%STRING1}.
+@FULL
+The colony of {%STRING0} is far too crowded,
+Excellency.
+We had best find another colony for these immigrants.
+@NOTEACHER
+Only colonists who have mastered a profession may teach.
+@NEEDCOLLEGE
+We must build a college to teach that
+profession ({%STRING0}) in our colony.
+@NEEDUNIVERSITY
+We must build a university to teach that
+profession ({%STRING0}) in our colony.
+@TRAINFAIL
+We have a teacher in {%STRING0}, but all the colonists there already have specialty professions.  Perhaps you should clear the specialty of one of the colonists by selecting him on the colony screen and picking "{Clear Specialty}" from the Jobs menu.
+@TRAINCRIMINAL
+A criminal in {%STRING0} has become an indentured servant through education.
+@TRAININDENTURED
+An indentured servant in {%STRING0} has become a free colonist through education.
+@TRAINPROFESSION
+A colonist in {%STRING0} has learned the specialty profession {%STRING1}.
+@SIEGE
+This colony is under siege, since enemy combat units outnumber friendly combat units in the area.  Until the siege is lifted, only Soldier and Dragoon units can be created here.
+@ABANDON
+Shall we indeed abandon our %STRING0 colony, Your Excellency, forfeiting all of our hard work here?
+Yes, it is God's will.
+Never! That would be folly.
+@ABANDON2
+Shall we indeed abandon our %STRING0 colony, Your Excellency, forfeiting all of our hard work here?  If we have no colonies at all after 1600, the King may revoke our charter!
+Yes, it is God's will.
+Never! That would be folly.
+@SAILHOME
+We have reached the high seas, Your Excellency.  Shall we sail for Europe?
+Yes, steady as she goes.
+No, let us remain in these waters.
+@SAILAWAY
+Shall we set sail for the New World,
+Your Excellency?
+Yes, steady as she goes.
+No, let us remain in port.
+@SAILPORT
+Select a port to sail to:
+@TRAVELPLACE
+Select a colony to travel to:
+@UNREST
+Religious unrest in %COUNTRY causes increased
+emigration.  Colonists ({%STRING1}) now available in %STRING0.
+@RECRUIT
+The following individuals will accompany us to the New World if we will pay their passage ({%NUMBER0 gold}).  Whom shall we recruit?
+@RECRUITCHOOSE
+Religious unrest in %COUNTRY causes increased emigration.  Colonists now available in %STRING0.
+The following individuals will accompany us to the New World to pursue religious freedom.  Whom shall we recruit?
+@RECRUIT2
+The following specialty professions are available among the %STRING0. Which shall we recruit?
+@KINGRECRUIT
+The Royal University can provide us with specialists if we grease the right palms.  Which skill shall we request?
+@PURCHASE
+The following items are available.  Which shall we purchase?
+@SCHOOL1
+The Schoolhouse can support a faculty of only one
+teacher at a time, Your Excellency.
+@COLLEGE2
+The College can support a faculty of only two
+teachers at a time, Your Excellency.
+@UNIV3
+The University can support a faculty of only three teachers at a time, Your Excellency.
+@NODOCKS
+We cannot operate fishing boats at this colony until we build Docks, Your Excellency.
+@CARGOREADY0
+Our carpenters
+cannot continue their work until a new supply is found.
+@COTTON
+Our weavers
+cannot continue their work until a new supply is found.
+@TOBACCO
+Our tobacconists
+cannot continue their work until a new supply is found.
+@CANESUGAR
+Our distillers
+cannot continue their work until a new supply is found.
+@FURS
+Our fur traders
+cannot continue their work until a new supply is found.
+@ORE
+Our blacksmiths
+cannot continue their work until a new supply is found.
+@TOOLS
+Our gunsmiths
+cannot continue their work until a new supply is found.
+@FOOD1
+{Winter} is coming soon and
+we may {starve} to death!
+@VANISH
+Our colony at {%STRING0} has
+vanished!  The colonists appear
+to have {starved} to death.
+@STARVE1
+We have only {%NUMBER0 food}
+left.  We must have food for the winter months.
+@SPOIL1
+Rumors fly in Europe! Immigrants line
+the docks to seek perpetual youth in the New World!
+@LOSTCITY2
+Treasure worth {%NUMBER1$} unearthed
+in the ruins!  It will take a {Galleon} to get this
+treasure back to Europe!
+@LOSTCITY3
+You have
+trespassed on sacred land.  Now
+you must die!"
+@BURIAL1
+The chief offers you a gift
+of {%NUMBER0$}.
+@LOSTCITY8
+The
+%STRING0 tribe is most displeased!"
+@LOSTCITY9
+In exchange for badly needed
+supplies, they swear allegiance to %STRING0.
+@SNEAK
+The
+inhabitants are peacefully working in the surrounding fields.
+They wave to you {happily}.
+@VILLAGESAVAGE
+The
+inhabitants are busy
+in the surrounding fields.  As they wave to you {happily},
+you notice a collection of scalps hanging threateningly from
+a nearby tree.
+@VILLAGEMEDIUM
+The
+inhabitants are busy in the surrounding fields.
+Small parties of warriors practice
+{archery} and frown at you {suspiciously}.
+@VILLAGEBAD
+A
+band of {warriors} eyes you warily.  The others
+are nowhere to be seen.
+@VILLAGEWAR
+A
+collection of scalps hangs threateningly from a nearby
+tree.  From within, you hear the ominous sound
+of {war drums}.
+@INDIANWELCOME
+In tribute to your greatness,
+we give you all the land you now occupy.
+Will you accept our treaty and live side by side with
+us in peace?"
+Yes
+No
+@INDIANHELLO1
+Let us smoke a peace pipe to celebrate
+our perpetual friendship."
+@INDIANCOME
+Prepare for WAR!"
+@INDIANWAGONS
+We therefore demand all {%NUMBER0} of
+the {%STRING2} in these wagons as reparations."
+Hand them over.
+Circle the wagons.
+@INDIANCITY
+We therefore demand {%NUMBER0 %STRING2}
+from the colony stores as reparations."
+Man the stockade.
+Hand them over.
+@INDIANGOLD
+Our own harvest has been plentiful, however,
+and we have come to share our bounty with you.
+We offer you a gift of {%NUMBER0 food} in recognition of the
+everlasting peace between our peoples.  Let us eat together
+and give thanks for our good fortune."
+@INDIANGIVESTUFF
+We have come to offer you
+{%NUMBER0 %STRING2} in recognition of the everlasting
+peace between our peoples."
+@INDIANCOMMENT
+We are concerned, however, that
+your colonies are beginning to overuse the lands near our
+settlements.
+@INDIANBEGFOOD
+Will our brothers of
+{%STRING1} share the bounty of their harvests with us in our
+time of need?"
+"I'm sorry, we gave at the office."
+"We offer you {%NUMBER0} of our {%NUMBER1 food} as a sign of friendship."
+@INDIANWAR
+We
+patiently ask you to stop."
+"Then we shall not build a road, friend."
+"We offer you {%NUMBER1$} in compensation."
+"I'm sorry, but this road is necessary."
+@INDIANFOREST
+We patiently ask you not to destroy it."
+"Let these trees stand forever, then, friend."
+"We offer you {%NUMBER1$} in compensation."
+"Timmmmmmmbeeeeerrrrrrrrrrrr!"
+@INDIANFOREST2
+Your colony at {%STRING1} is now encroaching on
+the forest.  We patiently ask you not to destroy it."
+@INDIANBRIBE
+If we force
+them to attack this turn, they will fight at {%NUMBER0/3
+strength}.
+"Charge!"
+"Then let them rest."
+@NOLOOT
+Natives flee in
+panic!
+@LOOT
+Natives flee in
+panic! {%NUMBER0$} worth of treasure recovered from ruins!
+It will take a {Galleon} to get this treasure back to Europe!
+@LOOT2
+Natives flee in panic!
+@LOOTCASH
+{%NUMBER2$} added to %STRING0 treasury.
+@LOOTFOREIGN
+%STRING0 king pleased with booty.
+@LOOTCAPTURE
+Soldiers
+lose Veteran status.
+@CARGOCAPTURE
+Unit demoted to {%STRING2} status.
+@SHIPDAMAGE
+Ship returns to {%STRING2} for repairs.
+@SHIPSUNK
+Colonists outraged!
+@RAIDBURN
+Colonists demand immediate vengeance!
+@RAIDSCALP
+Colonists appalled!
+@RAIDGOLD
+Colonists enraged!
+@MISSION0
+Church authorities
+are outraged!
+@INDIANWIN0
+King demands
+explanation!
+@INDIANBURNCOLONY2
+Colonists
+frightened.  %STRING2 chief denies involvement.
+@CAPTURED
+{%NUMBER0$}
+plundered!
+@CAPTURED2
+King demands
+explanation!
+@BURNED2
+It can only hold {%NUMBER1}.
+If we add another {%NUMBER2} units, some of the %STRING1 will
+probably {spoil}!
+Never mind.
+Unload the {%STRING1} anyway.
+@EXTORTSTUFF
+Alas, the humble and
+peaceloving {%STRING1} have no gifts worthy of your magnificence.
+We pray that you will be merciful and spare us."
+@EXTORTLAUGH
+Do not try our patience, for
+{%STRING0} warriors are known for their ferocity in times of war."
+@EXTORTNO
+The {%STRING2}
+will not be taken in by your tricks and treachery."
+@TOONEAR
+Therefore, we do not wish to trade with you
+at this time.
+If you approach our shoreline we shall punish you."
+@MADATWAGONS
+We are a peaceful village
+known for our {%STRING0}.  We would gladly trade with
+you if you bring us some badly
+needed {%STRING1}.  We would also pay well for {%STRING2}
+or {%STRING3}.
+@CHIEFGUIDES
+Come sit by the fire and
+we shall tell you tales of {nearby lands}."
+@CHIEFGIFT
+Please take these valuable beads (worth {%NUMBER0$})
+back to your chieftain as a peace offering."
+@CHIEFBORED
+We offer you {%NUMBER0$}
+in exchange."
+"We gratefully accept {%NUMBER0$}."
+"A fairer price would be {%NUMBER1$}."
+"No, let the %STRING1 be our {gift} to you."
+"Never mind."
+@TRADE1
+We are in need of {%STRING1} and {%STRING2}.
+Even {%STRING3} would be of some use."
+@BADHAGGLE0
+Come
+back when you have something else to offer."
+@BADHAGGLE1
+Come back when you have something
+else."
+@BADHAGGLE2
+Perhaps you will
+bring some next time you come to trade with us.  Even {%STRING2}
+would be of some value."
+@DEFICIT
+Which would you like to buy?"
+"{%STRING0}."
+"{%STRING1}."
+"{%STRING2}."
+"Nothing right now, thank you."
+@TRADEWHICH
+Is this acceptable?"
+"We will gladly pay {%NUMBER0$} (of {%NUMBER3$})."
+"A fairer price would be {%NUMBER1$}."
+"Never mind."
+@BUY1
+We shall fill up
+your {%STRING1} with {%NUMBER2 %STRING0} in exchange for {%NUMBER0$}.
+Is this acceptable?"
+"We will gladly pay {%NUMBER0$} (of {%NUMBER3$})."
+"A fairer price would be {%NUMBER1$}."
+"Never mind."
+@NOTENOUGH
+However, we can only teach
+new skills to colonists who do not yet have one.
+Bring us an {indentured servant} or a {free colonist} and
+we will train him."
+@LEARNCRIMINAL
+The {%STRING0} will teach you nothing."
+@LEARNALREADY
+Go and learn
+from them if you will, for we have nothing else to
+teach."
+@LEARNMAD
+You fail
+to understand our ways, so we doubt you will ever
+learn anything from us.  In fact, we wish you would
+leave_._._._your presence offends us."
+@LEARNSLOW
+We see scarce
+hope for you, although you are welcome to remain
+in our village.  Perhaps in time you will
+be productive."
+@LEARNSTAY
+If you wish, however, we {%STRING0} will
+show you how to become a master {%STRING1}."
+"Then I shall become a master {%STRING1}."
+"Not right now, thanks."
+@LEARNLATER
+Perhaps another time."
+@LEARNDONE
+You have learned the
+ways of the {%STRING0} and become a master {%STRING1}.
+We hope you will share this knowledge wisely.  You
+are always welcome to stay in our village."
+@TRADEMANY
+Therefore we do not deign to fulfill
+your request at this time."
+@KINGFUND
+At this
+time we can offer you a grant of only {%NUMBER0$}."
+"We gratefully accept this gift."
+"Never mind."
+@KINGLOWER
+The tax rate is
+now {%NUMBER1%%}."
+@KINGNOTHING
+You may, however, kiss our
+royal pinky ring."
+@KINGRAISE
+After the kindness
+the crown has shown?  For your impudence we shall raise
+taxes by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}."
+@KINGTAX
+The tax rate is now {%NUMBER1%%}.  If you
+wish, you may kiss our royal pinky ring."
+@KINGBLESS
+If you wish, you may kiss
+our royal pinky ring."
+@KINGLAUGH
+You make a funny joke!
+Ho ho ho ho ho!  Independence!  Ha ha ha ha ha!"
+@KINGWELCOME0
+Your exploits in
+the New World please us greatly."
+@MERCANTILISM
+The tax rate is now {%NUMBER1%%}.  If you
+wish, you may kiss our royal pinky ring."
+@PURCHASETAX
+The tax rate is
+now {%NUMBER1%%}.  If you wish, you may kiss our royal pinky ring."
+@TAXOPTIONS
+Kiss pinky ring.
+Hold '{%STRING3 Party}.'
+@TEAPARTY
+Sons of Liberty throw {%NUMBER0} tons of %STRING0
+into the sea at %STRING1!  Colonists refuse to pay new tax.  Parliament
+announces boycott of %STRING0.  %STRING0 cannot be traded in %STRING2
+until boycott is lifted.
+@KISSUP
+Which Founding Father shall we appoint as its next member?
+@FREEDOM
+We note that enemy warships are
+preying on your undefended shipping lanes.  Shall we
+dispatch a {frigate} from the %STRING2 navy to assist
+you?"
+"Yes, I fear it is necessary."
+"No. We shall attend to our own defense."
+@KINGGALLEON2
+We are most pleased at the amount
+of plunder and booty your conquistadores are obtaining
+in the New World.  Alas, we notice that you do not have
+a {galleon} fleet to transport this marvelous treasure home
+to %STRING2.  If you wish, we shall transport the treasure
+home in our own royal galleons once our assessors have
+computed the Crown's proper share."
+"Very well, and let the Crown claim its rightful share."
+"No, I would sooner {kiss} your royal pinky ring."
+@KINGGALLEON3
+We are most pleased at the amount
+of plunder and booty your conquistadores are obtaining
+in the New World.  We do not wish you to be distracted
+by the task of transporting this marvelous treasure home
+to %STRING2.  If you wish, we shall transport the treasure
+home in our own royal galleons {for no extra charge} once our assessors have
+taken a percentage equal to the current tax rate ({%NUMBER0%%})."
+"Very well, and let the Crown claim its rightful share."
+"No, I would sooner {kiss} your royal pinky ring."
+@CASHTREASURE
+In light of the unfortunate loss
+of a Royal {%STRING2} unit, we have graciously decided to
+lower your tax rate by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.
+If you wish, you may kiss our royal pinky ring."
+@KINGNEWWAR
+The arrogant attitude of the {%STRING2} has
+forced us to {declare war} on them.  We have therefore cancelled
+your peace arrangement and we order you to teach
+them a lesson in manners at once.  We shall provide you with {%NUMBER0$}
+from the Royal Treasury and {%NUMBER1} of our {Veteran Soldier} units to
+assist you in carrying out your campaign.
+If you wish, you may kiss our royal pinky ring."
+@KINGVICTORY
+To celebrate our recent victory
+over %STRING2, we have magnanimously decided to LOWER
+your tax rate by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.
+You may, as always, kiss our royal pinky ring."
+@KINGWIFE
+In honor of our recent wedding to
+our %STRING2 wife, we have graciously decided to raise
+your tax rate by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.
+You may, if you wish, kiss our royal pinky ring."
+@KINGWAR
+Because of recent developments in our
+ongoing war with %STRING2, we have decided to raise your tax
+rate by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.  If you
+wish, you may kiss our royal pinky ring."
+@KINGNAVACT
+We are concerned that the Crown is not
+receiving its due share of New World revenue.  We have therefore
+decided to impose a new {Navigation Act}, raising your tax rate
+by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.  If you wish,
+you may kiss our royal pinky ring."
+@KINGSTAMPACT
+The ungrateful attitude of the colonists
+in {%STRING2} makes us ill.  We have therefore decided to teach
+them proper respect for their sovereign by imposing a new {Stamp Act},
+raising the tax rate by {%NUMBER0%%}.  The tax rate is now {%NUMBER1%%}.
+If you wish, you may kiss our royal pinky ring."
+@COUNTRIES
+the Holy Roman Empire
+the Portuguese
+the Ottoman Turks
+the Barbary Pirates
+Russia
+Prussia
+Sweden
+Denmark
+@ORDINAL
+first
+second
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+eleventh
+twelfth
+thirteenth
+fourteenth
+fifteenth
+sixteenth
+seventeenth
+eighteenth
+nineteenth
+twentieth
+twenty first
+twenty second
+twenty third
+twenty fourth
+twenty fifth
+twenty sixth
+twenty seventh
+twenty eighth
+twenty ninth
+thirtieth
+@NEEDTOOLS
+Only {%NUMBER1} tools
+are currently available in %STRING0.
+@NEEDTOOLS0
+No tools
+are currently available in %STRING0.
+@ALREADYHAVE
+The Church of England--theoretically a
+Protestant denomination but maintaining many Catholic traditions--faced
+a series of challenges during the colonial period from would-be
+reformers, or {Puritans}.  The English monarchy shifted its support
+between pro-Catholic and various Protestant factions from generation to
+generation, and the English Civil War (1640-49) resulted in the execution
+of Charles I and a period of Puritan rule (1649-60) under Oliver Cromwell.
+With so much religious conflict at home, the English government had
+neither the desire nor the ability to enforce religious conformity in
+its colonial possessions.  The colonies became havens of
+{religious freedom} for groups (e.g. Puritans, Anabaptists, Quakers) who
+faced persecution in the Old World.
+@NATION0B
+Though French forts, missions, and trading posts soon dotted
+the Great Lakes region, French settlements were generally small enough
+to operate in relative {harmony} with the local native population.  Although
+this relationship was not entirely without incident, the French were often
+able to cooperate profitably with the natives.  This cooperation occasionally
+extended into the military realm.
+@NATION1B
+This victory left Spain with
+a generation of {military men} spoiling for a new avenue of expansion and
+more eager than ever to bring Christianity to the {heathen} at the point
+of a sword.  The New World and its unsuspecting natives provided exactly
+such an opportunity, and the history of the first century of Spanish
+expansion in America is the history of the conquest, plunder, and destruction
+of countless Native American civilizations.  The Spanish were the first
+Europeans to encounter the 'Indians,' and the otherwise mighty {Aztec}
+and {Inca} empires proved psychologically unprepared for the arrival of an
+alien power armed with muskets and thirsty for conquest.  Conquistador
+{Hernan Cortes} arrived at Veracruz in 1519 with a few hundred men and,
+within two years, brought the Aztec Empire to its knees.
+@NATION2B
+A maritime country of {fishermen}
+and {merchants}, the Dutch Netherlands operated large merchant and fishing
+fleets in the North Sea and the Baltic.  Upon achieving political
+independence in the early seventeenth century, this tiny nation found itself
+ideally poised to expand its {overseas trade} into lucrative new markets
+in the Far East and New World.  Unlike their rivals and sometime enemies
+the Spanish, French, and English, the Dutch were ruled by their merchant
+class.  This unique arrangement led them to focus all aspects of state
+diplomatic, military, and economic policy around the {interests of trade}.
+Their strategy proved quite successful, and the Dutch economy
+and merchant fleet expanded so rapidly that the other European powers felt
+compelled to take drastic measures against the Dutch in order to prop up
+their own less successful enterprises.
+@NATION3B
+{Commodity prices} in
+Amsterdam {do not collapse} as quickly as in other European ports and
+they {recover} more quickly.
+@PICKACARGO
+What shall they do?
+Meet With Mayor
+Infiltrate Colony
+Attack Colony
+Nothing
+@LOSTOURSCOUTS
+Their {%NUMBER0 horses}
+have been taken to the colony stables.
+@HELLOFIRST
+Please do
+not interfere with this God-given mission."
+@HELLOUSA
+Please do
+not interfere with this God-given mission."
+@HELLOMEEK
+We continue in our efforts
+to %STRING3."
+@HELLOMANLY
+We note with {displeasure} that your presence continues
+to befoul {%STRING1}, which we have justly claimed
+in the name of {%STRING2}.  Our task here is to %STRING3,
+and you interfere with us at your {peril}."
+@GREATKINGS
+our Queen and the Church of England
+His Most Christian Majesty, King Louis
+the Pope and the Spanish Crown
+the Stadtholder of the United Provinces of the Netherlands
+@GREATDEEDS
+seek a life of {religious freedom} and service to the Crown
+promote the greater {glory} of France
+{convert the heathen} and enrich our Sovereign
+build a mighty overseas {trading empire}
+@GREATLEADER
+Our Queen
+Our King
+The Pope
+Our Stadtholder
+@GREATLEADER2
+the Queen
+the King
+the Pope
+the Stadtholder
+@MYLEADER
+King
+King
+King
+Stadtholder
+@PIRACY
+We {%STRING3} that you withdraw
+all {privateers} immediately."
+"What pirates? We have NEVER condoned piracy!"
+"Very well, we shall withdraw our {privateers} to Europe."
+@PIRACYUSA
+We {%STRING3} that you withdraw
+all {privateers} at once."
+"What pirates? We have NEVER condoned piracy!"
+"Very well, we shall withdraw our {privateers} to Europe."
+@SIEGES
+We {%STRING3} that you {withdraw}
+all military units adjacent to %STRING2 colonies immediately."
+"Our forces protect valid %STRING1 interests and shall stay."
+"Very well, we shall {withdraw} our forces to Europe."
+@SIEGESUSA
+Forces lurking
+near our major cities are of particular concern to us.
+We {%STRING3} that you {withdraw}
+all military units adjacent to our cities immediately."
+"Very well, we shall {withdraw} our forces to Europe."
+"Our forces protect valid %STRING1 interests and shall stay."
+@MEEKNESS
+request
+demand
+@HEATHEN
+Will you assist us
+in this task?"
+"Never! That would be a terrible crime!"
+"Yes, it is our manifest destiny."
+@APOSTATES
+We {%STRING1} that you cancel this treaty
+at once."
+"Never! The {%STRING0} are our friends!"
+"Yes! We shall crush the foul-smelling {%STRING0} together!"
+@APOSTATESUSA
+We {%STRING1} that you cancel this treaty
+at once."
+"Never! The {%STRING0} are our friends!"
+"Yes! We shall crush the foul-smelling {%STRING0} together!"
+@TRIBUTE
+Our efforts are currently given to
+weightier matters, however, and we might temporarily overlook
+this directive in exchange for a 'donation' of {%NUMBER0$} to the 'Church'."
+"Not a penny for those heretic swine!"
+"We will gladly donate {%NUMBER0$} to such a worthy cause."
+@TRIBUTEUSA
+We are willing, however, to
+overlook this doctrine temporarily in exchange for an indemnity payment
+of {%NUMBER0$}."
+"That is blackmail and we will have none of it."
+"We will gladly pay {%NUMBER0$}."
+@WANTSTUFF
+We demand {%NUMBER0 %STRING1}
+as reparations."
+"We laugh at your puny threats."
+"We gladly share {%NUMBER0 %STRING1} with our {%STRING2} brothers."
+@WANTSTUFFUSA
+We are willing, however, to
+overlook this doctrine temporarily in exchange for {%NUMBER0 %STRING1}."
+"We laugh at your puny threats."
+"We gladly share {%NUMBER0 %STRING1} with our neighbors."
+@RID
+However, {only} the land you now occupy
+shall constitute the {%STRING0} sphere the {remaining} territories shall be
+{%STRING1} in perpetuity.  Trespass in those areas at your
+own {peril}."
+
+"Go in peace, {%STRING1} brothers."
+"First you must withdraw your forces from our colonies!"
+"How much do you value your puny lives, heathen swine?"
+"We suggest an alliance."
+@PEACEMEEK
+Please remember not to trespass in
+those areas."
+"Go in peace, {%STRING1} brothers."
+"First you must withdraw your forces from our colonies!"
+"How much do you value your worthless lives, heathen swine?"
+"We suggest an alliance."
+@OLDPEACEMEEK
+Together we shall work God's will
+in the New World."
+"Go in peace, {%STRING1} brothers."
+"First you must withdraw your forces from our colonies!"
+"How much do you value your worthless lives, heathen swine?"
+"We suggest an alliance."
+@OLDPEACEMANLY
+We are, however,
+willing to move them in exchange for {%NUMBER0$} to cover the
+cost of demobilization."
+"We shall gladly pay {%NUMBER0$}."
+"Withdraw or perish, heathen pigs!"
+"Oh. Never mind then."
+@PROVOKE
+Prepare for WAR!"
+@WARMEEK
+Prepare for WAR!"
+@WARMANLY
+Then in the name of
+%STRING0 we shall wipe you from the face of the New World.
+Prepare for WAR!
+@THREATS
+Treaty of Utrecht specifies that all
+{%STRING3} possessions in the New World now fall under {%STRING2} rule.
+@REBELMAJORITY
+A majority of the colonists there support the idea of
+independence from %STRING1!  All colonists in %STRING0 gain +1 to their
+base production abilities.
+@REBELUNANIMOUS
+Colonists can also be educated more quickly here.
+@TORYMINORITY
+Some of the colonists no longer support the idea of
+independence from %STRING1.  %STRING0 colonists now gain only +1 to their
+base production abilities.
+@TORYMAJORITY
+The majority of colonists there no longer support the idea
+of independence from %STRING1!  %STRING0 colonists no longer gain
+production bonuses.
+@SONSUP
+The more {Liberty Bells} our {Statesmen} generate,
+the faster membership will rise.
+@SONSDOWN
+Perhaps we should generate more {Liberty Bells} there.
+We can generate Liberty Bells with {Statesmen}.  {Printing Presses}
+and {Newspapers}, as well as improvements to our government buildings,
+can increase the rate at which we generate them.
+@REBELUP
+As our colonists begin to feel more self-sufficient,
+they also become more productive.  Any colony with at least {50%%}
+Sons of Liberty membership receives a {+1} production bonus.
+@REBELUP50
+Some of the Founding Fathers think we should
+request an audience with the King and declare our independence!
+@REBELDOWN
+Only {%NUMBER0%%} of the population now supports the notion
+of independence from %STRING0.
+@REFIT
+{%STRING0} added to royal
+expeditionary force.  Colonial leaders express alarm.
+@SEIZURE
+Ultimatum presented to King!
+Expeditionary force dispatched to suppress rebellion!
+General %STRING0 calls for volunteers for new Continental Army!
+@INVASION
+We cannot start a rebellion against
+the King until the {majority} is behind us.
+@DECLARE
+Converts
+who do not join colonies within {eight turns} of their conversion
+are eliminated for loss of faith.
+@TOOMANYUNITS
+Units must be eliminated before new
+units can be created.
+@TOOMANYCOLONIES
+Colonies must be eliminated before new
+colonies can be created.
+@PICKMUSIC
+@smallfont
+Until we pay the {upkeep}, colonists in
+the buildings will produce at {half efficiency}.
+@MOBILIZE
+None
+of our colonies have enough muskets available
+for mobilization!
+@KINGMOBILIZE
+{%STRING1} mobilized in %STRING2.
+@EUROPENOTAVAIL
+Ships cannot sail to
+Europe for the duration of the war.  Colonies which build
+{Custom House} improvements can trade with European smugglers,
+however.
+@FOREIGNNOTAVAIL
+Colonies which build {Custom House}
+improvements can trade with European smugglers, however.
+@NOWARSDURINGREV
+If we can generate %NUMBER0 liberty bells, they will
+join us.
+@INTERVENTION
+%STRING4 navy plans bombardment of
+Tory-held fortifications.
+@FRIEND
+British General Cornwallis
+French General Lafayette
+Spanish Generals
+Dutch Admiral de Ruyter
+@INTERVENE
+Local Rebel Army
+commander regales %STRING1 admiral.
+@EXPLOITS
+COLONIZATION RATING: %NUMBER0%%
+In memory of your deeds, the citizens of
+%STRING0 give your name to . . .
+@SCORE
+An Infectious Disease, %STRING0 Fever
+A Stinging Insect,     %STRING0 Fly
+A Poisonous Plant,     %STRING0 Ivy
+A Venomous Snake,      %STRING0 Rattlesnake
+A Prison,              %STRING0catraz
+A Fast Food Chain,     %STRING0's Roast Beef
+A Street,              %STRING0 Boulevard
+A Flower,              %STRING0 Thistle
+A School,              %STRING0 Jr. High
+An Apple,              %STRING0 Delicious
+A Bridge,              %STRING0 Mem. Bridge
+A Bird,                %STRING0 Eagle
+A College,             %STRING0 A & M
+A Mountain Lion,       %STRING0 Cougar
+A Prestigious Award,   %STRING0 Medal of Honor
+A River,               The %STRING0 River
+A University,          %STRING0 and Lee University
+A Mountain Range,      %STRING0 Mountains
+An Inland Sea,         %STRING0 Bay
+A Football Team,       %STRING0 Conquistadores
+A State of the Union,  %STRING0 State
+A Capital,             %STRING0 D.C.
+A Nation,              Republic of %STRING0
+A CONTINENT!,          %STRING0ica
+@LOSING1
+If we don't retain control of at least one port
+our commerce will be choked and we will have to surrender!
+@LOSING2
+We need to protect our remaining colonies, or we will lose
+the war!
+@LOSING3
+If he ever controls 90%%, the Continental Congress will be
+unable to continue the war and we will have to surrender!
+@WINNING
+%STRING2
+elected first President of the new republic.  %STRING3
+makes peace with all european nations.
+@OTHERMIGHT
+{%NUMBER0} (out of %NUMBER1) of the %STRING1 colonists
+currently support independence.  Once {%NUMBER2} colonists support
+liberty, the %STRING1 colonies will be granted their freedom and become
+an independent nation.
+@OTHERLESS
+Only {%NUMBER0} {%STRING1} now support independence
+from %STRING0.  The King of {%STRING0} will not grant them their liberty
+unless {%NUMBER2} are in favor.
+@SCORED
+Parliament arms Tory Militia!
+@CANNOTATTACK
+We must therefore ask you to
+go away please."
+@TRADEATWAR
+Please come
+back when you have something useful to offer."
+@TRADENOWANT
+Come back when
+you have something better to offer."
+@TRADEWITH
+New colonist now available.
+@INEFFICIENT
+Colonists in such colonies receive
+a {-1} production penalty for every %NUMBER0 tories.  We can
+increase Sons of Liberty membership by producing more {Liberty
+Bells} in this colony conversely, we can avoid the production
+penalty by removing enough colonists to get the number of tories
+below %NUMBER0.
+@EFFICIENT
+{%NUMBER0 lumber} added
+to stockpile.
+@REALLYBUY
+Our efforts in the New World have
+proven fruitless and we have decided to remove you
+as Viceroy.  You may, as always, kiss our royal pinky ring."
+@SOONRETIRING0
+A rumor circulates
+that he would postpone his retirement were a War of Independence
+to begin.
+@SOONRETIRING1
+If we cannot
+force a conclusion by 1850, the Continental Congress will sue for
+peace and seek to swear renewed allegiance to the King."
+@RETIRING
+King knights aging Viceroy, who retires to country estate
+near %STRING2.
+@RETIRING2
+King accepts
+surrender from %STRING0 %STRING1, who retires to country
+estate near %STRING2.
+@HOWTOWIN
+Further damage will destroy it.
+@ARTILLERY2
+Henceforth there will be a {Spring} and
+a {Fall} turn in each year.
+@TEACHCONVERT
+If you want to ask that the boycott be lifted, click on
+the cargo type in question.
+@KEEPSTOCKADE
+If we navigate to the west ({left arrow}), we'll
+probably find land.  If we sail to the east ({right arrow}), we can
+return to port.
+@TUTORIAL2
+To put the colonists ashore,
+move the ship toward land and choose {Make Landfall} from the menu.
+@TUTORIAL3
+To begin a colony, Sire, press the '{B}' key.
+@TUTORIAL4
+Our colonist is currently producing {%STRING0}.  He
+could, for instance, produce {%STRING1} instead.  To change his job,
+select him to bring up the {Jobs Menu}, then choose what you want him
+to do.  You can also drag him to a different square, or into one of the
+buildings in the colony.  To take a colonist out of a colony, drag him
+to the fence (near the water on the colony picture).
+@TUTORIAL5
+If we send our ship there they will gladly
+set sail with us and become useful members of our community.
+@TUTORIAL6
+If we move a ship
+into %STRING1, we can pick up this cargo and take it back to %STRING2 in
+Europe, where we can sell it for a profit.
+@TUTORIAL7
+To build
+something, we must first make one of our colonists a {Lumberjack}
+and have him chop {Lumber} in a forested square.  Then, we make
+a colonist a {Carpenter}, who makes buildings out of the lumber.
+Finally, we tell the carpenter what to build.  We do this by clicking
+on the blue 'Hammer' button at the lower right of the screen.  This
+shows us what we are currently building, and allows us to change it
+if we want.
+@TUTORIAL8
+If we move him into a
+friendly native village, the indians may be willing to teach him a
+new skill.
+@TUTORIAL9
+Our {pioneers} will build
+roads in a square if you press the '{R}' key. If we build a road here,
+our fur, lumber, ore, and silver production in this square will be
+increased.  Our units also move faster when they are moving
+along a road.
+@TUTORIAL10
+Our {pioneers} will plow
+the fields in a square if you press the '{P}' key.  Plowing a square
+increases its food, tobacco, cotton, and sugar production by one.
+Plowing a {forest} square causes the forest to be {cleared}, making room
+for more agriculture.
+@TUTORIAL11
+We can use
+it to explore the uncharted vastness of the New World, to carry our cargo
+home to %STRING1 for sale, and to bring new immigrants from Europe.  You
+can move the ship normally with the arrow keys.  You can also send it to
+the port of your choice by pressing the '{G}' key.
+@TUTORIAL12
+The blue boxes across the bottom of the screen list the
+cargo available in our warehouse.  To load cargo onto the ship, use
+the mouse to drag it from the warehouse into one of the ship's cargo
+holds (the small boxes underneath the ship's picture).  Once the ship
+is loaded, you can return to the main map (press '{ESC}').  Then, on
+the ship's next turn, you can send it to Europe by pressing '{G}'.
+@TUTORIAL13
+They are
+ready to look for a good place to build our first colony.  Try to look
+for a spot where there will be plenty of food and other resources
+available.  Also, our first colony should be built near the ocean so that
+our ships can reach it.  Our pioneers are currently equipped
+with {100 Tools}, which they can use to clear forests, plow fields,
+and build roads.  If we want to make more pioneer units later, we will
+need either to bring more Tools from Europe or to have our blacksmiths
+manufacture them.
+
+@TUTORIAL14
+They can be used to attack our
+enemies, if we run across any.  More importantly, they can be used
+to protect our own colonies from harm.  Our soldiers are equipped
+with {50 Muskets}.  If we want to make more soldier units later on, we
+will need either to bring more Muskets from Europe or to have our
+gunsmiths manufacture them.  Our soldiers will also become more powerful
+if we equip them with {Horses}.
+@TUTORIAL15
+You can make
+them citizens of {%STRING0} by clicking on the colony, and then dragging
+the colonists from the "fence" to a field or building.
+@TUTORIAL16
+Each colonist eats {two} units of food per turn.  Food is
+represented by the "corn" icon if you are not growing enough food
+each turn to feed all of your colonists, some of the corn in the colonist
+window will be covered with red "X"'es.  To grow more food, turn more of
+your colonists into {farmers} or {fishermen}.  You can make individual
+farmers more productive by having your pioneers {clear} forests and {plow}
+fields.
+@TUTORIAL17
+You can recruit new immigrants by pressing the {Recruit}
+or {Train} buttons.  When ships arrive in the harbor, their cargo can be
+sold by dragging it from the cargo holds to the blue warehouses at the bottom
+of the screen.  Cargo can also be purchased by dragging it from the warehouse
+to a ship's holds.  In the warehouse boxes, the first number indicates the
+{bidding} price which the port will pay for that type of cargo.  The second
+indicates the {asking} price should you wish to buy that cargo.  To send a
+ship back to the New World, click on it or drag it into the "Bound for
+%STRING2" box.
+@TUTORIAL18
+Since
+{%STRING0} costs {%NUMBER0$} per unit and we only have {%NUMBER1$} gold,
+we cannot afford 100 units.  If you want to load or unload less than 100
+units of cargo onto a ship, simply hold down the {SHIFT} key while you drag
+the cargo with the mouse.  You will then be prompted to enter the number
+of units you wish to buy.
+@TUTORIAL19
+Unlike other types of colonist,
+converts cannot be educated in new skills.  On the other hand, converts
+are better than ordinary colonists at farming, planting, fishing, and
+mining.
+@TUTNOLUMBER
+A colony built here may have a lower potential
+for growth than we hope.  Perhaps we should move on to a larger
+area?
+Cancel action.
+Build colony anyway.
+@KINGLOSE
+"In our wisdom, we have decided to let you go
+your own way. We have far more importatnt
+matters to deal with than you wretched
+colonists. Do not seek our aid in the future,
+for it will not be forthcoming."
+@KINGWIN
+"As expected, your attempt to separate from
+mother %STRING0 has proven futile. Your
+Rag Tag armies are simply no match for our
+Royal forces."
+@DISBANDSHIP
+We cannot disband a ship at sea while it is carrying
+units.
+@NOMOREWAREHOUSE
+{%STRING0} is set to produce a {Warehouse Expansion},
+Your Excellency, but only {one} expansion is allowed
+per colony.
+@NOMOREWAGONS
+{%STRING0} is set to produce a {Wagon Train}, Your
+Excellency, but we are not allowed to have more
+wagon trains than we have colonies ({%NUMBER0}).
+@BUILD1
+In the Year of Our Lord One Thousand Four Hundred Ninety-Two,
+@BUILD2
+an Expedition led by the Great %STRING0,
+%STRING1,
+@BUILD3
+left %STRING0 on a Voyage of Discovery.
+@BUILD4
+Commissioned and Blessed by the %STRING1 of %STRING0,
+@BUILD5
+to Explore the Ocean Sea,
+@BUILD6
+to find Uncharted Lands,
+@BUILD7
+and to Establish Colonies for the Greater Glory of %STRING0.
+@BUILD8
+A Ship loaded with Pioneers and Soldiers
+@BUILD9
+Set Sail to find a New Life, a New Beginning, . . .
+@BUILD10
+A New World!
+@END
+@GAME
+  Game Options
+  Colony Report Options
+  Sound Options
+  Pick Music
+  Save Game
+  Load Game
+  DECLARE INDEPENDENCE
+  Retire
+  Exit to DOS
+@VIEW
+  Move Pieces
+  View Pieces
+  European Status
+  Find Colony
+  Zoom In   Z
+  Zoom Out   X
+  Zoom Level 120 x 96
+  Zoom Level 60 x 48
+  Zoom Level 30 x 24
+Zoom Level 15 x 12
+Show Hidden Terrain
+Center View
+@ORDERS
+Activate unit
+Wait for next unit
+Fortify
+Fortify
+Sentry
+Build Colony
+Join Colony
+Clear Forest
+Plow Fields
+Build Road
+Load Cargo
+Unload Cargo
+Pillage
+Go to Port
+Go to Place
+Begin Trade Route
+Return to Europe
+No Orders
+Dump Cargo Overboard
+Disband Unit
+@REPORTS
+Terrain Information
+Religious Adviser
+Continental Congress
+Labor Adviser
+Economic Adviser
+Colony Adviser
+Naval Adviser
+Foreign Affairs Advisor
+Indian Adviser
+Colonization Score
+@TRADE
+~TRADE
+  Edit Trade Route
+  Create Trade Route
+  Delete Trade Route
+@CUP
+~CHEAT
+  ~F~0~1 Create Unit
+  ~F~0~2 Debug Info Flags
+  ~F~0~4 Reveal Map
+  ~F~0~5 Set Human Player
+  ~F~0~6 Kill Indians
+  ~F~0~7 Advance Revolution Status
+  Sound Test
+  Memory Check
+  ~F~0~8 Show Strategy
+  ~F~0~9 Show Colony Sites
+  ~F~0~1~0 Test Routine
+@PEDIA
+~COLONIZOPEDIA
+  Cargo Types
+  Unit Types
+  Terrain Types
+  Colonist Skills
+  Colony Buildings
+  Founding Fathers
+  Miscellaneous
+  Complete
+@END
+COLONIZATION Game Data
+Copyright (c) 1994 by MicroProse Software
+Altering the contents of this file may cause the game to
+malfunction.
+@SEASONS
+Spring
+Autumn
+Terrain Squares
+a) Name
+b) Movement, Defensive, Improvement, Value
+c) Yield (Farmer, Planter(s), Planter(t), Planter(c),
+          Trapper, Lumberjack, Ore Miner, Silver Miner,
+          Fisherman)
+@UNFORESTED
+Tundra
+Desert
+Plains
+Prairie
+Grassland
+Savannah
+Marsh
+Swamp
+@FORESTED
+Boreal
+Scrub
+Mixed
+Broadleaf
+Conifer
+Tropical
+Wetland
+Rain
+@OTHER
+Arctic
+Ocean
+Sea Lane
+Mountains
+Hills
+@OTHER_NAMES
+Forest
+River
+Major River
+Minor River
+Unexplored
+Special resource squares & values.
+@RESOURCE
+Depleted Mine
+Oasis
+Wheat
+Prime Cotton
+Prime Tobacco
+Prime Sugar
+Minerals
+Fishery
+Beaver
+Game
+Prime Timber
+Prime Timber
+Silver Deposit
+Ore Deposit
+@COUNTRY
+England
+France
+Spain
+Netherlands
+@NATIONALITY
+English
+French
+Spanish
+Dutch
+@NATIONABBREV
+Eng.
+Fr.
+Span.
+Dutch
+@HOMEPORT
+London
+La Rochelle
+Seville
+Amsterdam
+@COLONYNAME
+New England
+New France
+New Spain
+New Netherlands
+@INDEPENDENT
+United States of America
+Republic of Quebec
+Republic of Mexico
+Republic of Surinam
+Leaders
+a) aggressive/friendly
+b) expansionist/perfectionist
+c) civilize/militaristic
+@LEADERNAME
+Walter Raleigh
+Jacques Cartier
+Christopher Columbus
+Michiel De Ruyter
+@MISSION
+Church of
+Sainte Marie de
+Santa Maria del
+Church of
+@DIFFICULTY
+Discoverer
+Explorer
+Conquistador
+Governor
+Viceroy
+European classes
+Name, transportation costs
+@CLASS
+Petty Criminals
+Indentured Servants
+Peasant Farmers
+Skilled Craftsmen
+Hardy Pioneers
+Town Merchants
+Trained Mercenaries 
+Educated Elite
+Buildings in Colonies
+name, cost, tools, size, min_colony, upkeep
+@BUILDING
+Stockade
+Fort
+Fortress
+Armory
+Magazine
+Arsenal
+Docks
+Drydock
+Shipyard
+Town Hall
+Town Hall
+Town Hall
+Schoolhouse
+College
+University
+Warehouse
+Warehouse Expansion
+Stable
+Custom House
+Printing Press
+Newspaper
+Weaver's House
+Weaver's Shop
+Textile Mill
+Tobacconist's House
+Tobacconist's Shop
+Cigar Factory
+Rum Distiller's House
+Rum Distillery
+Rum Factory
+Capitol
+Capitol Expansion
+Fur Trader's House
+Fur Trading Post
+Fur Factory
+Carpenter's Shop
+Lumber Mill
+Church
+Cathedral
+Blacksmith's House
+Blacksmith's Shop
+Iron Works
+Scenarios
+@SCENARIO
+AMERICA
+Colonist professions
+name, student level, cost in europe
+@JOB
+Farmer,             Expert Farmers
+Sugar Planter,      Master Sugar Planters
+Tobacco Planter,    Master Tobacco Planters
+Cotton Planter,     Master Cotton Planters
+Fur Trapper,        Expert Fur Trappers
+Lumberjack,         Expert Lumberjacks
+Ore Miner,          Expert Ore Miners
+Silver Miner,       Expert Silver Miners
+Fisherman,          Expert Fishermen
+Distiller,          Master Distiller
+Tobacconist,        Master Tobacconists
+Weaver,             Master Weavers
+Fur Trader,         Master Fur Traders
+Carpenter,          Master Carpenters
+Blacksmith,         Master Blacksmiths
+Gunsmith,           Master Gunsmiths
+Preacher,           Firebrand Preachers
+Statesman,          Elder Statesmen
+Teacher,            Expert Teachers
+Colonist,           Free Colonists
+Pioneer,            Hardy Pioneers
+Soldier,            Veteran Soldiers
+Scout,              Seasoned Scouts
+Dragoon,            Veteran Dragoons
+Missionary,         Jesuit Missionaries
+Ind. Servant,       Indentured Servants
+Criminal,           Petty Criminals
+Convert,            Indian Converts
+Cargo types & economic model
+Economy: start1, 2, low, high, burden, rise, fall, attrition, volatility
+Start 1, 2      = Starting cargo price (lowest/highest)
+Low             = Lowest possible drift
+High            = Highest possible drift
+Burden          = Extra difference between ask & bid prices
+                  (0 means ask is 1 higher than bid)
+Rise            = Price rises at this traffic indicator
+Fall            = Price falls at this traffic indicator
+Attrition       = Amount added to traffic volume each turn
+                  (represents ability of price to recover)
+Volatility      = Shift value for traffic volume
+@CARGO
+Food
+Sugar
+Tobacco
+Cotton
+Furs
+Lumber
+Ore
+Silver
+Horses
+Rum
+Cigars
+Cloth
+Coats
+Trade Goods
+Tools
+Muskets
+Hammers
+Crosses
+Liberty Bells
+Flags
+Unit types
+icon, movement, attack, combat, cargo, size, cost, tools, guns, hull, role
+AI Role => Invade Settle Explore Attack Defend Escort Transp Naval
+@UNIT
+Colonists
+Soldiers
+Pioneers
+Missionaries
+Dragoons
+Scouts
+Regulars
+Cont. Cav.
+Cavalry
+Cont. Army
+Treasure
+Artillery
+Wagon Train
+Caravel
+Merchantman
+Galleon
+Privateer
+Frigate
+Man-O-War
+Braves
+Indian types
+Armed Braves
+Mtd. Braves
+Mtd. Warriors
+@ORDERS
+No Orders
+Sentry 
+Trade Route 
+Go To 
+Live In Village 
+Fortify 
+Fortified 
+Build Colony 
+Clear/Plow 
+Build Road 
+No Orders
+@ACTIONS
+Trade With Village
+Enter Hostile Village
+Establish Mission
+Denounce Heresy of %Fs Mission
+Live Among The Natives
+Ask to Speak With Chief
+Incite Indians
+Demand Tribute
+Attack Village
+Cancel Action
+@VALUES
+low quality
+good
+fine
+excellent
+@ATTITUDE
+Content
+Uneasy
+Restless
+Angry
+War
+@ATTITUDINAL
+Extremely
+Very
+Rather
+Somewhat
+Slightly
+@LEVELS
+Semi-Nomadic, Camp,    Camps
+Agrarian,     Village, Villages
+Advanced,     City,    Cities
+Civilized,    City,    Cities
+<Any>,     Capital,    Capitals
+Indian tribe info
+tech-level, color
+@TRIBES
+Incas,     Inca,     Jewelled Relics
+Aztecs,    Aztec,    Gold Bars
+Arawaks,   Arawak,   Bone Jewelry
+Iroquois,  Iroquois, Wood Carvings
+Cherokee,  Cherokee, Turquoise
+Apache,    Apache,   Beads
+Sioux,     Sioux,    Beads
+Tupi,      Tupi,     Gems
+Extra tribe names
+Maya,      Maya
+Toltecs,   Toltec
+Kiowa,     Kiowa
+Hurons,    Huron
+Hopi,      Hopi
+Navajo,    Navajo
+Cheyenne,  Cheyenne
+Cree,      Cree
+Algonquin, Algonquin
+Powhatan,  Powhatan
+Delaware,  Delaware
+Shawnee,   Shawnee
+Illinois,  Illinois
+Chickasaw, Chickasaw
+Choctaw,   Choctaw
+Seminole,  Seminole
+Mohicans,  Mohican
+Zapotec,   Zapotec
+Founding father types.
+@FOUNDING
+Trade
+Exploration
+Military
+Political
+Religious
+Independence
+Founding Fathers
+type, weight 1500-1600, weight 1600-1700, weight 1700+
+Father of higher level will not appear until at least one
+father of next lower level (of same type) has joined the Congress.
+@FATHERS
+Adam Smith
+Jakob Fugger
+Peter Minuit
+Peter Stuyvesant
+Jan de Witt
+Ferdinand Magellan 
+Francisco Coronado
+Hernando de Soto
+Henry Hudson
+Sieur De La Salle
+Hernan Cortes
+George Washington
+Paul Revere
+Francis Drake
+John Paul Jones
+Thomas Jefferson 
+Pocahontas
+Thomas Paine
+Simon Bolivar
+Benjamin Franklin
+William Brewster 
+William Penn
+Jean de Brebeuf
+Juan de Sepulveda
+Bartolome de las Casas
+Text Colors
+basic, hilite, grey, enhance, shadow, select, border 0, 1, 2
+COLONIZATION Colonizopedia Data
+Copyright (c) 1994 by MicroProse Software
+Altering the contents of this file may cause the game to
+malfunction.
+@ Colonizopedia categories
+@PEDIA
+Cargo Type
+Unit Type
+Terrain Type
+Colonist Skill
+Colony Building
+Founding Father
+Game Concept
+@MISCELLANEOUS
+12
+Disband
+Fortify
+Plowing
+Roads
+Sentry
+Trade Route
+Veteran Units
+Prices
+Taxes
+Liberty Bells
+Crosses
+Hammers
+@ *** FOUNDING FATHERS ***
+@ ECONOMICS AND TRADE
+@ Adam Smith
+@FATHER0
+^{Adam Smith (1723-1790)}
+British economist who published the first major work of political 
+economy, "An Inquiry into the Nature and Causes of the Wealth of 
+Nations," which was a detailed examination of the consequences of 
+economic freedom.
+^
+{Adam Smith allows factory level buildings to be built in the colonies.
+Factories allow the production of 1 and 1/2 units of manufactured goods 
+for each unit of raw materials.}
+@ Jakob Fugger
+@FATHER1
+^{Jakob Fugger (1459-1525)}
+Extremely successful German merchant active in early import and export 
+business from the East Indies. Exceedingly rich, he loaned money to 
+Emperor Maxmillian I of Germany. 
+^
+^{When Fugger joins the Congress, all boycotts currently in effect are 
+forgiven, without back taxes. Trade in these goods may be resumed at no 
+cost.}
+@ Peter Minuit
+@FATHER2
+^{Peter Minuit (1580-1639)}
+Director-general of the Dutch West India Company's colony in America, 
+he bought the Island of Manhattan from the Indians for $24....!
+^
+{Once Peter Minuit joins the Continental Congress, the Indians no longer 
+demand payment for their land.}
+@ Peter Stuyvesant
+@FATHER3
+^{Peter Stuyvesant (1610-1672)}
+First successful governor of the Dutch colony of New Amsterdam (New 
+York), he ruled harshly and promoted increased trade and increased 
+protection of New World interests.
+^
+{Peter Stuyvesant allows construction of the Custom House 
+in your colonies which can streamline trade with Europe and allows 
+European trade during the Revolution.}
+@ Jan De Witt
+@FATHER4
+^{Jan de Witt (1625-1672)}
+Dutch statesmen and Chief Minister of the United Provinces of the 
+Netherlands, he sought to abolish the office of the stadtholder and to limit 
+the power of the House of Orange. 
+^
+{When de Witt joins your Congress, trade with foreign colonies
+is allowed. In addition, your Foreign Affairs report becomes more 
+revealing.}
+@ EXPLORATION
+@ Ferdinand Magellan
+@FATHER5
+^{Ferdinand Magellan (1480-1521)}
+Portuguese explorer who led the first European expedition to 
+successfully circumnavigate the globe. Although Magellan himself did not 
+complete the voyage, his leadership and daring made it possible. 
+^
+{With Magellan in the Congress, the movement allowance of all naval 
+vessels is increased by one, and the time to sail from the west 
+map edge to Europe is shortened considerably.}
+@ Francisco de Coronado
+@FATHER6
+^{Francisco de Coronado (1510-1554)}
+Spanish conquistador who led the first European expedition into the 
+American southwest. He was the first to observe the Grand Canyon and the 
+Pueblos of New Mexico. Coronado was a careful organizer and a great scout 
+who gleaned valuable information about a wide area.
+^
+{When he joins the Congress, all existing colonies and the area around 
+them become visible on the map.}
+@ Hernando De Soto
+@FATHER7
+^{Hernando de Soto (1500-1542)}
+Ruthless Spanish Conquistador who led the first European expedition into 
+the southeastern areas of North America. He landed in Florida and 
+explored much of Georgia, Tennessee, Alabama, Mississippi, Louisiana, 
+and Arkansas.
+^
+{With De Soto, results of exploring Lost City Rumors are always 
+positive, and all units have an extended sighting radius.}
+@ Henry Hudson
+@FATHER8
+^{Henry Hudson (????-1611)}
+English explorer, in the service of the Netherlands, who explored 
+Chesapeake and Delaware bays and the Hudson River as far north as 
+present-day Albany. Hudson later discovered Hudson bay and was finally 
+killed by mutineers. Hudson bay became a primary fur trapping 
+preserve, and the Hudson Bay Company operated extensive trapping and 
+processing facilities for many years.
+^
+{Hudson increases the output of all Fur trappers by 100%%.}
+@ La Salle
+@FATHER9
+^{La Salle (1643-1687)}
+French Explorer who sailed down the Mississippi River into the Gulf of 
+Mexico and claimed  for the French Crown all land drained by this mighty 
+river. He was instrumental in establishing French dominance west of the 
+Appalachians.
+^
+{La Salle gives all existing and future colonies a stockade when the 
+population of the colony reaches 3.}
+@ MILITARY
+@ Hernan Cortes
+@FATHER10
+^{Hernan Cortes (1485-1547)}
+Spanish conqueror of Mexico and destroyer of the Aztec empire, Cortes is 
+the paradigm conquistador, a master of conquest and plunder.
+^
+{When Cortes joins your Congress, conquered native settlements always 
+yield treasure, in greater abundance, and the king's galleons transport the 
+treasure free of charge.}
+@ George Washington
+@FATHER11
+^{George Washington (1732-1799)}
+Commander of American revolutionary forces and first President of the 
+United States, George Washington displayed a remarkable ability to train 
+and inspire colonial forces to victory.
+^
+{Once Washington joins the Continental Congress, every non-veteran
+soldier or dragoon who wins a combat is automatically upgraded.}
+@ Paul Revere
+@FATHER12
+^{Paul Revere (1735-1818)}
+American patriot who served in the Continental Army during the War of 
+Independence and roused the minutemen as British forces approached. 
+Paul Revere's example as a patriot allows colonists working at productive 
+duties to become minutemen, capable of rallying to the defense of the  
+colony in times of danger.
+^
+{When a colony with no standing soldiers is attacked, a colonist
+automatically takes up any stockpiled muskets in defense of the colony.}
+@ Francis Drake
+@FATHER13
+^{Francis Drake (1540-1596)}
+England's greatest seaman of the Elizabethan period, Drake was a 
+formidable privateer who terrorized the Spanish Main with a fleet of 
+fifteen ships then rescued a floundering English colony.
+^
+{When Drake joins the Congress, the combat strengths of all your 
+privateers are increased by 50%%.}
+@ John Paul Jones
+@FATHER14
+^{John Paul Jones (1747-1792)}
+Daring Scottish naval commander who served for the colonies during the 
+War of Independence, he demonstrated his incredible abilities in many 
+daring exploits in battle.
+^
+{When Jones enters the Congress, a Frigate is added to your colonial
+navy, without cost.}
+@ POLITICAL
+@ Thomas Jefferson
+@FATHER15
+^{Thomas Jefferson (1743-1826)}
+Great US statesman, framer of the Constitution, and third President of the 
+United States, Jefferson promoted the development of democratic 
+institutions within Colonial America. 
+^
+{Jefferson's presence in the Congress increases Liberty Bell production 
+of statesmen by 50%%.}
+@ Pocahontas
+@FATHER16
+^{Pocahontas (1595-1617)}
+Powhattan Indian princess who mediated tensions between the English 
+colony at Jamestown and the Powhattan Confederacy of Virginia. 
+Pocahontas married John Rolffe, an Englishman from Jamestown, which 
+led to a period of peace between the Indians and the English.
+^
+{When Pocahontas joins the Congress, all tension levels between you and 
+the natives are reduced to content, and all Indian alarm is generated half 
+as fast.}
+@ Thomas Paine
+@FATHER17
+^{Thomas Paine (1737-1809)}
+Englishman that migrated to Philadelphia and wrote the important, 
+inflammatory pamphlet, "Common Sense," which strongly advocated total 
+independence for the colonies. He later wrote "The Rights of Man" in 
+favor of the French Revolution, and finally "The Age of Reason."
+^
+{When Paine enters the Continental Congress, Liberty Bell production
+in all colonies is increased by value of the current tax rate.}
+@ Simon Bolivar
+@FATHER18
+^{Simon Bolivar (1783-1830)}
+Organized and, in large part, conducted the rebellions in a vast area of 
+northern South America, liberating current-day Venezuela, Colombia, 
+Ecuador, Peru, and Bolivia.
+^
+{When Bolivar is in the Congress, Sons of Liberty membership in all 
+your colonies is increased by 20%%.}
+@ Benjamin Franklin
+@FATHER19
+^{Benjamin Franklin (1706-1790)}
+Colonial and later US Statesman who became the first Postmaster, 
+printer, and foreign ambassador in the English colonies. He was also one 
+of the first great American scientists. Franklin, as ambassador to Europe 
+in the Continental Congress, brings coherence to the colonies' relations 
+with foreign powers.
+^
+{The King's European Wars have no further effect on the relations 
+between the powers in the New World, and Europeans in the New World 
+always offer peace in negotiations.}
+@ RELIGIOUS
+@ William Brewster
+@FATHER20
+^{William Brewster (1567-1644)}
+One of the Pilgrim Fathers and framers of the Mayflower Compact, 
+William Brewster served as the first Pilgrim minister, and was 
+instrumental in organizing the party that sailed on the Mayflower.
+^
+{With Brewster in the Congress, no more criminals or servants appear 
+on the docks, and  you select which immigrant in the Recruitment Pool 
+will move to the docks.}
+@ William Penn
+@FATHER21
+^{William Penn (1644-1718)}
+English Quaker leader and founder of Pennsylvania, William Penn 
+obtained a large land grant in North America for religious freedom. This 
+land later became Pennsylvania. 
+^
+{With Penn, cross production in all colonies is increased by 50%%.}
+@ Father Jean de Brebeuf
+@FATHER22
+^{Father Jean de Brebeuf (1593-1649)}
+French Jesuit Missionary who died at the hands of the Iroquois in the 
+Huron country of Canada in a battle between the Hurons and Iroquois. He 
+translated the Catechism into the Huron language and was canonized in 
+1930.
+^
+{With de Brebeuf in the Congress, all missionaries function as experts.}
+@ Juan de Sepulveda
+@FATHER23
+^{Juan de Sepulveda (ca. 1490-ca. 1573)}
+Spanish philosopher and "humanist" who argued for harsh treatment of 
+the natives. He based his reasoning on the proposition that the Natives 
+were incapable of ruling themselves because of their savagery this was 
+proved by their inability to resist Spanish invasion...
+^
+{His presence in the Congress increases the chance that subjugated 
+Indians will "convert" and join a colony.}
+@ Bartolome de las Casas
+@FATHER24
+^{Bartolome de Las Casas (1474-1566)}
+The "Apostle of the Indians," Las Casas was a Spanish missionary who 
+sailed with Columbus' third expedition. His efforts to protect the native 
+population from slavery and abuse led him to speak on their behalf in the 
+Spanish courts on several occasions.
+^
+{With Las Casas, all currently existing Indian converts are assimilated
+into the colonies as free colonists.} 
+@ *** CARGO TYPES ***
+@CARGO0
+^{FOOD}
+Food is one of the most valuable commodities your people
+produce. The survival of your colonies depends upon it. The best
+places to grow food are in {plains, grasslands, prairie, and savannah.}
+Plowing the land also increases food yield. {Fishing} is an excellent
+source of food, and {fisheries} are particularly productive.
+^
+{Each colonist working inside a colony eats 2 food every turn.}
+@CARGO1
+^{SUGAR}
+Sugar is a cash crop that can be sold in Europe for a handsome profit or
+converted into {Rum} by a {distiller} for sale at a better price. 
+^
+{Sugar grows most abundantly in Savannah, especially in Prime Sugar 
+Land.}
+@CARGO2
+^{TOBACCO}
+Tobacco is a cash crop that can be sold in Europe for a handsome profit 
+or converted into {Cigars} by a {tobacconist} for sale at a better price. 
+^
+{Tobacco grows most abundantly in Grassland, especially in Prime 
+Tobacco Land.}
+@CARGO3
+^{COTTON}
+Cotton is a cash crop that can be sold in Europe for a handsome profit or
+converted into {Cloth} by a {weaver} for sale at a better price. 
+^
+{Cotton grows most abundantly in Prairie, especially in Prime Cotton 
+Land.}
+@CARGO4
+^{FURS}
+Fur is abundant in the Americas and there is a hungry market for it 
+in Europe. Your {fur traders} can convert furs into coats for an even 
+greater profit. {Woodlands} of all sorts are good for trapping, but 
+even better are {game and beaver} squares in colder climates. 
+Additionally, a {road} in a forest square increases fur output.
+^
+{Fur is found most abundantly in all forested areas, but especially in 
+colder terrains where there is Beaver.}
+@CARGO5
+^{LUMBER}
+Lumber is one of the most valuable commodities you can produce. Your
+{carpenters} need lumber to build {buildings, ships, artillery, and
+fortifications.} Lumber is collected whenever your pioneers clear a
+forested square or when you have lumberjacks working the forests.
+^
+{Woodland of all sorts is good for wood cutting, and roads in forests 
+and Prime Timber increase lumber production.}
+@CARGO6
+^{ORE}
+Ore is one of your most useful resources. It can be sold in Europe or 
+converted into {tools} by your {blacksmiths.} Tools may then be changed 
+into {guns,} by {gunsmiths.}
+^
+{Ore is found in hills, mountains, and swamps.} 
+@CARGO7
+^{SILVER}
+Silver is one of the most valuable metals found in the New 
+World. Silver can be mined from {mountain} squares, and some native 
+civilizations have it in great quantity.
+^
+{Silver is found in mountains, but these abundant sources will soon run 
+dry if mined.}
+@CARGO8
+^{HORSES}
+Horses are useful for aiding travel in the New World. {Scouts and 
+Dragoons} move significantly faster than do colonists on foot.  {Any 
+colonist} may be mounted to create {scouts} and {any soldier} can be 
+mounted to create {dragoons.}
+^
+{Horses can be obtained only in Europe,} but once brought over, they 
+may be bred. If you have {two or more horses} in a colony and {extra food} 
+stored in your warehouse, your colony will {produce more horses}. If you
+construct stables, your horses will breed twice as fast.
+@CARGO9
+^{RUM}
+Rum is the product of sugar processing in a distillery. It is usually of 
+much greater monetary value than raw sugar.
+^
+{Any colonist working as a distiller can convert sugar into rum.}
+@CARGO10
+^{CIGARS}
+Cigars are the product of tobacco processing in a tobacconist's house or 
+shop. Cigars are usually of much greater monetary value than raw 
+tobacco.
+^
+{Any colonist working as a tobacconist can convert tobacco into cigars.}
+@CARGO11
+^{CLOTH}
+Cloth is the product of cotton processing in a weaver's house or shop. It 
+is usually of much greater monetary value than raw cotton.
+^
+{Any colonist working as a weaver can convert cotton into cloth.}
+@CARGO12
+^{COATS}
+Coats are made from fur in a fur trader's house or shop. They are 
+usually of much greater monetary value than unprocessed pelts.
+^
+{Any colonist working as a fur trader can convert fur into coats.}
+@CARGO13
+^{TRADE GOODS}
+Trade Goods can be obtained only in Europe or from other European 
+settlements. These represent manufactured goods such as small tools, 
+jewelry, and clothing, which the Indians may want to trade for. Most 
+native tribes will gladly take trade goods, at least at first.
+@CARGO14
+^{TOOLS}
+Tools are fundamental to successful colonial endeavors. You need tools to 
+create {pioneers,} and only pioneers can {build roads, clear forests, and 
+plow fields.} Additionally, tools are necessary to complete many 
+{buildings} you construct inside your colonies. Finally, tools are 
+converted into muskets by {gunsmiths.}
+^
+{Tools may be bought in Europe or manufactured by blacksmiths, who 
+convert ore into tools.}
+@CARGO15
+^{MUSKETS}
+Muskets are necessary for defense of your colonies and for building a 
+substantial military force. You need muskets to create soldier
+units. {Any colonist} may be given muskets to create {soldiers} and {any 
+scout} may be given muskets to create {dragoons.} 
+^
+{Muskets may be purchased in Europe or manufactured at an armory, 
+magazine, or arsenal.} Any colonist working as a gunsmith can convert 
+tools into muskets.
+@      *** UNIT TYPES ***
+@UNIT0
+^{COLONISTS}
+These represent the various people that come to the New World. A single 
+colonist in the game represents a number of people in real life, perhaps 
+100-200. There are four general types of colonists, each with different 
+capabilities: petty criminals, indentured servants, free colonists, and 
+specialists. Any of these colonists can do any job available in the 
+settlement, but the experts do their particular jobs very well.
+^
+Another type exists: Indian Converts. These represent Native Americans 
+that join your settlements and become colonists. They're very effective at 
+outdoors jobs, but are little suited for manufacturing.
+@UNIT1
+^{SOLDIERS}
+Soldiers are created when you give a colonist {muskets.} A 
+soldier may become a {veteran} as a result of winning battles or of 
+education in a {college}. Additionally, {Expert soldiers (veterans)} may 
+immigrate to the New World from Europe upon occasion, and may be hired 
+from the {Royal University.} 
+@UNIT2
+^{PIONEERS}
+Pioneer units are created when you give a colonist {tools.} 
+Pioneers have several important functions: they {clear woods, plow 
+fields, and build roads.} In general, {Hardy Pioneers} perform their tasks 
+faster than ordinary colonists working as pioneers.
+@UNIT3
+^{MISSIONARIES}
+A missionary may be created at any site where there is a {church or 
+cathedral.} This may be on the {Docks of Europe} or in a colony where a 
+church or cathedral has been built. Missionaries perform the following 
+important special functions: {create missions in native settlements} to 
+counteract Indian anger {denounce another European's mission} in a 
+native settlement (which can result in the destruction of that mission), 
+or {incite Indians to attack} another European power. {Jesuit 
+Missionaries are particularly effective at these tasks.}
+@UNIT4
+^{DRAGOONS}
+Dragoons are {soldiers mounted on horseback,} the colonial equivalent of 
+cavalry. Any soldier may be converted into a dragoon if he is given horses. 
+Dragoons can move farther during a turn, and they fight more effectively. 
+{Veteran dragoons are more effective in battle than normal mounted 
+soldiers.}
+@UNIT5
+^{SCOUTS}
+Any colonist can become a scout if he is mounted on {horses.} Scouts 
+can perform many valuable services to your cause: they {reveal} 
+unexplored terrain faster, {move farther} in a turn, have better luck 
+when {exploring Lost City Rumors,} can meet with and {talk to Indian 
+chiefs,} {infiltrate enemy colonies} to see what's going on, and meet with 
+enemy mayors in their colonies. {Seasoned scouts are better at all these 
+tasks than regular colonists working as scouts.}
+@UNIT6
+^{REGULARS}
+European regular infantry units are the Crown's regular army troops. 
+They enter the game against you if you declare independence. Their only
+weakness is lack of training in the rough, wilderness terrain of the New 
+World.
+@UNIT7
+^{CONTINENTAL CAVALRY}
+Continental Cavalry is one step above your veteran dragoons in combat
+effectiveness. They know the backwoods, are veteran soldiers, and have 
+received some military training.
+@UNIT8
+^{CAVALRY}
+European regular cavalry units are the Crown's regular mounted soldiers. 
+They enter the game against you if you declare independence. Their 
+weakness is lack of training in the rough, wilderness terrain of the New 
+World.
+@UNIT9
+^{CONTINENTAL ARMY}
+Continental Army infantry is one step above your veteran soldiers in 
+combat effectiveness. They know the backwoods, are veterans, and have 
+received some regular  military training.
+@UNIT10
+^{TREASURE TRAIN}
+This wagon train carries {plunder,} usually gold and silver, precious 
+stones, and rare fabrics. Treasure trains are used to cart away the 
+plunder gleaned from a native settlement or lost city. A {Galleon} is 
+always required to transport the contents of a treasure train by sea.
+@UNIT11
+^{ARTILLERY}
+Artillery may be bought in {Europe} or constructed by the armories 
+within your colonies. Artillery is very effective at {attacking and 
+defending colonies,} and also at attacking fortified units and Indian 
+settlements. However, when defending in unprotected terrain it is 
+extremely vulnerable, and when attacking there it is ineffective. An 
+artillery unit that is defeated in battle is damaged and loses some of its 
+firepower if defeated again, it is destroyed.
+@UNIT12
+^{WAGON TRAIN}
+Wagon Trains are used for hauling goods and commodities {over land.} In 
+order to trade most profitably with the Indians you should enter their 
+settlements with wagons full of goods. A wagon train can transport any 
+cargo a ship can, except colonists and artillery. Wagons have 2 cargo 
+holds and can be assigned to {trade routes.} You may never build more 
+wagon trains than you have colonies.
+@UNIT13
+^{CARAVEL}
+A Caravel is an exploration ship designed to carry a small crew 
+and adequate cargo for a few months of provisions. 
+@UNIT14
+^{MERCHANTMAN}
+A Merchantman is a medium-sized cargo ship. Its main function is to 
+carry cash commodities to port for trade. It is a little larger than a 
+caravel with more sail. 
+@UNIT15
+^{GALLEON}
+A Galleon is a large cargo vessel designed for long voyages and heavy 
+transport. It is as large as a ship of the line, but not armed. 
+@UNIT16
+^{PRIVATEER}
+A Privateer is a ship owned by an individual that has obtained a "Letter of 
+Marque" from his government, giving him the "right" to prey upon 
+foreign shipping. Privateers can be very dangerous to your commerce 
+because they observe no code of international behavior the countries 
+sponsoring them will likely claim no knowledge of their actions. 
+@UNIT17
+^{FRIGATE}
+Frigates are dangerous gunships, capable of sinking or damaging 
+enemy vessels.  
+@UNIT18
+^{MAN-O-WAR}
+These powerful vessels appear in American waters when the War of 
+Independence develops. Your mother country will send them against your 
+forces, and, if foreign intervention occurs, you'll receive some to support 
+your cause. They are heavily armed with cannon and capable of carrying 
+large invasion forces or cargoes.
+@UNIT19
+^{BRAVES}
+Braves are small groups of Native Americans. They represent Indians in 
+their natural state, before receiving guns and horses from Europeans.
+@UNIT20
+^{ARMED BRAVES}
+Native Americans become increasingly dangerous as they learn to use the 
+deadly weapons of the Europeans. When a native tribe obtains guns from 
+the Europeans, some braves will be armed with them. {This, combined 
+with their knowledge of the wilderness, make them formidable opponents 
+in the woods, hills, and mountains.}
+@UNIT21
+^{MOUNTED BRAVES}
+Native American peoples did not have access to horses until the Spanish 
+brought them in the late 15th century. In some cases, Indian culture 
+changed considerably to incorporate the horse as a vital element. {Horses 
+increase the mobility and combat power of the Indians.}
+@UNIT22
+^{MOUNTED WARRIORS}
+Tribes that have horses and muskets are very dangerous. They are as good 
+as any colonial dragoons -- even better when fighting in the wilderness.
+@UNIT23
+^{Colonists}
+@TERRAIN0
+^{TUNDRA}
+This rather cold, open land can produce a minimal amount of food, but 
+little other agriculture however, you often find ore here.
+@TERRAIN1
+^{DESERT}
+These dry, sparse areas are difficult places to grow food (although it is 
+possible). You can sometimes mine ore here, though.
+@TERRAIN2
+^{PLAINS}
+These are areas good for growing a wide variety of foods. You can 
+grow a little cotton here as well.
+^
+{Food grows most abundantly here.}
+@TERRAIN3
+^{PRAIRIE}
+This is relatively flat, open land, ideal for production of cotton you can 
+also grow food crops here.
+^
+{Cotton grows most abundantly here.}
+@TERRAIN4
+^{GRASSLAND}
+Fertile soil in temperate areas, this is perfect for tobacco growing you 
+can also harvest food here.
+^
+{Tobacco grows most abundantly here.}
+@TERRAIN5
+^{SAVANNAH}
+Rich, moist soil specially suited for growing sugar cane this land is 
+good for food production, as well. 
+^
+{Sugar cane grows most abundantly here.}
+@TERRAIN6
+^{MARSH}
+A wet, briny area, this is where the sea meets the land. You can grow 
+some foods here, and you can find ore in abundance.
+@TERRAIN7
+^{SWAMP}
+These low wetlands often harbor bog deposits of ore. You can grow a 
+little food and some sugar cane here, as well.
+@TERRAIN8
+^{BORREAL FOREST}
+This is cold wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Tundra (good for ore) if cleared.}
+@TERRAIN9
+^{SCRUB FOREST}
+This is dry barren country with scattered vegetation. Some ore may be 
+found in these areas.
+^
+{Becomes Desert (good for ore) if cleared.}
+@TERRAIN10
+^{MIXED FOREST}
+This is temperate wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Plains (good for food) if cleared.}
+@TERRAIN11
+^{BROADLEAF FOREST}
+This is temperate wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Prairie (good for cotton) if cleared.}
+@TERRAIN12
+^{CONIFER FOREST}
+This is temperate, wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Grassland (good for tobacco) if cleared.}
+@TERRAIN13
+^{TROPICAL FOREST}
+This is humid wooded country that is good for woodcutting and trapping 
+fur.
+^
+{Becomes Savannah (good for sugar) if cleared.}
+@TERRAIN14
+^{WETLAND FOREST}
+This is tropical wooded country that is good for woodcutting, trapping fur, 
+and mining ore.
+^
+{Becomes Marsh (good for ore) if cleared.}
+@TERRAIN15
+^{RAIN FOREST}
+This is Tropical jungle country that is good for woodcutting, some 
+sugar, and ore.
+^
+{Becomes Swamp (good for ore) if cleared.}
+@TERRAIN16
+^{BORREAL FOREST}
+This is cold wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Tundra (good for ore) if cleared.}
+@TERRAIN17
+^{SCRUB FOREST}
+This is dry barren country with scattered vegetation. Some ore may be 
+found in these areas.
+^
+{Becomes Desert (good for ore) if cleared.}
+@TERRAIN18
+^{MIXED FOREST}
+This is temperate wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Plains (good for food) if cleared.}
+@TERRAIN19
+^{BROADLEAF FOREST}
+This is temperate wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Prairie (good for cotton) if cleared.}
+@TERRAIN20
+^{CONIFER FOREST}
+This is temperate wooded country that is good for fur trapping and 
+woodcutting.
+^
+{Becomes Grassland (good for tobacco) if cleared.}
+@TERRAIN21
+^{TROPICAL FOREST}
+This is humid wooded country that is good for woodcutting and some fur.
+^
+{Becomes Savannah (good for sugar) if cleared.}
+@TERRAIN22
+^{WETLAND FOREST}
+This is Tropical wooded country that is good for woodcutting, some fur, 
+and ore.
+^
+{Becomes Marsh (good for ore) if cleared.}
+@TERRAIN23
+^{RAIN FOREST}
+This is Tropical jungle country that is good for woodcutting, some 
+sugar, and ore.
+^
+{Becomes Swamp (good for ore) if cleared.}
+@TERRAIN24
+^{ARCTIC}
+Cold and icy, the arctic is almost incapable of supporting life.
+@TERRAIN25
+^{OCEAN}
+This is the wide open water of the sea. It is useful for fishing, 
+especially along the coasts, and in fisheries.
+@TERRAIN26
+^{SEA LANE}
+This is open ocean that leads to standard sea routes from the New World to 
+Europe, and vice-versa. To return to Europe, a ship only has to enter a 
+sea lane then move toward the east (if exiting east) or west (if exiting 
+west).
+@TERRAIN27
+^{MOUNTAINS}
+These are large areas of mountainous terrain, difficult for travel, but 
+likely sources of ore and silver. Colonies cannot be established in 
+mountain terrain.
+^
+{Silver and ore are abundant in these areas.}
+@TERRAIN28
+^{HILLS}
+A gently rolling area that offers easy access to ore you can also develop 
+some agriculture here.
+^
+{Ore is abundant here.}
+@      *** COLONIST PROFESSIONS ***
+@
+@JOB0
+^{EXPERT FARMERS} 
+Some of your people have a knack for growing food crops and an 
+understanding of weather and seasons. These experts can be found in 
+Europe as immigrants or trained at the Royal University. Some Native 
+Americans are excellent farmers,  as well, and can teach free colonists 
+and indentured servants the secrets of  agriculture. The best place for 
+farming is in the plains. 
+^
+{Expert farmers grow 2 more food in a square than other farmers.}
+@JOB1
+^{MASTER SUGAR PLANTERS}
+Planting and tending of sugar cane is a complicated job that takes 
+planning and special techniques. Only the Native Americans are 
+knowledgeable enough to be called experts, and only they can teach your 
+people to do it. However, a colonist that works at it long enough may 
+become a master himself.
+^
+{The best place for sugar cultivation is in the savannah.}
+^
+{Master sugar planters are twice as productive as others.}
+@JOB2
+^{MASTER TOBACCO PLANTERS}
+Tobacco is found in great abundance in the New World. It is cultivated and 
+used by the Native Americans for many ritual as well as leisure purposes. 
+Some Indians have great knowledge of this mysterious weed and will help 
+your people become masters at cultivating it.
+^
+{The best place for tobacco cultivation is in the grasslands.}
+^
+{Master tobacco planters are twice as productive at growing tobacco than 
+others.}
+@JOB3
+^{MASTER COTTON PLANTERS}
+The cotton found in the New World is of high quality, capable of being 
+spun into fine fabrics and garments. Master planters of cotton must be 
+trained by the Native Americans who have learned through years of 
+experience the best ways to cultivate this staple crop.
+^
+{The best place for cotton cultivation is in the prairie.}
+^
+{Master cotton planters are twice as productive at growing cotton than 
+all others.}
+@JOB4
+^{MASTER FUR TRAPPERS}
+The New World is abundantly supplied with fur-bearing mammals whose 
+pelts can be sold for a handsome profit in Europe. Native Americans have 
+long studied and trapped these creatures for their fur and meat. Your 
+people can learn the ways of the forest creatures and become master 
+trappers only from the Indians.
+^
+{The best place to find fur is in wooded country, especially in colder 
+climates.}
+^
+{A master trapper is twice as productive as other trappers.}
+@JOB5
+^{EXPERT LUMBERJACKS}
+Lumber has long been a necessity in both New and Old Worlds. Expert 
+lumber men can be found on the docks of Europe or trained there.
+^
+{The best places for lumber cutting are forests and woodlands.}
+^
+{Expert lumberjacks are able to yield twice as much lumber as others.}
+@JOB6
+^{EXPERT ORE MINERS}
+Since the Iron Age, mining has been an important occupation in the Old 
+World. There are many experts there who understand minerals and 
+deposits, veins and mine construction. You can get expert miners from the 
+European Docks or from training them.
+^
+{The best places to find ore are mountains, hills, and swamps, especially 
+where 
+there are mineral deposits.}
+^
+{Expert ore miners are twice as productive as others.}
+@JOB7
+^{EXPERT SILVER MINERS}
+Like ore mining, silver mining is an important and lucrative skill that is 
+widely understood in Europe.
+^
+{The best place to find silver is in the mountains, especially where there 
+are deposits.}
+^
+{Expert silver miners are twice as productive as others.}
+@JOB8
+^{EXPERT FISHERMEN}
+Fishing has long been a lucrative business in Europe, and many of your 
+immigrants come with expertise in this area -- an understanding of the 
+habits and habitats of fish. The best places to fish are along the coasts of 
+the oceans and in the lakes.
+^	
+{In general the more land that borders the square in which a fisherman 
+works, 
+the more productive he is.}
+^
+{Expert fisherman are twice as productive as others.} 
+@JOB9
+^{EXPERT DISTILLERS}
+The craft of transforming raw {sugar into rum} and other spirits is as old 
+as civilization itself. Some of the immigrants that come to your shores 
+will have knowledge of these techniques.
+^
+{An expert distiller is twice as productive as an ordinary colonist 
+working as a distiller.}
+@JOB10
+^{MASTER TOBACCONISTS}
+After observing the Indians smoking tobacco and learning the many 
+nuances of pipe and cigar construction, a small industry has risen in 
+Europe to take advantage of this new market. Tobacconists convert 
+{tobacco into cigars.} Master tobacconists appear on the Docks in Europe 
+or can be trained there.
+^
+{A master tobacconist is twice as productive as an ordinary colonist 
+working as a tobacconist.}
+@JOB11
+^{MASTER WEAVERS}
+Weaving is an age-old craft that dates back as far as human memory. 
+Weavers convert cotton into cloth and appear in Europe as immigrants, or 
+can be trained there.
+^
+{Master weavers are twice as productive as others at weaving cotton into 
+cloth.}
+@JOB12 
+^{MASTER FUR TRADERS}
+The abundance of fur in the New World has vitalized the fur industry in 
+Europe, and many expert furriers are coming to the New World to make 
+their fortunes. Fur traders convert furs into coats and you get expert fur 
+traders from the docks, or you can train them.
+^
+{Master fur traders are twice as productive as other colonists working 
+as traders converting fur into coats.}
+@JOB13
+^{EXPERT CARPENTERS}
+The timberland of the New world provides the raw materials for a host of 
+construction projects. A master carpenter is essential to the development 
+of your colonial society. Master carpenters appear on the docks in Europe 
+or can be trained there.
+^
+{They are twice as productive as an ordinary colonistS working as 
+carpenters, 
+converting lumber into buildings.}
+@JOB14
+^{EXPERT BLACKSMITHS}
+Metal working is an essential ingredient to successful colonization. 
+Blacksmiths can repair metal implements and create new ones. 
+Blacksmiths transform {ore into tools.} Expert blacksmiths appear on the 
+docks in Europe or can be trained there.
+^
+{Expert blacksmiths are twice as productive as ordinary colonists 
+working as blacksmiths.}
+@JOB15
+^{MASTER GUNSMITHS}
+The ability to arm your people with weapons is fundamental in your 
+journey towards independence. Gunsmiths transform {tools into muskets.} 
+Expert gunsmiths appear on the docks in Europe or can be trained there.
+^
+{They are twice as productive as an ordinary colonist working as a 
+gunsmith.}
+@JOB16
+^{FIREBRAND PREACHERS}
+Religious unrest in Europe is a catalyst for immigration to the New 
+World and is increased by preachers in the new world. Preachers produce 
+crosses, representing religious freedom in the New World. The more 
+crosses produced in America, the faster immigrants flock to the docks in 
+Europe.
+^
+{A firebrand preacher produces twice the number of crosses as another 
+colonists preaching in a church or cathedral.}
+@JOB17
+^{ELDER STATESMEN}
+Politicians are valuable members of your society, for they 
+build your political infrastructure. Statesmen produce Liberty Bells, 
+representing governmental sophistication and patriotic fervor. Elder 
+statesmen can be trained in Europe or found on the docks there.
+^
+{Elder statesmen produce twice the number of Liberty Bells as ordinary 
+colonists working as statesmen in the Town Hall.}
+@
+@JOB18
+^{Student}
+@JOB19
+^{FREE COLONISTS}
+Free Colonists are immigrants desiring to go to the New World as free 
+men and women and willing to work for the good of their communities. 
+Free colonists are productive in all spheres of work -- in the fields and 
+in the cottages. Short of being specially trained in a trade, they are the 
+most productive members of your society.
+@JOB20
+^{HARDY PIONEERS}
+A special breed of men and women come to the new world and carve a 
+civilization out of the wilderness. Your pioneers are the advance guard of 
+your new society. They build the roads, clear the land, and plow the fields. 
+A pioneer can be created by giving any colonist tools, but hardy pioneers 
+can be found on the docks of Europe, or trained.
+^
+{Hardy pioneers perform all pioneer functions faster than ordinary 
+colonists working as pioneers.}
+@JOB21
+^{VETERAN SOLDIERS}
+Any colonist can become a soldier if given muskets, but only experience in 
+combat or training can create veterans. Veterans of European wars 
+occasionally immigrate and appear on the docks, or you can train them in 
+the Royal University. Additionally soldiers that win battles eventually 
+become veterans.
+@JOB22
+^{SEASONED SCOUTS}
+Any colonists mounted on horses may act as scouts. They see farther, move 
+faster, and have the ability to gather information about foreign 
+settlements, including Indian towns and villages. Seasoned scouts do all the 
+above more effectively and safely. Seasoned scouts sometimes appear as 
+immigrants on the Docks in Europe. Other times, scouts become seasoned 
+after visiting Indian settlements.
+@JOB23
+^{VETERAN DRAGOONS}
+Until the rise of your Continental Army, your veteran dragoons are the 
+best military units you have. Dragoons are like soldiers in all respects 
+except they are mounted on horseback and are thus slightly more 
+powerful. They attain veteran status, like soldiers, through training or 
+experience.
+@JOB24
+{JESUIT MISSIONARIES}
+^The Jesuits are zealous christians who will gladly enter the lands and 
+villages of the natives, establish missions, and live among them to teach 
+the ways of Christianity. They serve as ambassadors to the natives and can 
+often convince them to go to war for your cause against rival Europeans. 
+Their main function is to asuage the anger of the native tribes and create 
+converts.
+^
+{Jesuit missionaries are much more effective at all missionary tasks than 
+ordinary colonists that have been blessed as missionaries.}
+@JOB25
+^{INDENTURED SERVANTS}
+Indentured Servants are people desiring to come to the New World but 
+who cannot afford to pay their own way. They, accordingly, put 
+themselves into bondage and agree to work off their passage in the New 
+World. They, like petty criminals, are useful workers in the fields and 
+mines, but are less productive than free colonists in manufacturing and 
+processing jobs. But, through education or military experience, they can 
+become free colonists.
+@JOB26
+^{PETTY CRIMINALS}
+Petty Criminals have been ordered to the New World as punishment for 
+their crimes. In general, criminals are the {least productive members of 
+your communities.} They make good laborers but are almost totally 
+ineffective in manufacturing or processing jobs. But, through education 
+or military experience, they can become servants.
+@JOB27
+^{INDIAN CONVERTS}
+Missionaries working among the native population are able to convince 
+some of the Indians of the veracity of Christianity. These converts are 
+good outdoorsmen -- good at all the outdoor professions. However, they 
+are not well suited to manufacturing or processing jobs.
+@      *** BUILDINGS ***
+@BUILDING0
+^{STOCKADE}
+A stockade is a low wooden barricade made of poles, sharpened at the top, 
+with loop holes for firing muskets, and crude inside shelves for gunners. 
+^
+The construction of a stockade around a settlement represents a 
+significant effort from the community and is a symbol of a willingness to 
+stay for a while. Construction of a stockade may be started when the 
+colony is still quite small (population 3). Once the stockade is completed, 
+the population of the colony may not voluntarily be reduced to less than 3.
+^
+{A unit defending a colony inside a stockade has its defense strength 
+increased by 100%%.}
+@BUILDING1
+^{FORT}
+A fort is a substantial improvement over the stockade and can be 
+built when the {population reaches 4} and already has a stockade in place. 
+The stockade is reinforced with metal braces, artillery is installed to 
+cover exposed approaches, and substantial defensive planning is evident. A 
+fort overlooking the ocean will slow the progress of foreign vessels and 
+open fire on them if they venture too close.
+^
+{The defense strength of a unit defending a colony in a fort is increased 
+by 150%%.}
+@BUILDING2
+^{FORTRESS}
+A fortress is an upgraded fort that can be built when the {population of the 
+colony reaches 8} and already has a fort in place. The stout wooden 
+barricade is reinforced and, in critical spots, replaced by stone masonry. 
+Embrasures now house the artillery, which is more extensively used. 
+Well-planned, overlapping fields of fire characterize the exterior 
+approaches. A fortress overlooking the ocean will slow the progress of 
+foreign vessels and open fire on them if they venture too close.
+^
+{Units receive a 200%% defense bonus inside fortresses.}
+@BUILDING3
+^{ARMORY}
+Your people can construct an armory, a metal-working facility which 
+allows the steady construction of muskets out of tools.
+^
+{The armory allows your carpenters to make artillery units, and your 
+gunsmiths to convert tools into muskets.}
+@BUILDING4
+^{MAGAZINE}
+An armory can be upgraded into a magazine when the colony's population 
+reaches 8.
+^
+{A magazine doubles the output of muskets if the required tools are 
+available.}
+@BUILDING5
+^{ARSENAL}
+A magazine can be upgraded into an arsenal when the colony's population 
+is 8.
+^
+{An arsenal doubles the output of muskets, if the required tools are 
+available.}
+@BUILDING6
+^{DOCKS}
+Docks are the moorings and wharves necessary to process fish garnered 
+from the various fishing beds and fisheries scattered along the coasts of 
+the New World.
+^
+{Docks allow your colonists to work as fishermen in any ocean or lake 
+square adjacent to the colony.}
+@BUILDING7
+^{DRYDOCKS}
+Drydocks include facilities and equipment for repairing ships and boats 
+that have been damaged in naval combat. There is a drydock in your 
+mother country at all times, but your people can construct a drydock in 
+any coastal colony which already contains docks and has a population of 6. 
+Whenever a naval unit is damaged, it is placed automatically in the 
+nearest drydock for repairs.
+^
+{The presence of drydocks in a colony enables that colony to repair
+damaged ships, instead of having them returned to Europe.}
+@BUILDING8
+^{SHIPYARD}
+Shipyards are facilities that contain all equipment necessary to build 
+ships.
+^
+{The presence of a shipyard in a colony enables carpenters to construct 
+ships.}
+@BUILDING9
+^{TOWN HALL}
+A town hall is one of the first structures the founders put together. It 
+provides a place where the colonists from the surrounding area can gather 
+to discuss issues facing the community. This is the first inkling of 
+colonial government. A colonist in the meeting house produces Liberty 
+Bells, which represent growing nationalism and colonial government. An 
+elder statesman in a meeting house produces many Liberty Bells.
+@BUILDING10
+^{TOWN HALL} 
+@BUILDING11
+^{COLONIAL ASSEMBLY}
+@BUILDING12
+^{SCHOOLHOUSE}
+To begin educating your citizenry, you must build a schoolhouse. It can be 
+built when your population is 4. {The schoolhouse allows the following 
+specialists to teach their skills to other colonists:}
+^ù Expert Farmer
+^ù Expert Fisherman
+^ù Expert Silver Miner
+^ù Expert Ore Miner
+^ù Expert Lumberjack
+^ù Master Fur Trapper
+^ù Master Carpenter
+^ù Hardy Pioneer
+^ù Seasoned Scout
+@BUILDING13
+^{COLLEGE}
+A Schoolhouse can be upgraded to a college when the population reaches 8. 
+It functions identically to the schoolhouse, except: {Two specialists may 
+teach simultaneously, and the following additional skills may be taught.}
+^ù Master Sugar Planter
+^ù Master Cotton Planter
+^ù Master Tobacco Planter
+^ù Master Distiller
+^ù Master Weaver
+^ù Master Tobacconist
+^ù Master Fur Trader
+^ù Master Blacksmith
+^ù Master Gunsmith
+^ù Veteran Soldier
+@BUILDING14
+^{UNIVERSITY}
+A college may be upgraded to a university when the {population reaches 
+10.} It functions like a college, except:
+^
+{Three specialists may teach simultaneously, and the following additional 
+skills may be taught:}
+^ù Jesuit Missionary
+^ù Firebrand Preacher
+^ù Elder Statesman
+@BUILDING15
+^{WAREHOUSE}
+Normally, the storage facilities in each of your colonies can hold up to 
+100 of each cargo type. Your carpenters can construct a larger 
+warehouse.
+^
+{A warehouse can hold up to 200 of each cargo type.}
+@BUILDING16
+^{WAREHOUSE EXPANSIONS}
+Normally, a warehouse can hold up to 200 of each cargo type. Your 
+carpenters can construct an expansion to the warehouse, which adds 
+another 100 to the total capacity. A warehouse with an expansion looks 
+exactly like the normal warehouse, but a "2" is superimposed on it.
+@BUILDING17
+^{STABLES}
+Stables are built in a colony to {increase breeding of horses.} Once the 
+stables are completed, {horse reproduction is doubled.}
+@BUILDING18
+^{CUSTOM HOUSE}
+After {Peter Stuyvesant} has joined the Continental Congress, your 
+carpenters may construct custom houses. A custom house serves as a 
+permanent arrangement between the colony that constructs it and the 
+mother country. {Once completed, you sell goods and commodities on a 
+regular basis to Europe,} and the logistics are taken care of for you. 
+You no longer have to load and unload cargo or move the ships.
+^
+{A custom house also allows trade with Europe to continue after the 
+Rebellion has begun otherwise, access to European markets is closed.}
+@BUILDING19
+^{PRINTING PRESS}
+Printing presses and newspapers provide a forum for public expression. 
+This public forum can create a sense of community and brotherhood which 
+generates feelings of patriotism within a colony.
+^
+{When the the printing press is completed, Liberty Bell production 
+within the colony is increased by 50%%.} 
+@BUILDING20
+^{NEWSPAPER}
+Newspapers provide a forum for public expression of concerns facing the 
+people. This public forum can create a sense of community and 
+brotherhood which generates feelings of patriotism within a colony.
+^
+{When the the newspaper is completed, Liberty Bell production within 
+the colony is increased by 100%%.}
+@BUILDING21
+^{WEAVER'S HOUSE}
+A new strain of cotton is used by the Indians in America, and some 
+colonists work with it to weave a fine grade of cloth. {A colonist working 
+in the weaver's house can produce cloth} if there is cotton available to 
+work with. Any cloth produced accumulates in the warehouse.
+@BUILDING22
+^{WEAVER'S SHOP}
+A weaver's shop in a colony {increases the output of cloth by any 
+weavers}. The colony must have a {population of at least 4} to begin 
+construction of a weaver's shop.
+@BUILDING23
+^{TEXTILE MILL}
+A weaver's shop may be upgraded into a textile mill. A textile mill 
+dramatically increases the efficiency of operations and thus produces 
+{more cloth per unit of cotton.} Your Continental Congress must contain 
+{Adam Smith} and the {population of the colony must be at least 8} to 
+begin construction of this facility.
+@BUILDING24
+^{TOBACCONIST'S HOUSE}
+Some of the colonists have discovered tobacco from the natives and are 
+already learning how to cure and dry the weed and to make cigars from it. 
+Someday, this crop may grow into a major industry.
+^
+{A colonist working in the tobacconist's house can produce cigars if there 
+is tobacco available.} Any cigars produced accumulate in the warehouse.
+@BUILDING25
+^{TOBACCONIST'S SHOP}
+A tobacconist's shop in a colony {increases the output of cigars} by any 
+tobacconists. The colony must have a {population of at least 4 } to begin 
+construction of a tobacconist's shop.
+@BUILDING26
+^{CIGAR FACTORY}
+The tobacconist's shop may be upgraded into a cigar factory. A cigar 
+factory dramatically increases the efficiency of operations, and thus 
+produces {more cigars per unit of tobacco.} Your Continental Congress 
+must contain {Adam Smith} and the {population of the colony must be at 
+least 8} to begin construction of this facility.
+@BUILDING27
+^{RUM DISTILLER'S HOUSE}
+In some areas, fine cane sugar can be cultivated some of the natives 
+cultivate large fields of it. The colonists know that it can be processed to 
+produce rum.
+^
+{A colonist in the distiller's house can produce rum if there 
+is sugar on hand to work with.} The rum is bottled and stored in the 
+warehouse.
+@BUILDING28
+^{RUM DISTILLERY}
+A rum distillery in a colony {increases the output of rum} by any 
+distillers. The colony must have a {population of at least 4} to begin 
+construction of a distillery.
+@BUILDING29
+^{RUM FACTORY}
+A distillery may be upgraded into a rum factory. A rum factory 
+dramatically increases the efficiency of operations, and thus produces 
+{more rum per unit of sugar.} Your Continental Congress must contain 
+{Adam Smith} and the {population of the colony must be at least 8} to 
+begin construction of this facility.
+@BUILDING30
+^{CAPITOL}
+@BUILDING31
+^{CAPITOL EXPANSION} 
+@BUILDING32
+^{FUR TRADER'S HOUSE}
+One of the first things your colonists notice when they get to America is 
+the incredible abundance of fur-bearing mammals and the tremendous 
+use that some of the Indians make of these pelts. They also realized the 
+profit that can be made from selling the fur or making clothing from it. 
+^
+{A colonist working in the fur trader's house can produce coats,} if there 
+is fur available to work with. The coats will accumulate in the warehouse.
+@BUILDING33
+^{FUR TRADER'S SHOP}
+A fur trader's shop in a colony {increases the output of coats} by any 
+traders. The colony must have a {population of at least 4 } to begin 
+construction of a fur trader's shop.
+@BUILDING34
+^{COAT FACTORY}
+A fur trader's shop may be upgraded into a coat factory. A coat factory 
+dramatically increases the efficiency of operations, and thus produces 
+{more coats per unit of fur.} Your Continental Congress must contain 
+{Adam Smith} and the {population of the colony must be at least 8} to 
+begin construction of this facility.
+@BUILDING35
+^{CARPENTER'S SHOP}
+The community builds a carpenter's shop because of the obvious need for 
+constructing all sorts of items for the good of the community. A colonist 
+working in a carpenter's shop {produces hammers,} which accumulate 
+{to construct buildings} and structures in the settlement. Note, however, 
+that the carpenter {needs lumber to create hammers.}
+@BUILDING36
+^{LUMBER MILL}
+The humble carpenter's shop can be improved and upgraded to make those 
+working there more effective. You may upgrade a carpenter's shop into 
+a lumber mill when the {population of the colony reaches 3.} It {doubles 
+the output of hammers} from any colonists working there (but requires 
+an equal amount of lumber, of course).
+@BUILDING37
+^{CHURCH}
+A church may be constructed almost immediately upon landing on the 
+shores of the New World. The {population of a colony need only be 3.} This 
+causes {increased cross production} instantly, but putting colonists to 
+work in the new structure creates many more.
+@BUILDING38
+^{CATHEDRAL}
+A church may be upgraded to a cathedral when the {population reaches 8,} 
+dramatically {increasing the colony's cross production} and that of any 
+colonists preaching there.
+@BUILDING39
+^{BLACKSMITH'S HOUSE}
+The Colonial community helps build the blacksmith's house for much the 
+same reasons as the carpenter's shop. They realize the need for basic 
+metal goods -- tools, repairs of existing implements, and so on. {A 
+colonist working in the blacksmith shop can produce tools,} which 
+accumulate in the settlement's warehouse. The blacksmith {needs ore} to 
+produce tools.
+@BUILDING40
+^{BLACKSMITH'S SHOP}
+A Blacksmith's House may be expanded into a larger facility that 
+{increases the production of tools.} You may begin the project when the 
+colony's {population reaches 4.}
+@BUILDING41
+^{IRON  WORKS}
+Your colonists may construct an Ironworks when the {population of the 
+colony reaches 8.} It is a major facility for metal-working/production 
+and dramatically {increases tool output.} The Ironworks is a factory level 
+building and may not be built until {Adam Smith} joins your Continental 
+Congress.

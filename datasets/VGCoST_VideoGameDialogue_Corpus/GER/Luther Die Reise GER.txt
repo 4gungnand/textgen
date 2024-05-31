@@ -1,0 +1,218 @@
+@Luther: Die Reise GER, Developer: Target Games, 2017, Android/iOS.
+@Herzlichen Dank an Anne Sauer and Martin Thiele-Schwez von Target Games für die Bereitstellung der Texte.
+
+
+Personen
+Gegenstände
+Spiel fortsetzen
+Glossar
+Daten aktualisieren
+Spiel starten
+Neues Spiel
+Sprache
+Mitwirkende
+Menü
+Abkürzung
+Handeln
+Abbrechen
+Verfolger
+abkürzung
+...
+Fortsetzen
+Ungewisser Effekt
+In-App-Purchase
+Verlust von
+Erhalt von
+Verfolger kommen um
+näher
+Verfolger verlieren
+
+Km
+
+Offline
+Es kann keine Verbindung mit dem Internet hergestellt werden.
+Offline spielen
+Verbindung herstellen
+
+Schwierigkeitsgrad wählen
+Einfach
+Mittel
+Fegefeuer
+Starten
+Gesperrt
+Das Fegefeuer wartet noch nicht auf euch. Spielt es frei!
+
+Laufendes Spiel
+Soll der vorhandene Spielstand überschrieben werden?
+Überschreiben
+Abbrechen
+
+Erwischt
+Du hast das Level nicht geschafft.
+Level Neustart
+
+Level geschafft
+Du hast das nächste Ziel erreicht.
+Nächstes Level
+
+Spiel gewonnen
+Du hast das Ziel deiner Reise erreicht.
+Juhu
+
+Neuer Glossareintrag!
+
+DU WIRST LANGSAMER!
+Versorge die Reisenden um schneller voranzukommen
+DU WIRST SCHNELLER!
+Versorge die Reisenden um die Geschwindigkeit beizubehalten
+
+OK
+
+Zufriedenheit
+Angebot
+Unser Angebot
+
+Reisefortschritt
+Starten
+
+Das sind Luther und seine Gefährten
+Jede Person hat vier Grundbedürfnisse...
+... und zwei Inventarplätze
+Die Verfolger sind uns auf den Fersen
+Es gibt drei mögliche Reisegeschwindigkeiten
+Luthers Predigt hilft gegen Zweifel
+Bei Müdigkeit hilft eine Rast
+Abkürzungen sind rar aber hilfreich
+
+Fehler beim Kauf
+Es konnte keine Verbindung zum online Store hergestellt werden.
+Ein anderer Kauf ist in Bearbeitung.
+Das Produkt steht derzeit nicht zur Verfügung.
+Die Signatur ist ungültig.
+Der Kauf wurde abgebrochen.
+Die Zahlung wurde abgewiesen.
+Doppelte Transaktion registriert.
+Der Kauf konnte nicht durchgeführt werden.
+Zurück
+Online kaufen
+
+Erwerben
+Vollversion
+DER ABLASSBRIEF
+"Entgeht dem virtuellen Fegefeuer und befreit Euch von Euren Sünden.
+Schaltet die Schwierigkeitsstufe ""Fegefeuer"" frei."
+DU HAST EINEN ABLASSBRIEF ERWORBEN
+Schwierigkeitsstufe "Fegefeuer" ist nun verfügbar.
+Ablass
+"Wer nicht will geschmort,
+gebraten oder gehackt werden,
+noch ewig in der Hölle brennen,
+der kaufe Ablässe,
+Gnade und Vergebungen,
+für wenig Geld:
+Gott wird´s ihm vergelten."
+Halt! Möchtest du weiter?
+Haltet ein! Dieser Weg ist versperrt. Für eine kleine Spende dürft ihr weiter gehen. 
+
+Verbindungsaufbau
+Die Verbindung wird hergestellt.
+Abbrechen
+
+"Mitwirkende
+
+Idee
+Thorsten Unger 
+Jens Fiedler
+
+Gamedesign & Konzept
+Martin Thiele-Schwez
+
+Jannis Goossens
+Thorsten Unger
+Jens Fiedler
+
+Producer
+Andre Bernhardt 
+Thorsten Unger
+
+Creative Director
+Jens Fiedler 
+
+Development
+Michael Benda 
+Philipp Schäfer 
+
+Musik & Audio Design
+Markus Vögeler 
+
+Historische Beratung
+Mirko Gutjahr 
+
+Eine Produktion von
+Target Games
+
+In Kooperation mit
+IJsfontein Interactive Media 
+Zeppelin Studio
+Unger & Fiedler
+
+Gefördert von
+Medienboard Berlin Brandenburg
+Film und Medien Stiftung NRW 
+
+Unterstützt von
+Gemeinschaftswerk der Evangelischen Publizistik gGmbH (GEP)
+Stiftung Luthergedenkstätten in Sachsen-Anhalt
+
+
+Bildnachweise
+CC-BY-SA 4.0, Reinhard Kraasch
+
+"
+"Idee
+Thorsten Unger 
+Jens Fiedler
+
+Gamedesign & Konzept
+Martin Thiele-Schwez
+
+Jannis Goossens
+Thorsten Unger
+Jens Fiedler
+
+Producer
+Andre Bernhardt 
+Thorsten Unger
+
+Creative Director
+Jens Fiedler
+"
+"Development
+Michael Benda 
+Philipp Schäfer 
+
+Musik & Audio Design
+Markus Vögeler 
+
+Historische Beratung
+Mirko Gutjahr 
+
+Eine Produktion von
+Target Games
+
+In Kooperation mit
+IJsfontein Interactive Media 
+Zeppelin Studio
+Unger & Fiedler
+"
+"Gefördert von
+Medienboard Berlin Brandenburg
+Film und Medien Stiftung NRW 
+
+Unterstützt von
+Gemeinschaftswerk der Evangelischen Publizistik gGmbH (GEP)
+Stiftung Luthergedenkstätten in Sachsen-Anhalt
+
+Bildnachweise
+CC-BY-SA 4.0, Reinhard Kraasch
+"
